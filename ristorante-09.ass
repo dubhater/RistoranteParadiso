@@ -27,276 +27,276 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:02:51.58,0:02:56.05,Ristorante,Sign,0000,0000,0000,,Day Off from the Ristorante
 Comment: 0,0:20:34.93,0:21:00.83,Ristorante,Sign,0000,0000,0000,,Secret Love
 
-Dialogue: 0,0:00:04.65,0:00:06.57,Ristorante,FV,0000,0000,0000,,What the hell is this?
-Dialogue: 0,0:00:06.57,0:00:09.07,Ristorante,FV,0000,0000,0000,,And you call yourself a professional?
-Dialogue: 0,0:00:09.82,0:00:15.82,Ristorante,FV,0000,0000,0000,,Some dreamy-eyed young apprentice would be more useful than an unmotivated bum like you.
-Dialogue: 0,0:00:16.30,0:00:18.22,Ristorante,FV,0000,0000,0000,,What is it that you want to do?
-Dialogue: 0,0:00:18.22,0:00:21.09,Ristorante,FV,0000,0000,0000,,Didn't you ever have a dream?
-Dialogue: 0,0:00:28.59,0:00:30.25,Ristorante,MV,0000,0000,0000,,You're quitting?
-Dialogue: 0,0:00:31.12,0:00:34.83,Ristorante,MV,0000,0000,0000,,That's why you were calling chefs from other restaurants.
-Dialogue: 0,0:00:35.31,0:00:37.63,Ristorante,FV,0000,0000,0000,,I certainly can't count on you to do that.
-Dialogue: 0,0:00:39.55,0:00:42.18,Ristorante,MV,0000,0000,0000,,Don't ever set foot in there again.
-Dialogue: 0,0:00:42.30,0:00:47.69,Ristorante,FV,0000,0000,0000,,Are you still going to have a job here the next time I drop by?
-Dialogue: 0,0:01:02.57,0:01:04.49,Ristorante,MV,0000,0000,0000,,Some stay and some go.
-Dialogue: 0,0:01:05.11,0:01:08.06,Ristorante,MV,0000,0000,0000,,The restaurant holds people's histories within them.
-Dialogue: 0,0:01:08.70,0:01:11.34,Ristorante,MV,0000,0000,0000,,Various personalities have mixed...
-Dialogue: 0,0:01:12.06,0:01:15.65,Ristorante,MV,0000,0000,0000,,in this restaurant that sits on a corner of Rome.
-Dialogue: 0,0:02:43.93,0:02:45.88,Ristorante,FV,0000,0000,0000,,So it's really broken?
-Dialogue: 0,0:02:51.60,0:02:54.25,Ristorante,MV,0000,0000,0000,,I thought it felt a little cold in here.
-Dialogue: 0,0:02:54.25,0:02:55.40,Ristorante,MV,0000,0000,0000,,When will it be fixed?
-Dialogue: 0,0:02:55.40,0:02:56.75,Ristorante,MV,0000,0000,0000,,Tomorrow, at the earliest.
-Dialogue: 0,0:02:56.75,0:02:58.78,Ristorante,MV,0000,0000,0000,,It could be until the following day.
-Dialogue: 0,0:02:59.07,0:03:01.51,Ristorante,MV,0000,0000,0000,,If it's just one day, I think it'll be fine.
-Dialogue: 0,0:03:01.51,0:03:04.10,Ristorante,MV,0000,0000,0000,,It's been pretty warm lately.
-Dialogue: 0,0:03:04.10,0:03:08.27,Ristorante,MV,0000,0000,0000,,No, to be safe, we should close for the day.
-Dialogue: 0,0:03:08.27,0:03:12.12,Ristorante,MV,0000,0000,0000,,I'll explain it to the customers who made reservations.
-Dialogue: 0,0:03:12.12,0:03:15.50,Ristorante,MV,0000,0000,0000,,We can't have anyone catching a cold now.
-Dialogue: 0,0:03:34.62,0:03:35.85,Ristorante,MV,0000,0000,0000,,Hey there.
-Dialogue: 0,0:03:36.25,0:03:37.57,Ristorante,FV,0000,0000,0000,,Buon giorno.
-Dialogue: 0,0:03:37.57,0:03:39.77,Ristorante,MV,0000,0000,0000,,Have you put some thought into the new menu?
-Dialogue: 0,0:03:39.77,0:03:41.27,Ristorante,FV,0000,0000,0000,,You bet I did!
-Dialogue: 0,0:03:43.21,0:03:46.45,Ristorante,MV,0000,0000,0000,,It looks like the market beat us to spring.
-Dialogue: 0,0:03:46.45,0:03:49.64,Ristorante,MV,0000,0000,0000,,I'm delighted to be thinking up the new menu.
-Dialogue: 0,0:03:49.64,0:03:53.72,Ristorante,FV,0000,0000,0000,,Say, I thought up a dish. If it's really good...
-Dialogue: 0,0:03:53.72,0:03:56.66,Ristorante,MV,0000,0000,0000,,You want to see if it'll end up on the menu?
-Dialogue: 0,0:03:56.66,0:03:58.60,Ristorante,MV,0000,0000,0000,,I remember.
-Dialogue: 0,0:03:58.60,0:04:00.96,Ristorante,MV,0000,0000,0000,,But, I don't think that's gonna happen.
-Dialogue: 0,0:04:00.96,0:04:03.55,Ristorante,MV,0000,0000,0000,,Oh, come on! We won't know until I try!
-Dialogue: 0,0:04:03.55,0:04:04.56,Ristorante,MV,0000,0000,0000,,I know, I know.
-Dialogue: 0,0:04:15.67,0:04:18.51,Ristorante,FV,0000,0000,0000,,I've got to start with the very basics.
-Dialogue: 0,0:04:35.90,0:04:37.75,Ristorante,MV,0000,0000,0000,,Grilled scampi.
-Dialogue: 0,0:04:38.98,0:04:41.34,Ristorante,MV,0000,0000,0000,,Veal sirloin.
-Dialogue: 0,0:04:42.48,0:04:44.09,Ristorante,FV,0000,0000,0000,,Frittatas.
-Dialogue: 0,0:04:45.89,0:04:46.99,Ristorante,MV,0000,0000,0000,,Buon appetito.
-Dialogue: 0,0:04:56.98,0:05:01.34,Ristorante,MV,0000,0000,0000,,You know, if you kick the flavoring up a notch, I think it'll work.
-Dialogue: 0,0:05:01.34,0:05:02.65,Ristorante,MV,0000,0000,0000,,I agree 100%.
-Dialogue: 0,0:05:02.65,0:05:06.23,Ristorante,MV,0000,0000,0000,,If you marinated the meat a bit longer, and lightened up the sauce just a bit...
-Dialogue: 0,0:05:06.23,0:05:08.73,Ristorante,FV,0000,0000,0000,,Guys, taste mine too!
-Dialogue: 0,0:05:08.73,0:05:11.07,Ristorante,MV,0000,0000,0000,,With no further ado.
-Dialogue: 0,0:05:24.37,0:05:26.34,Ristorante,MV,0000,0000,0000,,The presentation is nice...
-Dialogue: 0,0:05:26.34,0:05:27.89,Ristorante,MV,0000,0000,0000,,...but it tastes like crap.
-Dialogue: 0,0:05:29.50,0:05:32.06,Ristorante,FV,0000,0000,0000,,M-M-Maybe I overcooked the eggs...
-Dialogue: 0,0:05:32.06,0:05:33.43,Ristorante,MV,0000,0000,0000,,You lack fundamentals.
-Dialogue: 0,0:05:34.53,0:05:38.41,Ristorante,FV,0000,0000,0000,,Th-That's because you won't teach them to me!
-Dialogue: 0,0:05:38.41,0:05:40.91,Ristorante,MV,0000,0000,0000,,Didn't you graduate culinary school?
-Dialogue: 0,0:05:40.91,0:05:44.44,Ristorante,MV,0000,0000,0000,,Learn them on the job, by yourself.
-Dialogue: 0,0:05:44.44,0:05:48.90,Ristorante,MV,0000,0000,0000,,Now, guys... There's no need to overcomplicate matters.
-Dialogue: 0,0:05:48.90,0:05:51.29,Ristorante,FV,0000,0000,0000,,Well, you need to work on your plating!
-Dialogue: 0,0:05:51.29,0:05:52.80,Ristorante,MV,0000,0000,0000,,Gigi plated it.
-Dialogue: 0,0:05:54.92,0:05:57.13,Ristorante,FV,0000,0000,0000,,Wh-When did he...
-Dialogue: 0,0:05:57.12,0:06:00.30,Ristorante,MV,0000,0000,0000,,Gigi, is the technician still going to be a while?
-Dialogue: 0,0:06:02.05,0:06:06.67,Ristorante,FV,0000,0000,0000,,G-Gigi, you prefer more attractive plating, don't you?
-Dialogue: 0,0:06:06.67,0:06:08.57,Ristorante,MV,0000,0000,0000,,All that matters is the taste.
-Dialogue: 0,0:06:10.23,0:06:12.14,Ristorante,MV,0000,0000,0000,,Something smells delectable.
-Dialogue: 0,0:06:12.14,0:06:16.46,Ristorante,FV,0000,0000,0000,,Claudio! Did you come to support me?
-Dialogue: 0,0:06:16.46,0:06:19.10,Ristorante,MV,0000,0000,0000,,I wanted to see how the repairs are coming.
-Dialogue: 0,0:06:19.10,0:06:21.41,Ristorante,MV,0000,0000,0000,,I'm glad we closed for the day.
-Dialogue: 0,0:06:21.41,0:06:23.03,Ristorante,MV,0000,0000,0000,,It's freezing today.
-Dialogue: 0,0:06:23.03,0:06:26.76,Ristorante,MV,0000,0000,0000,,Are you sure you didn't close because you can't stand a little cold?
-Dialogue: 0,0:06:26.76,0:06:29.20,Ristorante,FV,0000,0000,0000,,A lady gets cold easily!
-Dialogue: 0,0:06:29.20,0:06:31.29,Ristorante,FV,0000,0000,0000,,Claudio is just considerate of that.
-Dialogue: 0,0:06:31.29,0:06:33.04,Ristorante,FV,0000,0000,0000,,Oh, right! Claudio!
-Dialogue: 0,0:06:33.04,0:06:33.83,Ristorante,MV,0000,0000,0000,,Yes?
-Dialogue: 0,0:06:33.83,0:06:35.15,Ristorante,FV,0000,0000,0000,,Come here!
-Dialogue: 0,0:06:36.57,0:06:38.38,Ristorante,FV,0000,0000,0000,,Taste this.
-Dialogue: 0,0:06:39.72,0:06:40.92,Ristorante,MV,0000,0000,0000,,Sure.
-Dialogue: 0,0:06:45.42,0:06:46.58,Ristorante,FV,0000,0000,0000,,Well?
-Dialogue: 0,0:06:48.57,0:06:51.39,Ristorante,MV,0000,0000,0000,,Well, it looks really nice.
-Dialogue: 0,0:06:51.39,0:06:53.51,Ristorante,FV,0000,0000,0000,,Looks nice, huh?
-Dialogue: 0,0:06:53.51,0:06:56.45,Ristorante,MV,0000,0000,0000,,Yes, but it looks really nice.
-Dialogue: 0,0:06:56.45,0:06:57.63,Ristorante,FV,0000,0000,0000,,Looks nice...
-Dialogue: 0,0:07:04.31,0:07:05.97,Ristorante,FV,0000,0000,0000,,This is delicious!
-Dialogue: 0,0:07:08.86,0:07:10.47,Ristorante,FV,0000,0000,0000,,I'll get 'em this time!
-Dialogue: 0,0:07:13.78,0:07:18.52,Ristorante,FV,0000,0000,0000,,I've been observing their techniques closely!
-Dialogue: 0,0:07:27.69,0:07:29.38,Ristorante,MV,0000,0000,0000,,Pollo alla Diavola.
-Dialogue: 0,0:07:30.32,0:07:32.87,Ristorante,MV,0000,0000,0000,,Artichoke in cream sauce.
-Dialogue: 0,0:07:34.08,0:07:37.15,Ristorante,FV,0000,0000,0000,,Roasted lamb served with crispy potatoes.
-Dialogue: 0,0:07:37.83,0:07:39.02,Ristorante,MV,0000,0000,0000,,Buon appetito.
-Dialogue: 0,0:07:45.61,0:07:48.91,Ristorante,MV,0000,0000,0000,,Teo, you should use a little more salt.
-Dialogue: 0,0:07:48.91,0:07:51.69,Ristorante,MV,0000,0000,0000,,Maybe it'll go better with porcini mushrooms.
-Dialogue: 0,0:07:51.99,0:07:54.92,Ristorante,FV,0000,0000,0000,,Oh my... This is delicious!
-Dialogue: 0,0:07:54.92,0:07:57.32,Ristorante,FV,0000,0000,0000,,How come they can make such delicious food?
-Dialogue: 0,0:07:57.32,0:08:00.62,Ristorante,FV,0000,0000,0000,,They must have some secret in their arms!
-Dialogue: 0,0:08:01.07,0:08:02.96,Ristorante,MV,0000,0000,0000,,It's not just their arms.
-Dialogue: 0,0:08:05.04,0:08:08.55,Ristorante,MV,0000,0000,0000,,They both started to eat your dish, Nicoletta.
-Dialogue: 0,0:08:08.55,0:08:09.43,Ristorante,FV,0000,0000,0000,,What?!
-Dialogue: 0,0:08:15.74,0:08:17.93,Ristorante,MV,0000,0000,0000,,It's not {\i1}bad{\i0}...
-Dialogue: 0,0:08:17.93,0:08:19.81,Ristorante,MV,0000,0000,0000,,It just defies sense.
-Dialogue: 0,0:08:21.05,0:08:25.44,Ristorante,FV,0000,0000,0000,,S-Sure, maybe we can't serve it to the customers,
-Dialogue: 0,0:08:25.44,0:08:27.52,Ristorante,FV,0000,0000,0000,,but maybe the staff could eat it, no?
-Dialogue: 0,0:08:27.52,0:08:29.63,Ristorante,MV,0000,0000,0000,,Sure, but...
-Dialogue: 0,0:08:29.63,0:08:31.84,Ristorante,MV,0000,0000,0000,,This is a ristorante!
-Dialogue: 0,0:08:31.84,0:08:34.21,Ristorante,MV,0000,0000,0000,,This belongs in a mess hall!
-Dialogue: 0,0:08:49.55,0:08:50.92,Ristorante,FV,0000,0000,0000,,It's too salty.
-Dialogue: 0,0:08:51.81,0:08:54.38,Ristorante,MV,0000,0000,0000,,Sure it's just not to your tastes?
-Dialogue: 0,0:08:54.38,0:08:57.13,Ristorante,FV,0000,0000,0000,,You aren't considering the customers at all.
-Dialogue: 0,0:08:57.59,0:09:01.40,Ristorante,FV,0000,0000,0000,,I don't know what mess hall you trained in,
-Dialogue: 0,0:09:01.40,0:09:03.20,Ristorante,FV,0000,0000,0000,,but this is a ristorante.
-Dialogue: 0,0:09:03.20,0:09:05.31,Ristorante,FV,0000,0000,0000,,You need to relearn everything.
-Dialogue: 0,0:09:05.31,0:09:07.19,Ristorante,MV,0000,0000,0000,,You can go straight to hell!
-Dialogue: 0,0:09:08.90,0:09:10.78,Ristorante,MV,0000,0000,0000,,What's so bad about this dish?
-Dialogue: 0,0:09:10.78,0:09:12.38,Ristorante,MV,0000,0000,0000,,The owner said it's good.
-Dialogue: 0,0:09:12.38,0:09:15.78,Ristorante,FV,0000,0000,0000,,It's identical to the specialty at a restaurant I went to recently.
-Dialogue: 0,0:09:15.78,0:09:17.29,Ristorante,MV,0000,0000,0000,,You're imagining things.
-Dialogue: 0,0:09:17.29,0:09:20.68,Ristorante,FV,0000,0000,0000,,Quit making excuses and think up a new dish.
-Dialogue: 0,0:09:25.05,0:09:26.35,Ristorante,MV,0000,0000,0000,,Screw her!
-Dialogue: 0,0:09:58.49,0:10:00.81,Ristorante,MV,0000,0000,0000,,That is a letdown.
-Dialogue: 0,0:10:00.81,0:10:03.72,Ristorante,MV,0000,0000,0000,,I wouldn't worry about it too much.
-Dialogue: 0,0:10:03.72,0:10:05.87,Ristorante,MV,0000,0000,0000,,Teo just has a foul mouth.
-Dialogue: 0,0:10:05.87,0:10:10.32,Ristorante,MV,0000,0000,0000,,We used to really worry about Teo too, back in the day.
-Dialogue: 0,0:10:10.32,0:10:10.86,Ristorante,FV,0000,0000,0000,,Huh?
-Dialogue: 0,0:10:10.86,0:10:14.80,Ristorante,MV,0000,0000,0000,,He was uninspired and always fighting with the head chef.
-Dialogue: 0,0:10:14.80,0:10:16.13,Ristorante,FV,0000,0000,0000,,Teo?
-Dialogue: 0,0:10:16.13,0:10:17.80,Ristorante,MV,0000,0000,0000,,Yeah.
-Dialogue: 0,0:10:17.80,0:10:20.47,Ristorante,MV,0000,0000,0000,,He caused all sorts of headaches for us.
-Dialogue: 0,0:10:42.40,0:10:44.23,Ristorante,MV,0000,0000,0000,,Why the culinary world?
-Dialogue: 0,0:10:46.14,0:10:50.86,Ristorante,FV,0000,0000,0000,,I lived with my grandparents when I was a child.
-Dialogue: 0,0:10:50.86,0:10:54.79,Ristorante,FV,0000,0000,0000,,I absolutely loved my grandmother's cooking.
-Dialogue: 0,0:10:56.24,0:10:57.55,Ristorante,FV,0000,0000,0000,,How about you, Teo?
-Dialogue: 0,0:10:58.63,0:11:01.05,Ristorante,MV,0000,0000,0000,,My father was a chef before he passed away.
-Dialogue: 0,0:11:01.33,0:11:03.72,Ristorante,FV,0000,0000,0000,,What? In a ristorante?!
-Dialogue: 0,0:11:04.08,0:11:06.27,Ristorante,MV,0000,0000,0000,,It was just a tiny osteria.
-Dialogue: 0,0:11:06.27,0:11:08.10,Ristorante,FV,0000,0000,0000,,Did you ever cook for him?
-Dialogue: 0,0:11:08.10,0:11:09.15,Ristorante,MV,0000,0000,0000,,Yes.
-Dialogue: 0,0:11:09.15,0:11:11.47,Ristorante,FV,0000,0000,0000,,I bet he was thrilled at how delicious it was!
-Dialogue: 0,0:11:12.76,0:11:14.23,Ristorante,MV,0000,0000,0000,,Sure, I guess.
-Dialogue: 0,0:11:14.23,0:11:15.16,Ristorante,FV,0000,0000,0000,,Huh?
-Dialogue: 0,0:11:16.67,0:11:20.27,Ristorante,MV,0000,0000,0000,,He wasn't a straight-shooter either.
-Dialogue: 0,0:11:22.04,0:11:24.02,Ristorante,MV,0000,0000,0000,,In a ristorante back home...
-Dialogue: 0,0:11:24.02,0:11:25.85,Ristorante,MV,0000,0000,0000,,In a two-star restaurant in Rome...
-Dialogue: 0,0:11:26.33,0:11:30.83,Ristorante,MV,0000,0000,0000,,He trained for years and never improved.
-Dialogue: 0,0:11:31.15,0:11:34.26,Ristorante,MV,0000,0000,0000,,He had the makings of a good chef, though.
-Dialogue: 0,0:11:34.26,0:11:36.45,Ristorante,MV,0000,0000,0000,,I wanted to help him out somehow.
-Dialogue: 0,0:11:36.88,0:11:39.57,Ristorante,MV,0000,0000,0000,,That's why I asked him to work in dell'orso.
-Dialogue: 0,0:11:39.57,0:11:41.27,Ristorante,MV,0000,0000,0000,,I remember it well.
-Dialogue: 0,0:11:41.27,0:11:44.74,Ristorante,MV,0000,0000,0000,,I bluntly told him that at least his dolces were good.
-Dialogue: 0,0:11:46.87,0:11:52.38,Ristorante,MV,0000,0000,0000,,Teo used to want to show his father that he could make it.
-Dialogue: 0,0:11:53.14,0:11:58.27,Ristorante,MV,0000,0000,0000,,But, he lost sight of his goals along with the passing of his father.
-Dialogue: 0,0:11:59.14,0:12:03.85,Ristorante,MV,0000,0000,0000,,They say the master will appear when the pupil is ready, but...
-Dialogue: 0,0:12:04.20,0:12:07.53,Ristorante,MV,0000,0000,0000,,I guess meeting lots of people is a great thing in itself.
-Dialogue: 0,0:12:07.99,0:12:09.23,Ristorante,MV,0000,0000,0000,,Definitely.
-Dialogue: 0,0:12:09.84,0:12:12.40,Ristorante,MV,0000,0000,0000,,Back when Teo and Vanna were going at it,
-Dialogue: 0,0:12:12.40,0:12:15.57,Ristorante,MV,0000,0000,0000,,he was like a rebellious child!
-Dialogue: 0,0:12:20.13,0:12:23.12,Ristorante,FV,0000,0000,0000,,Everyone starts off as an amateur.
-Dialogue: 0,0:12:23.69,0:12:26.08,Ristorante,FV,0000,0000,0000,,I'll make them say it's delicious!
-Dialogue: 0,0:12:26.57,0:12:29.32,Ristorante,MV,0000,0000,0000,,Make food that you like yourself.
-Dialogue: 0,0:12:29.59,0:12:30.47,Ristorante,FV,0000,0000,0000,,Huh?
-Dialogue: 0,0:12:31.15,0:12:32.89,Ristorante,FV,0000,0000,0000,,Is he talking to me?
-Dialogue: 0,0:12:36.98,0:12:41.07,Ristorante,FV,0000,0000,0000,,Maybe I'll try some potatoes with cheese.
-Dialogue: 0,0:12:49.17,0:12:50.88,Ristorante,FV,0000,0000,0000,,You're using bottarga!
-Dialogue: 0,0:12:50.88,0:12:52.01,Ristorante,FV,0000,0000,0000,,What kind of fish?
-Dialogue: 0,0:12:52.01,0:12:53.04,Ristorante,MV,0000,0000,0000,,Mullet.
-Dialogue: 0,0:12:53.04,0:12:55.41,Ristorante,MV,0000,0000,0000,,It's because he grew up in Sardinia.
-Dialogue: 0,0:12:55.41,0:12:57.67,Ristorante,FV,0000,0000,0000,,Oh, that's a nice area!
-Dialogue: 0,0:12:57.67,0:13:02.02,Ristorante,MV,0000,0000,0000,,Bottarga, aragosta, Pecorino cheese...
-Dialogue: 0,0:13:02.02,0:13:06.37,Ristorante,MV,0000,0000,0000,,Teo was brought up on rich ingredients from the mountains and the sea.
-Dialogue: 0,0:13:06.37,0:13:08.09,Ristorante,MV,0000,0000,0000,,It was just a town out in the country.
-Dialogue: 0,0:13:08.89,0:13:14.31,Ristorante,MV,0000,0000,0000,,The basis of a man's culinary tastes come from the type of food culture they were brought up in.
-Dialogue: 0,0:13:14.61,0:13:17.54,Ristorante,MV,0000,0000,0000,,The wife and I talk about this all time.
-Dialogue: 0,0:13:17.54,0:13:21.29,Ristorante,MV,0000,0000,0000,,One of these days, we want to have our own food tour of Italy.
-Dialogue: 0,0:13:21.29,0:13:23.65,Ristorante,FV,0000,0000,0000,,That sounds like so much fun!
-Dialogue: 0,0:13:23.65,0:13:26.03,Ristorante,FV,0000,0000,0000,,There's probably all sorts of good food in Italy.
-Dialogue: 0,0:13:26.03,0:13:31.00,Ristorante,MV,0000,0000,0000,,There are ingredients we've never even heard of in different parts of the country.
-Dialogue: 0,0:13:31.00,0:13:33.96,Ristorante,MV,0000,0000,0000,,I wouldn't mind traveling around on my motorcycle.
-Dialogue: 0,0:13:35.16,0:13:38.20,Ristorante,MV,0000,0000,0000,,Of course, nothing tops Sardinia.
-Dialogue: 0,0:13:46.34,0:13:49.01,Ristorante,FV,0000,0000,0000,,He hasn't really talked about it,
-Dialogue: 0,0:13:49.01,0:13:52.38,Ristorante,FV,0000,0000,0000,,but I wonder if Teo has a special someone in his life.
-Dialogue: 0,0:13:52.77,0:13:55.13,Ristorante,FV,0000,0000,0000,,He uses ingredients from back home...
-Dialogue: 0,0:13:55.45,0:13:59.28,Ristorante,FV,0000,0000,0000,,I bet they make him think about his late father, too.
-Dialogue: 0,0:14:00.42,0:14:02.55,Ristorante,MV,0000,0000,0000,,Make food that you like yourself.
-Dialogue: 0,0:14:08.48,0:14:11.67,Ristorante,FV,0000,0000,0000,,I wonder how many years it's been since I made this.
-Dialogue: 0,0:14:14.45,0:14:16.22,Ristorante,FV,0000,0000,0000,,Grandma!
-Dialogue: 0,0:14:21.02,0:14:22.86,Ristorante,MV,0000,0000,0000,,This is incredible.
-Dialogue: 0,0:14:23.59,0:14:24.80,Ristorante,FV,0000,0000,0000,,It's delicious!
-Dialogue: 0,0:14:24.80,0:14:28.26,Ristorante,MV,0000,0000,0000,,Wrapping it in a pie crust... Furio never ceases to amaze.
-Dialogue: 0,0:14:28.61,0:14:31.34,Ristorante,MV,0000,0000,0000,,Well then, next is Teo's dish.
-Dialogue: 0,0:14:41.54,0:14:42.56,Ristorante,MV,0000,0000,0000,,How is it?
-Dialogue: 0,0:14:42.56,0:14:44.01,Ristorante,FV,0000,0000,0000,,Delicious!
-Dialogue: 0,0:14:44.01,0:14:45.65,Ristorante,FV,0000,0000,0000,,Absolutely delicious!
-Dialogue: 0,0:14:46.11,0:14:50.27,Ristorante,MV,0000,0000,0000,,Nicoletta, you've said every plate is delicious so far.
-Dialogue: 0,0:14:50.27,0:14:55.58,Ristorante,MV,0000,0000,0000,,I'd like a more delicate and rich response from a woman chef.
-Dialogue: 0,0:14:55.58,0:15:01.16,Ristorante,MV,0000,0000,0000,,But, Nicoletta's facial expressions are more delicate and rich than words can convey.
-Dialogue: 0,0:15:02.44,0:15:06.94,Ristorante,MV,0000,0000,0000,,I'd love you to try and top the old woman chef.
-Dialogue: 0,0:15:06.94,0:15:10.27,Ristorante,FV,0000,0000,0000,,Woman chef? There used to be one here?
-Dialogue: 0,0:15:13.47,0:15:16.53,Ristorante,FV,0000,0000,0000,,What?! I thought that was a man!
-Dialogue: 0,0:15:16.53,0:15:18.26,Ristorante,MV,0000,0000,0000,,That's Vanna.
-Dialogue: 0,0:15:18.59,0:15:20.96,Ristorante,MV,0000,0000,0000,,Teo and her were always going at it.
-Dialogue: 0,0:15:21.53,0:15:23.51,Ristorante,MV,0000,0000,0000,,It was downright frightening.
-Dialogue: 0,0:15:25.15,0:15:26.37,Ristorante,FV,0000,0000,0000,,So...
-Dialogue: 0,0:15:26.37,0:15:29.89,Ristorante,FV,0000,0000,0000,,She ended up quitting because of him?
-Dialogue: 0,0:15:29.89,0:15:32.47,Ristorante,MV,0000,0000,0000,,No, it was because of her family.
-Dialogue: 0,0:15:32.47,0:15:34.41,Ristorante,MV,0000,0000,0000,,They moved to America.
-Dialogue: 0,0:15:34.41,0:15:37.34,Ristorante,MV,0000,0000,0000,,She's a top-rate chef.
-Dialogue: 0,0:15:39.67,0:15:42.38,Ristorante,MV,0000,0000,0000,,Up next is Nicoletta's dish.
-Dialogue: 0,0:15:47.64,0:15:50.24,Ristorante,FV,0000,0000,0000,,I think this is the best I've made so far,
-Dialogue: 0,0:15:50.24,0:15:51.38,Ristorante,FV,0000,0000,0000,,but...
-Dialogue: 0,0:15:53.24,0:15:55.03,Ristorante,FV,0000,0000,0000,,Buon giorno!
-Dialogue: 0,0:15:55.03,0:15:57.26,Ristorante,FV,0000,0000,0000,,I heard you're thinking up the spring menu?
-Dialogue: 0,0:15:58.01,0:15:59.52,Ristorante,FV,0000,0000,0000,,It looks fabulous!
-Dialogue: 0,0:16:00.00,0:16:01.61,Ristorante,FV,0000,0000,0000,,Buon appetito!
-Dialogue: 0,0:16:03.77,0:16:05.23,Ristorante,FV,0000,0000,0000,,Delicious!
-Dialogue: 0,0:16:05.23,0:16:08.08,Ristorante,FV,0000,0000,0000,,I can't get enough of that crispy pie crust!
-Dialogue: 0,0:16:10.45,0:16:12.38,Ristorante,FV,0000,0000,0000,,This is lovely too.
-Dialogue: 0,0:16:14.71,0:16:15.87,Ristorante,FV,0000,0000,0000,,Huh?
-Dialogue: 0,0:16:17.45,0:16:20.57,Ristorante,FV,0000,0000,0000,,This tastes oddly... familiar...
-Dialogue: 0,0:16:22.20,0:16:23.50,Ristorante,MV,0000,0000,0000,,Nicoletta.
-Dialogue: 0,0:16:24.46,0:16:29.82,Ristorante,MV,0000,0000,0000,,This would be considered very good,\Nhad it been made by a layperson.
-Dialogue: 0,0:16:29.82,0:16:30.97,Ristorante,MV,0000,0000,0000,,However...
-Dialogue: 0,0:16:30.97,0:16:32.84,Ristorante,MV,0000,0000,0000,,A pro can do better.
-Dialogue: 0,0:16:39.94,0:16:41.23,Ristorante,FV,0000,0000,0000,,You're right.
-Dialogue: 0,0:16:41.23,0:16:43.39,Ristorante,FV,0000,0000,0000,,Home cooking is good,
-Dialogue: 0,0:16:43.39,0:16:45.73,Ristorante,FV,0000,0000,0000,,but it doesn't fly in a restaurant.
-Dialogue: 0,0:16:46.15,0:16:48.31,Ristorante,FV,0000,0000,0000,,Thank you for being so honest with me.
-Dialogue: 0,0:16:48.31,0:16:49.07,Ristorante,FV,0000,0000,0000,,Huh?
-Dialogue: 0,0:16:49.07,0:16:52.69,Ristorante,FV,0000,0000,0000,,I learned an awful lot today!
-Dialogue: 0,0:16:52.69,0:16:54.23,Ristorante,FV,0000,0000,0000,,Skills are important,
-Dialogue: 0,0:16:54.23,0:16:58.40,Ristorante,FV,0000,0000,0000,,but I think it's also important to think about the people eating your dishes.
-Dialogue: 0,0:16:59.08,0:17:02.07,Ristorante,FV,0000,0000,0000,,I think the next dish I make will be even more delicious!
-Dialogue: 0,0:17:09.04,0:17:12.01,Ristorante,FV,0000,0000,0000,,I'll... go clean up.
-Dialogue: 0,0:17:16.18,0:17:18.89,Ristorante,FV,0000,0000,0000,,She got a little full of herself.
-Dialogue: 0,0:17:28.58,0:17:29.79,Ristorante,FV,0000,0000,0000,,Thank you.
-Dialogue: 0,0:17:32.75,0:17:38.41,Ristorante,MV,0000,0000,0000,,There's a saying that us cameriere believe in.
-Dialogue: 0,0:17:38.41,0:17:39.20,Ristorante,FV,0000,0000,0000,,Hmm?
-Dialogue: 0,0:17:39.20,0:17:42.69,Ristorante,MV,0000,0000,0000,,A restaurant that serves good food to the staff is a good restaurant.
-Dialogue: 0,0:17:46.58,0:17:50.40,Ristorante,MV,0000,0000,0000,,You even got Teo to honestly admit it was good.
-Dialogue: 0,0:17:53.36,0:17:54.95,Ristorante,FV,0000,0000,0000,,I'm so glad!
-Dialogue: 0,0:18:08.46,0:18:12.25,Ristorante,FV,0000,0000,0000,,Is it really OK for us to go home while the boiler is still being worked on?
-Dialogue: 0,0:18:12.25,0:18:14.84,Ristorante,MV,0000,0000,0000,,We'll let Gigi worry about it, so it's fine.
-Dialogue: 0,0:18:14.84,0:18:17.48,Ristorante,MV,0000,0000,0000,,It'll get even colder once night falls.
-Dialogue: 0,0:18:17.48,0:18:18.53,Ristorante,MV,0000,0000,0000,,Indeed.
-Dialogue: 0,0:18:31.22,0:18:34.90,Ristorante,FV,0000,0000,0000,,Huh? Isn't that Teo's motorcycle?
-Dialogue: 0,0:18:35.17,0:18:37.00,Ristorante,FV,0000,0000,0000,,Did you figure out the menu?
-Dialogue: 0,0:18:37.35,0:18:38.16,Ristorante,MV,0000,0000,0000,,Sure did.
-Dialogue: 0,0:18:38.16,0:18:38.85,Ristorante,FV,0000,0000,0000,,Huh?
-Dialogue: 0,0:18:39.30,0:18:40.59,Ristorante,MV,0000,0000,0000,,Long time no see.
-Dialogue: 0,0:18:42.11,0:18:43.91,Ristorante,MV,0000,0000,0000,,It's been some time.
-Dialogue: 0,0:18:43.91,0:18:44.85,Ristorante,FV,0000,0000,0000,,It sure has.
-Dialogue: 0,0:18:46.50,0:18:48.13,Ristorante,MV,0000,0000,0000,,This is Vanna.
-Dialogue: 0,0:18:48.75,0:18:49.69,Ristorante,FV,0000,0000,0000,,What?!
-Dialogue: 0,0:18:51.15,0:18:53.03,Ristorante,FV,0000,0000,0000,,Ahh!
-Dialogue: 0,0:18:54.07,0:18:55.80,Ristorante,FV,0000,0000,0000,,What's this all about?
-Dialogue: 0,0:18:56.67,0:18:59.07,Ristorante,FV,0000,0000,0000,,You must be Nicoletta.
-Dialogue: 0,0:18:59.07,0:19:00.43,Ristorante,FV,0000,0000,0000,,Piacere.
-Dialogue: 0,0:19:00.71,0:19:03.15,Ristorante,FV,0000,0000,0000,,They told me you were in America.
-Dialogue: 0,0:19:03.15,0:19:05.47,Ristorante,FV,0000,0000,0000,,I'm going back next week.
-Dialogue: 0,0:19:05.47,0:19:07.41,Ristorante,MV,0000,0000,0000,,It's a shame you can't stay longer.
-Dialogue: 0,0:19:07.41,0:19:10.23,Ristorante,FV,0000,0000,0000,,I'll come by to try out the new menu.
-Dialogue: 0,0:19:10.23,0:19:11.44,Ristorante,FV,0000,0000,0000,,Please do!
-Dialogue: 0,0:19:11.44,0:19:13.49,Ristorante,FV,0000,0000,0000,,I heard that you're a top-rate chef!
-Dialogue: 0,0:19:13.49,0:19:16.52,Ristorante,FV,0000,0000,0000,,Who on earth said such a silly thing?
-Dialogue: 0,0:19:21.63,0:19:22.89,Ristorante,MV,0000,0000,0000,,See you tomorrow.
-Dialogue: 0,0:19:22.89,0:19:23.93,Ristorante,FV,0000,0000,0000,,Ciao.
-Dialogue: 0,0:19:28.86,0:19:31.74,Ristorante,FV,0000,0000,0000,,Could those two be...
-Dialogue: 0,0:19:33.93,0:19:36.27,Ristorante,MV,0000,0000,0000,,My wife's waiting at the enoteca.
-Dialogue: 0,0:19:36.27,0:19:38.14,Ristorante,MV,0000,0000,0000,,Care to join us?
-Dialogue: 0,0:19:38.14,0:19:40.58,Ristorante,FV,0000,0000,0000,,I have to go home and practice!
-Dialogue: 0,0:19:40.58,0:19:42.61,Ristorante,FV,0000,0000,0000,,I had a tough time today.
-Dialogue: 0,0:19:42.90,0:19:47.36,Ristorante,MV,0000,0000,0000,,You want to be acknowledged as being a good professional chef, don't you?
-Dialogue: 0,0:19:47.36,0:19:48.77,Ristorante,FV,0000,0000,0000,,You called it!
-Dialogue: 0,0:19:48.77,0:19:49.83,Ristorante,FV,0000,0000,0000,,Ciao!
-Dialogue: 0,0:20:02.02,0:20:05.88,Ristorante,FV,0000,0000,0000,,You know, I'll think I'll take you up on that drink!
-Dialogue: 0,0:20:05.88,0:20:08.07,Ristorante,FV,0000,0000,0000,,There's no reason for me to rush.
-Dialogue: 0,0:20:08.07,0:20:08.86,Ristorante,FV,0000,0000,0000,,Right?
-Dialogue: 0,0:20:09.66,0:20:11.60,Ristorante,MV,0000,0000,0000,,We'd love for you to join us.
-Dialogue: 0,0:20:40.63,0:20:44.22,Ristorante,FV,0000,0000,0000,,Looks like I am without a rival.
-Dialogue: 0,0:20:50.75,0:20:52.10,Ristorante,FV,0000,0000,0000,,Or am I mistaken?
+Dialogue: 0,0:00:04.65,0:00:06.57,Ristorante,FV,0,0,0,,What the hell is this?
+Dialogue: 0,0:00:06.57,0:00:09.07,Ristorante,FV,0,0,0,,And you call yourself a professional?
+Dialogue: 0,0:00:09.82,0:00:15.82,Ristorante,FV,0,0,0,,Some dreamy-eyed young apprentice would be more useful than an unmotivated bum like you.
+Dialogue: 0,0:00:16.30,0:00:18.22,Ristorante,FV,0,0,0,,What is it that you want to do?
+Dialogue: 0,0:00:18.22,0:00:21.09,Ristorante,FV,0,0,0,,Didn't you ever have a dream?
+Dialogue: 0,0:00:28.59,0:00:30.25,Ristorante,MV,0,0,0,,You're quitting?
+Dialogue: 0,0:00:31.12,0:00:34.83,Ristorante,MV,0,0,0,,That's why you were calling chefs from other restaurants.
+Dialogue: 0,0:00:35.31,0:00:37.63,Ristorante,FV,0,0,0,,I certainly can't count on you to do that.
+Dialogue: 0,0:00:39.55,0:00:42.18,Ristorante,MV,0,0,0,,Don't ever set foot in there again.
+Dialogue: 0,0:00:42.30,0:00:47.69,Ristorante,FV,0,0,0,,Are you still going to have a job here the next time I drop by?
+Dialogue: 0,0:01:02.57,0:01:04.49,Ristorante,MV,0,0,0,,Some stay and some go.
+Dialogue: 0,0:01:05.11,0:01:08.06,Ristorante,MV,0,0,0,,The restaurant holds people's histories within them.
+Dialogue: 0,0:01:08.70,0:01:11.34,Ristorante,MV,0,0,0,,Various personalities have mixed...
+Dialogue: 0,0:01:12.06,0:01:15.65,Ristorante,MV,0,0,0,,in this restaurant that sits on a corner of Rome.
+Dialogue: 0,0:02:43.93,0:02:45.88,Ristorante,FV,0,0,0,,So it's really broken?
+Dialogue: 0,0:02:51.60,0:02:54.25,Ristorante,MV,0,0,0,,I thought it felt a little cold in here.
+Dialogue: 0,0:02:54.25,0:02:55.40,Ristorante,MV,0,0,0,,When will it be fixed?
+Dialogue: 0,0:02:55.40,0:02:56.75,Ristorante,MV,0,0,0,,Tomorrow, at the earliest.
+Dialogue: 0,0:02:56.75,0:02:58.78,Ristorante,MV,0,0,0,,It could be until the following day.
+Dialogue: 0,0:02:59.07,0:03:01.51,Ristorante,MV,0,0,0,,If it's just one day, I think it'll be fine.
+Dialogue: 0,0:03:01.51,0:03:04.10,Ristorante,MV,0,0,0,,It's been pretty warm lately.
+Dialogue: 0,0:03:04.10,0:03:08.27,Ristorante,MV,0,0,0,,No, to be safe, we should close for the day.
+Dialogue: 0,0:03:08.27,0:03:12.12,Ristorante,MV,0,0,0,,I'll explain it to the customers who made reservations.
+Dialogue: 0,0:03:12.12,0:03:15.50,Ristorante,MV,0,0,0,,We can't have anyone catching a cold now.
+Dialogue: 0,0:03:34.62,0:03:35.85,Ristorante,MV,0,0,0,,Hey there.
+Dialogue: 0,0:03:36.25,0:03:37.57,Ristorante,FV,0,0,0,,Buon giorno.
+Dialogue: 0,0:03:37.57,0:03:39.77,Ristorante,MV,0,0,0,,Have you put some thought into the new menu?
+Dialogue: 0,0:03:39.77,0:03:41.27,Ristorante,FV,0,0,0,,You bet I did!
+Dialogue: 0,0:03:43.21,0:03:46.45,Ristorante,MV,0,0,0,,It looks like the market beat us to spring.
+Dialogue: 0,0:03:46.45,0:03:49.64,Ristorante,MV,0,0,0,,I'm delighted to be thinking up the new menu.
+Dialogue: 0,0:03:49.64,0:03:53.72,Ristorante,FV,0,0,0,,Say, I thought up a dish. If it's really good...
+Dialogue: 0,0:03:53.72,0:03:56.66,Ristorante,MV,0,0,0,,You want to see if it'll end up on the menu?
+Dialogue: 0,0:03:56.66,0:03:58.60,Ristorante,MV,0,0,0,,I remember.
+Dialogue: 0,0:03:58.60,0:04:00.96,Ristorante,MV,0,0,0,,But, I don't think that's gonna happen.
+Dialogue: 0,0:04:00.96,0:04:03.55,Ristorante,MV,0,0,0,,Oh, come on! We won't know until I try!
+Dialogue: 0,0:04:03.55,0:04:04.56,Ristorante,MV,0,0,0,,I know, I know.
+Dialogue: 0,0:04:15.67,0:04:18.51,Ristorante,FV,0,0,0,,I've got to start with the very basics.
+Dialogue: 0,0:04:35.90,0:04:37.75,Ristorante,MV,0,0,0,,Grilled scampi.
+Dialogue: 0,0:04:38.98,0:04:41.34,Ristorante,MV,0,0,0,,Veal sirloin.
+Dialogue: 0,0:04:42.48,0:04:44.09,Ristorante,FV,0,0,0,,Frittatas.
+Dialogue: 0,0:04:45.89,0:04:46.99,Ristorante,MV,0,0,0,,Buon appetito.
+Dialogue: 0,0:04:56.98,0:05:01.34,Ristorante,MV,0,0,0,,You know, if you kick the flavoring up a notch, I think it'll work.
+Dialogue: 0,0:05:01.34,0:05:02.65,Ristorante,MV,0,0,0,,I agree 100%.
+Dialogue: 0,0:05:02.65,0:05:06.23,Ristorante,MV,0,0,0,,If you marinated the meat a bit longer, and lightened up the sauce just a bit...
+Dialogue: 0,0:05:06.23,0:05:08.73,Ristorante,FV,0,0,0,,Guys, taste mine too!
+Dialogue: 0,0:05:08.73,0:05:11.07,Ristorante,MV,0,0,0,,With no further ado.
+Dialogue: 0,0:05:24.37,0:05:26.34,Ristorante,MV,0,0,0,,The presentation is nice...
+Dialogue: 0,0:05:26.34,0:05:27.89,Ristorante,MV,0,0,0,,...but it tastes like crap.
+Dialogue: 0,0:05:29.50,0:05:32.06,Ristorante,FV,0,0,0,,M-M-Maybe I overcooked the eggs...
+Dialogue: 0,0:05:32.06,0:05:33.43,Ristorante,MV,0,0,0,,You lack fundamentals.
+Dialogue: 0,0:05:34.53,0:05:38.41,Ristorante,FV,0,0,0,,Th-That's because you won't teach them to me!
+Dialogue: 0,0:05:38.41,0:05:40.91,Ristorante,MV,0,0,0,,Didn't you graduate culinary school?
+Dialogue: 0,0:05:40.91,0:05:44.44,Ristorante,MV,0,0,0,,Learn them on the job, by yourself.
+Dialogue: 0,0:05:44.44,0:05:48.90,Ristorante,MV,0,0,0,,Now, guys... There's no need to overcomplicate matters.
+Dialogue: 0,0:05:48.90,0:05:51.29,Ristorante,FV,0,0,0,,Well, you need to work on your plating!
+Dialogue: 0,0:05:51.29,0:05:52.80,Ristorante,MV,0,0,0,,Gigi plated it.
+Dialogue: 0,0:05:54.92,0:05:57.13,Ristorante,FV,0,0,0,,Wh-When did he...
+Dialogue: 0,0:05:57.12,0:06:00.30,Ristorante,MV,0,0,0,,Gigi, is the technician still going to be a while?
+Dialogue: 0,0:06:02.05,0:06:06.67,Ristorante,FV,0,0,0,,G-Gigi, you prefer more attractive plating, don't you?
+Dialogue: 0,0:06:06.67,0:06:08.57,Ristorante,MV,0,0,0,,All that matters is the taste.
+Dialogue: 0,0:06:10.23,0:06:12.14,Ristorante,MV,0,0,0,,Something smells delectable.
+Dialogue: 0,0:06:12.14,0:06:16.46,Ristorante,FV,0,0,0,,Claudio! Did you come to support me?
+Dialogue: 0,0:06:16.46,0:06:19.10,Ristorante,MV,0,0,0,,I wanted to see how the repairs are coming.
+Dialogue: 0,0:06:19.10,0:06:21.41,Ristorante,MV,0,0,0,,I'm glad we closed for the day.
+Dialogue: 0,0:06:21.41,0:06:23.03,Ristorante,MV,0,0,0,,It's freezing today.
+Dialogue: 0,0:06:23.03,0:06:26.76,Ristorante,MV,0,0,0,,Are you sure you didn't close because you can't stand a little cold?
+Dialogue: 0,0:06:26.76,0:06:29.20,Ristorante,FV,0,0,0,,A lady gets cold easily!
+Dialogue: 0,0:06:29.20,0:06:31.29,Ristorante,FV,0,0,0,,Claudio is just considerate of that.
+Dialogue: 0,0:06:31.29,0:06:33.04,Ristorante,FV,0,0,0,,Oh, right! Claudio!
+Dialogue: 0,0:06:33.04,0:06:33.83,Ristorante,MV,0,0,0,,Yes?
+Dialogue: 0,0:06:33.83,0:06:35.15,Ristorante,FV,0,0,0,,Come here!
+Dialogue: 0,0:06:36.57,0:06:38.38,Ristorante,FV,0,0,0,,Taste this.
+Dialogue: 0,0:06:39.72,0:06:40.92,Ristorante,MV,0,0,0,,Sure.
+Dialogue: 0,0:06:45.42,0:06:46.58,Ristorante,FV,0,0,0,,Well?
+Dialogue: 0,0:06:48.57,0:06:51.39,Ristorante,MV,0,0,0,,Well, it looks really nice.
+Dialogue: 0,0:06:51.39,0:06:53.51,Ristorante,FV,0,0,0,,Looks nice, huh?
+Dialogue: 0,0:06:53.51,0:06:56.45,Ristorante,MV,0,0,0,,Yes, but it looks really nice.
+Dialogue: 0,0:06:56.45,0:06:57.63,Ristorante,FV,0,0,0,,Looks nice...
+Dialogue: 0,0:07:04.31,0:07:05.97,Ristorante,FV,0,0,0,,This is delicious!
+Dialogue: 0,0:07:08.86,0:07:10.47,Ristorante,FV,0,0,0,,I'll get 'em this time!
+Dialogue: 0,0:07:13.78,0:07:18.52,Ristorante,FV,0,0,0,,I've been observing their techniques closely!
+Dialogue: 0,0:07:27.69,0:07:29.38,Ristorante,MV,0,0,0,,Pollo alla Diavola.
+Dialogue: 0,0:07:30.32,0:07:32.87,Ristorante,MV,0,0,0,,Artichoke in cream sauce.
+Dialogue: 0,0:07:34.08,0:07:37.15,Ristorante,FV,0,0,0,,Roasted lamb served with crispy potatoes.
+Dialogue: 0,0:07:37.83,0:07:39.02,Ristorante,MV,0,0,0,,Buon appetito.
+Dialogue: 0,0:07:45.61,0:07:48.91,Ristorante,MV,0,0,0,,Teo, you should use a little more salt.
+Dialogue: 0,0:07:48.91,0:07:51.69,Ristorante,MV,0,0,0,,Maybe it'll go better with porcini mushrooms.
+Dialogue: 0,0:07:51.99,0:07:54.92,Ristorante,FV,0,0,0,,Oh my... This is delicious!
+Dialogue: 0,0:07:54.92,0:07:57.32,Ristorante,FV,0,0,0,,How come they can make such delicious food?
+Dialogue: 0,0:07:57.32,0:08:00.62,Ristorante,FV,0,0,0,,They must have some secret in their arms!
+Dialogue: 0,0:08:01.07,0:08:02.96,Ristorante,MV,0,0,0,,It's not just their arms.
+Dialogue: 0,0:08:05.04,0:08:08.55,Ristorante,MV,0,0,0,,They both started to eat your dish, Nicoletta.
+Dialogue: 0,0:08:08.55,0:08:09.43,Ristorante,FV,0,0,0,,What?!
+Dialogue: 0,0:08:15.74,0:08:17.93,Ristorante,MV,0,0,0,,It's not {\i1}bad{\i0}...
+Dialogue: 0,0:08:17.93,0:08:19.81,Ristorante,MV,0,0,0,,It just defies sense.
+Dialogue: 0,0:08:21.05,0:08:25.44,Ristorante,FV,0,0,0,,S-Sure, maybe we can't serve it to the customers,
+Dialogue: 0,0:08:25.44,0:08:27.52,Ristorante,FV,0,0,0,,but maybe the staff could eat it, no?
+Dialogue: 0,0:08:27.52,0:08:29.63,Ristorante,MV,0,0,0,,Sure, but...
+Dialogue: 0,0:08:29.63,0:08:31.84,Ristorante,MV,0,0,0,,This is a ristorante!
+Dialogue: 0,0:08:31.84,0:08:34.21,Ristorante,MV,0,0,0,,This belongs in a mess hall!
+Dialogue: 0,0:08:49.55,0:08:50.92,Ristorante,FV,0,0,0,,It's too salty.
+Dialogue: 0,0:08:51.81,0:08:54.38,Ristorante,MV,0,0,0,,Sure it's just not to your tastes?
+Dialogue: 0,0:08:54.38,0:08:57.13,Ristorante,FV,0,0,0,,You aren't considering the customers at all.
+Dialogue: 0,0:08:57.59,0:09:01.40,Ristorante,FV,0,0,0,,I don't know what mess hall you trained in,
+Dialogue: 0,0:09:01.40,0:09:03.20,Ristorante,FV,0,0,0,,but this is a ristorante.
+Dialogue: 0,0:09:03.20,0:09:05.31,Ristorante,FV,0,0,0,,You need to relearn everything.
+Dialogue: 0,0:09:05.31,0:09:07.19,Ristorante,MV,0,0,0,,You can go straight to hell!
+Dialogue: 0,0:09:08.90,0:09:10.78,Ristorante,MV,0,0,0,,What's so bad about this dish?
+Dialogue: 0,0:09:10.78,0:09:12.38,Ristorante,MV,0,0,0,,The owner said it's good.
+Dialogue: 0,0:09:12.38,0:09:15.78,Ristorante,FV,0,0,0,,It's identical to the specialty at a restaurant I went to recently.
+Dialogue: 0,0:09:15.78,0:09:17.29,Ristorante,MV,0,0,0,,You're imagining things.
+Dialogue: 0,0:09:17.29,0:09:20.68,Ristorante,FV,0,0,0,,Quit making excuses and think up a new dish.
+Dialogue: 0,0:09:25.05,0:09:26.35,Ristorante,MV,0,0,0,,Screw her!
+Dialogue: 0,0:09:58.49,0:10:00.81,Ristorante,MV,0,0,0,,That is a letdown.
+Dialogue: 0,0:10:00.81,0:10:03.72,Ristorante,MV,0,0,0,,I wouldn't worry about it too much.
+Dialogue: 0,0:10:03.72,0:10:05.87,Ristorante,MV,0,0,0,,Teo just has a foul mouth.
+Dialogue: 0,0:10:05.87,0:10:10.32,Ristorante,MV,0,0,0,,We used to really worry about Teo too, back in the day.
+Dialogue: 0,0:10:10.32,0:10:10.86,Ristorante,FV,0,0,0,,Huh?
+Dialogue: 0,0:10:10.86,0:10:14.80,Ristorante,MV,0,0,0,,He was uninspired and always fighting with the head chef.
+Dialogue: 0,0:10:14.80,0:10:16.13,Ristorante,FV,0,0,0,,Teo?
+Dialogue: 0,0:10:16.13,0:10:17.80,Ristorante,MV,0,0,0,,Yeah.
+Dialogue: 0,0:10:17.80,0:10:20.47,Ristorante,MV,0,0,0,,He caused all sorts of headaches for us.
+Dialogue: 0,0:10:42.40,0:10:44.23,Ristorante,MV,0,0,0,,Why the culinary world?
+Dialogue: 0,0:10:46.14,0:10:50.86,Ristorante,FV,0,0,0,,I lived with my grandparents when I was a child.
+Dialogue: 0,0:10:50.86,0:10:54.79,Ristorante,FV,0,0,0,,I absolutely loved my grandmother's cooking.
+Dialogue: 0,0:10:56.24,0:10:57.55,Ristorante,FV,0,0,0,,How about you, Teo?
+Dialogue: 0,0:10:58.63,0:11:01.05,Ristorante,MV,0,0,0,,My father was a chef before he passed away.
+Dialogue: 0,0:11:01.33,0:11:03.72,Ristorante,FV,0,0,0,,What? In a ristorante?!
+Dialogue: 0,0:11:04.08,0:11:06.27,Ristorante,MV,0,0,0,,It was just a tiny osteria.
+Dialogue: 0,0:11:06.27,0:11:08.10,Ristorante,FV,0,0,0,,Did you ever cook for him?
+Dialogue: 0,0:11:08.10,0:11:09.15,Ristorante,MV,0,0,0,,Yes.
+Dialogue: 0,0:11:09.15,0:11:11.47,Ristorante,FV,0,0,0,,I bet he was thrilled at how delicious it was!
+Dialogue: 0,0:11:12.76,0:11:14.23,Ristorante,MV,0,0,0,,Sure, I guess.
+Dialogue: 0,0:11:14.23,0:11:15.16,Ristorante,FV,0,0,0,,Huh?
+Dialogue: 0,0:11:16.67,0:11:20.27,Ristorante,MV,0,0,0,,He wasn't a straight-shooter either.
+Dialogue: 0,0:11:22.04,0:11:24.02,Ristorante,MV,0,0,0,,In a ristorante back home...
+Dialogue: 0,0:11:24.02,0:11:25.85,Ristorante,MV,0,0,0,,In a two-star restaurant in Rome...
+Dialogue: 0,0:11:26.33,0:11:30.83,Ristorante,MV,0,0,0,,He trained for years and never improved.
+Dialogue: 0,0:11:31.15,0:11:34.26,Ristorante,MV,0,0,0,,He had the makings of a good chef, though.
+Dialogue: 0,0:11:34.26,0:11:36.45,Ristorante,MV,0,0,0,,I wanted to help him out somehow.
+Dialogue: 0,0:11:36.88,0:11:39.57,Ristorante,MV,0,0,0,,That's why I asked him to work in dell'orso.
+Dialogue: 0,0:11:39.57,0:11:41.27,Ristorante,MV,0,0,0,,I remember it well.
+Dialogue: 0,0:11:41.27,0:11:44.74,Ristorante,MV,0,0,0,,I bluntly told him that at least his dolces were good.
+Dialogue: 0,0:11:46.87,0:11:52.38,Ristorante,MV,0,0,0,,Teo used to want to show his father that he could make it.
+Dialogue: 0,0:11:53.14,0:11:58.27,Ristorante,MV,0,0,0,,But, he lost sight of his goals along with the passing of his father.
+Dialogue: 0,0:11:59.14,0:12:03.85,Ristorante,MV,0,0,0,,They say the master will appear when the pupil is ready, but...
+Dialogue: 0,0:12:04.20,0:12:07.53,Ristorante,MV,0,0,0,,I guess meeting lots of people is a great thing in itself.
+Dialogue: 0,0:12:07.99,0:12:09.23,Ristorante,MV,0,0,0,,Definitely.
+Dialogue: 0,0:12:09.84,0:12:12.40,Ristorante,MV,0,0,0,,Back when Teo and Vanna were going at it,
+Dialogue: 0,0:12:12.40,0:12:15.57,Ristorante,MV,0,0,0,,he was like a rebellious child!
+Dialogue: 0,0:12:20.13,0:12:23.12,Ristorante,FV,0,0,0,,Everyone starts off as an amateur.
+Dialogue: 0,0:12:23.69,0:12:26.08,Ristorante,FV,0,0,0,,I'll make them say it's delicious!
+Dialogue: 0,0:12:26.57,0:12:29.32,Ristorante,MV,0,0,0,,Make food that you like yourself.
+Dialogue: 0,0:12:29.59,0:12:30.47,Ristorante,FV,0,0,0,,Huh?
+Dialogue: 0,0:12:31.15,0:12:32.89,Ristorante,FV,0,0,0,,Is he talking to me?
+Dialogue: 0,0:12:36.98,0:12:41.07,Ristorante,FV,0,0,0,,Maybe I'll try some potatoes with cheese.
+Dialogue: 0,0:12:49.17,0:12:50.88,Ristorante,FV,0,0,0,,You're using bottarga!
+Dialogue: 0,0:12:50.88,0:12:52.01,Ristorante,FV,0,0,0,,What kind of fish?
+Dialogue: 0,0:12:52.01,0:12:53.04,Ristorante,MV,0,0,0,,Mullet.
+Dialogue: 0,0:12:53.04,0:12:55.41,Ristorante,MV,0,0,0,,It's because he grew up in Sardinia.
+Dialogue: 0,0:12:55.41,0:12:57.67,Ristorante,FV,0,0,0,,Oh, that's a nice area!
+Dialogue: 0,0:12:57.67,0:13:02.02,Ristorante,MV,0,0,0,,Bottarga, aragosta, Pecorino cheese...
+Dialogue: 0,0:13:02.02,0:13:06.37,Ristorante,MV,0,0,0,,Teo was brought up on rich ingredients from the mountains and the sea.
+Dialogue: 0,0:13:06.37,0:13:08.09,Ristorante,MV,0,0,0,,It was just a town out in the country.
+Dialogue: 0,0:13:08.89,0:13:14.31,Ristorante,MV,0,0,0,,The basis of a man's culinary tastes come from the type of food culture they were brought up in.
+Dialogue: 0,0:13:14.61,0:13:17.54,Ristorante,MV,0,0,0,,The wife and I talk about this all time.
+Dialogue: 0,0:13:17.54,0:13:21.29,Ristorante,MV,0,0,0,,One of these days, we want to have our own food tour of Italy.
+Dialogue: 0,0:13:21.29,0:13:23.65,Ristorante,FV,0,0,0,,That sounds like so much fun!
+Dialogue: 0,0:13:23.65,0:13:26.03,Ristorante,FV,0,0,0,,There's probably all sorts of good food in Italy.
+Dialogue: 0,0:13:26.03,0:13:31.00,Ristorante,MV,0,0,0,,There are ingredients we've never even heard of in different parts of the country.
+Dialogue: 0,0:13:31.00,0:13:33.96,Ristorante,MV,0,0,0,,I wouldn't mind traveling around on my motorcycle.
+Dialogue: 0,0:13:35.16,0:13:38.20,Ristorante,MV,0,0,0,,Of course, nothing tops Sardinia.
+Dialogue: 0,0:13:46.34,0:13:49.01,Ristorante,FV,0,0,0,,He hasn't really talked about it,
+Dialogue: 0,0:13:49.01,0:13:52.38,Ristorante,FV,0,0,0,,but I wonder if Teo has a special someone in his life.
+Dialogue: 0,0:13:52.77,0:13:55.13,Ristorante,FV,0,0,0,,He uses ingredients from back home...
+Dialogue: 0,0:13:55.45,0:13:59.28,Ristorante,FV,0,0,0,,I bet they make him think about his late father, too.
+Dialogue: 0,0:14:00.42,0:14:02.55,Ristorante,MV,0,0,0,,Make food that you like yourself.
+Dialogue: 0,0:14:08.48,0:14:11.67,Ristorante,FV,0,0,0,,I wonder how many years it's been since I made this.
+Dialogue: 0,0:14:14.45,0:14:16.22,Ristorante,FV,0,0,0,,Grandma!
+Dialogue: 0,0:14:21.02,0:14:22.86,Ristorante,MV,0,0,0,,This is incredible.
+Dialogue: 0,0:14:23.59,0:14:24.80,Ristorante,FV,0,0,0,,It's delicious!
+Dialogue: 0,0:14:24.80,0:14:28.26,Ristorante,MV,0,0,0,,Wrapping it in a pie crust... Furio never ceases to amaze.
+Dialogue: 0,0:14:28.61,0:14:31.34,Ristorante,MV,0,0,0,,Well then, next is Teo's dish.
+Dialogue: 0,0:14:41.54,0:14:42.56,Ristorante,MV,0,0,0,,How is it?
+Dialogue: 0,0:14:42.56,0:14:44.01,Ristorante,FV,0,0,0,,Delicious!
+Dialogue: 0,0:14:44.01,0:14:45.65,Ristorante,FV,0,0,0,,Absolutely delicious!
+Dialogue: 0,0:14:46.11,0:14:50.27,Ristorante,MV,0,0,0,,Nicoletta, you've said every plate is delicious so far.
+Dialogue: 0,0:14:50.27,0:14:55.58,Ristorante,MV,0,0,0,,I'd like a more delicate and rich response from a woman chef.
+Dialogue: 0,0:14:55.58,0:15:01.16,Ristorante,MV,0,0,0,,But, Nicoletta's facial expressions are more delicate and rich than words can convey.
+Dialogue: 0,0:15:02.44,0:15:06.94,Ristorante,MV,0,0,0,,I'd love you to try and top the old woman chef.
+Dialogue: 0,0:15:06.94,0:15:10.27,Ristorante,FV,0,0,0,,Woman chef? There used to be one here?
+Dialogue: 0,0:15:13.47,0:15:16.53,Ristorante,FV,0,0,0,,What?! I thought that was a man!
+Dialogue: 0,0:15:16.53,0:15:18.26,Ristorante,MV,0,0,0,,That's Vanna.
+Dialogue: 0,0:15:18.59,0:15:20.96,Ristorante,MV,0,0,0,,Teo and her were always going at it.
+Dialogue: 0,0:15:21.53,0:15:23.51,Ristorante,MV,0,0,0,,It was downright frightening.
+Dialogue: 0,0:15:25.15,0:15:26.37,Ristorante,FV,0,0,0,,So...
+Dialogue: 0,0:15:26.37,0:15:29.89,Ristorante,FV,0,0,0,,She ended up quitting because of him?
+Dialogue: 0,0:15:29.89,0:15:32.47,Ristorante,MV,0,0,0,,No, it was because of her family.
+Dialogue: 0,0:15:32.47,0:15:34.41,Ristorante,MV,0,0,0,,They moved to America.
+Dialogue: 0,0:15:34.41,0:15:37.34,Ristorante,MV,0,0,0,,She's a top-rate chef.
+Dialogue: 0,0:15:39.67,0:15:42.38,Ristorante,MV,0,0,0,,Up next is Nicoletta's dish.
+Dialogue: 0,0:15:47.64,0:15:50.24,Ristorante,FV,0,0,0,,I think this is the best I've made so far,
+Dialogue: 0,0:15:50.24,0:15:51.38,Ristorante,FV,0,0,0,,but...
+Dialogue: 0,0:15:53.24,0:15:55.03,Ristorante,FV,0,0,0,,Buon giorno!
+Dialogue: 0,0:15:55.03,0:15:57.26,Ristorante,FV,0,0,0,,I heard you're thinking up the spring menu?
+Dialogue: 0,0:15:58.01,0:15:59.52,Ristorante,FV,0,0,0,,It looks fabulous!
+Dialogue: 0,0:16:00.00,0:16:01.61,Ristorante,FV,0,0,0,,Buon appetito!
+Dialogue: 0,0:16:03.77,0:16:05.23,Ristorante,FV,0,0,0,,Delicious!
+Dialogue: 0,0:16:05.23,0:16:08.08,Ristorante,FV,0,0,0,,I can't get enough of that crispy pie crust!
+Dialogue: 0,0:16:10.45,0:16:12.38,Ristorante,FV,0,0,0,,This is lovely too.
+Dialogue: 0,0:16:14.71,0:16:15.87,Ristorante,FV,0,0,0,,Huh?
+Dialogue: 0,0:16:17.45,0:16:20.57,Ristorante,FV,0,0,0,,This tastes oddly... familiar...
+Dialogue: 0,0:16:22.20,0:16:23.50,Ristorante,MV,0,0,0,,Nicoletta.
+Dialogue: 0,0:16:24.46,0:16:29.82,Ristorante,MV,0,0,0,,This would be considered very good,\Nhad it been made by a layperson.
+Dialogue: 0,0:16:29.82,0:16:30.97,Ristorante,MV,0,0,0,,However...
+Dialogue: 0,0:16:30.97,0:16:32.84,Ristorante,MV,0,0,0,,A pro can do better.
+Dialogue: 0,0:16:39.94,0:16:41.23,Ristorante,FV,0,0,0,,You're right.
+Dialogue: 0,0:16:41.23,0:16:43.39,Ristorante,FV,0,0,0,,Home cooking is good,
+Dialogue: 0,0:16:43.39,0:16:45.73,Ristorante,FV,0,0,0,,but it doesn't fly in a restaurant.
+Dialogue: 0,0:16:46.15,0:16:48.31,Ristorante,FV,0,0,0,,Thank you for being so honest with me.
+Dialogue: 0,0:16:48.31,0:16:49.07,Ristorante,FV,0,0,0,,Huh?
+Dialogue: 0,0:16:49.07,0:16:52.69,Ristorante,FV,0,0,0,,I learned an awful lot today!
+Dialogue: 0,0:16:52.69,0:16:54.23,Ristorante,FV,0,0,0,,Skills are important,
+Dialogue: 0,0:16:54.23,0:16:58.40,Ristorante,FV,0,0,0,,but I think it's also important to think about the people eating your dishes.
+Dialogue: 0,0:16:59.08,0:17:02.07,Ristorante,FV,0,0,0,,I think the next dish I make will be even more delicious!
+Dialogue: 0,0:17:09.04,0:17:12.01,Ristorante,FV,0,0,0,,I'll... go clean up.
+Dialogue: 0,0:17:16.18,0:17:18.89,Ristorante,FV,0,0,0,,She got a little full of herself.
+Dialogue: 0,0:17:28.58,0:17:29.79,Ristorante,FV,0,0,0,,Thank you.
+Dialogue: 0,0:17:32.75,0:17:38.41,Ristorante,MV,0,0,0,,There's a saying that us cameriere believe in.
+Dialogue: 0,0:17:38.41,0:17:39.20,Ristorante,FV,0,0,0,,Hmm?
+Dialogue: 0,0:17:39.20,0:17:42.69,Ristorante,MV,0,0,0,,A restaurant that serves good food to the staff is a good restaurant.
+Dialogue: 0,0:17:46.58,0:17:50.40,Ristorante,MV,0,0,0,,You even got Teo to honestly admit it was good.
+Dialogue: 0,0:17:53.36,0:17:54.95,Ristorante,FV,0,0,0,,I'm so glad!
+Dialogue: 0,0:18:08.46,0:18:12.25,Ristorante,FV,0,0,0,,Is it really OK for us to go home while the boiler is still being worked on?
+Dialogue: 0,0:18:12.25,0:18:14.84,Ristorante,MV,0,0,0,,We'll let Gigi worry about it, so it's fine.
+Dialogue: 0,0:18:14.84,0:18:17.48,Ristorante,MV,0,0,0,,It'll get even colder once night falls.
+Dialogue: 0,0:18:17.48,0:18:18.53,Ristorante,MV,0,0,0,,Indeed.
+Dialogue: 0,0:18:31.22,0:18:34.90,Ristorante,FV,0,0,0,,Huh? Isn't that Teo's motorcycle?
+Dialogue: 0,0:18:35.17,0:18:37.00,Ristorante,FV,0,0,0,,Did you figure out the menu?
+Dialogue: 0,0:18:37.35,0:18:38.16,Ristorante,MV,0,0,0,,Sure did.
+Dialogue: 0,0:18:38.16,0:18:38.85,Ristorante,FV,0,0,0,,Huh?
+Dialogue: 0,0:18:39.30,0:18:40.59,Ristorante,MV,0,0,0,,Long time no see.
+Dialogue: 0,0:18:42.11,0:18:43.91,Ristorante,MV,0,0,0,,It's been some time.
+Dialogue: 0,0:18:43.91,0:18:44.85,Ristorante,FV,0,0,0,,It sure has.
+Dialogue: 0,0:18:46.50,0:18:48.13,Ristorante,MV,0,0,0,,This is Vanna.
+Dialogue: 0,0:18:48.75,0:18:49.69,Ristorante,FV,0,0,0,,What?!
+Dialogue: 0,0:18:51.15,0:18:53.03,Ristorante,FV,0,0,0,,Ahh!
+Dialogue: 0,0:18:54.07,0:18:55.80,Ristorante,FV,0,0,0,,What's this all about?
+Dialogue: 0,0:18:56.67,0:18:59.07,Ristorante,FV,0,0,0,,You must be Nicoletta.
+Dialogue: 0,0:18:59.07,0:19:00.43,Ristorante,FV,0,0,0,,Piacere.
+Dialogue: 0,0:19:00.71,0:19:03.15,Ristorante,FV,0,0,0,,They told me you were in America.
+Dialogue: 0,0:19:03.15,0:19:05.47,Ristorante,FV,0,0,0,,I'm going back next week.
+Dialogue: 0,0:19:05.47,0:19:07.41,Ristorante,MV,0,0,0,,It's a shame you can't stay longer.
+Dialogue: 0,0:19:07.41,0:19:10.23,Ristorante,FV,0,0,0,,I'll come by to try out the new menu.
+Dialogue: 0,0:19:10.23,0:19:11.44,Ristorante,FV,0,0,0,,Please do!
+Dialogue: 0,0:19:11.44,0:19:13.49,Ristorante,FV,0,0,0,,I heard that you're a top-rate chef!
+Dialogue: 0,0:19:13.49,0:19:16.52,Ristorante,FV,0,0,0,,Who on earth said such a silly thing?
+Dialogue: 0,0:19:21.63,0:19:22.89,Ristorante,MV,0,0,0,,See you tomorrow.
+Dialogue: 0,0:19:22.89,0:19:23.93,Ristorante,FV,0,0,0,,Ciao.
+Dialogue: 0,0:19:28.86,0:19:31.74,Ristorante,FV,0,0,0,,Could those two be...
+Dialogue: 0,0:19:33.93,0:19:36.27,Ristorante,MV,0,0,0,,My wife's waiting at the enoteca.
+Dialogue: 0,0:19:36.27,0:19:38.14,Ristorante,MV,0,0,0,,Care to join us?
+Dialogue: 0,0:19:38.14,0:19:40.58,Ristorante,FV,0,0,0,,I have to go home and practice!
+Dialogue: 0,0:19:40.58,0:19:42.61,Ristorante,FV,0,0,0,,I had a tough time today.
+Dialogue: 0,0:19:42.90,0:19:47.36,Ristorante,MV,0,0,0,,You want to be acknowledged as being a good professional chef, don't you?
+Dialogue: 0,0:19:47.36,0:19:48.77,Ristorante,FV,0,0,0,,You called it!
+Dialogue: 0,0:19:48.77,0:19:49.83,Ristorante,FV,0,0,0,,Ciao!
+Dialogue: 0,0:20:02.02,0:20:05.88,Ristorante,FV,0,0,0,,You know, I'll think I'll take you up on that drink!
+Dialogue: 0,0:20:05.88,0:20:08.07,Ristorante,FV,0,0,0,,There's no reason for me to rush.
+Dialogue: 0,0:20:08.07,0:20:08.86,Ristorante,FV,0,0,0,,Right?
+Dialogue: 0,0:20:09.66,0:20:11.60,Ristorante,MV,0,0,0,,We'd love for you to join us.
+Dialogue: 0,0:20:40.63,0:20:44.22,Ristorante,FV,0,0,0,,Looks like I am without a rival.
+Dialogue: 0,0:20:50.75,0:20:52.10,Ristorante,FV,0,0,0,,Or am I mistaken?
