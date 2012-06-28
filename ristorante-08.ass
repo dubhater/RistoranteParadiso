@@ -18,6 +18,9 @@ Video Position: 163
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Ristorante,Fansub,34,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,2.5,0,2,140,140,40,1
+Style: Ristorante italic,Fansub,34,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,82,100,0,0,1,2.5,0,2,140,140,40,1
+Style: Ristorante kara top,MetaPro-BoldItalic,34,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,2.5,0,8,140,140,40,1
+Style: Ristorante kara bottom,MetaPro-BoldItalic,34,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,2.5,0,2,140,140,40,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
