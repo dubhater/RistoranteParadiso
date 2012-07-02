@@ -14,11 +14,11 @@ Video File: ../raws/ristorante-07.mkv
 Video Aspect Ratio: c1.83054
 Video Zoom: 5
 Audio URI: ../audio/ristorante-07.mka
-Scroll Position: 11
-Active Line: 12
+Scroll Position: 0
+Active Line: 1
 YCbCr Matrix: TV.601
 Keyframes File: ../avisynth/scxvid/ristorante-scxvid-07.txt
-Video Position: 3655
+Video Position: 0
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -29,93 +29,95 @@ Style: Ristorante kara bottom,MetaPro-BoldItalic,34,&H00FFFFFF,&H000000FF,&H0000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:08.73,0:00:11.91,Ristorante,MV,0,0,0,,His birthday's coming soon, isn't it?
-Dialogue: 0,0:00:11.91,0:00:14.74,Ristorante,FV,0,0,0,,I get uneasy every time I look at the calendar.
+Comment: 1,0:00:00.00,0:23:40.82,Ristorante,,1,0,1,,{\an7\bord1\3c&HFFFFFF&\p1}m 256 360 l 256 470 m 620 360 l 620 470{\p0}
+Comment: 2,0:00:00.00,0:23:40.82,Ristorante,,1,1,1,,{\an7\bord1\3c&H000000&\p1}m 255 360 l 255 470 m 621 360 l 621 470{\p0}
+Dialogue: 0,0:00:08.73,0:00:11.91,Ristorante,MV,0,0,0,,His birthday's\Ncoming soon, isn't it?
+Dialogue: 0,0:00:11.91,0:00:14.74,Ristorante,FV,0,0,0,,I get uneasy every time\NI look at the calendar.
 Dialogue: 0,0:00:16.18,0:00:18.72,Ristorante,FV,0,0,0,,But, my husband...
-Dialogue: 0,0:00:18.72,0:00:21.22,Ristorante,MV,0,0,0,,If he has to work, he has to work.
-Dialogue: 0,0:00:21.76,0:00:24.30,Ristorante,FV,0,0,0,,He couldn't make it last year, either.
-Dialogue: 0,0:00:25.22,0:00:28.25,Ristorante,FV,0,0,0,,Franci is always so disappointed.
-Dialogue: 0,0:00:30.73,0:00:32.94,Ristorante,MV,0,0,0,,It'll be fine. I'll make sure of it.
-Dialogue: 0,0:00:36.37,0:00:38.86,Ristorante,FV,0,0,0,,You want one of the cakes you usually get?
-Dialogue: 0,0:00:38.86,0:00:43.41,Ristorante,MV,0,0,0,,Yes, but give me the largest one you've got.
+Dialogue: 0,0:00:18.72,0:00:21.22,Ristorante,MV,0,0,0,,If he has to work,\Nhe has to work.
+Dialogue: 0,0:00:21.76,0:00:24.30,Ristorante,FV,0,0,0,,He couldn't make it\Nlast year, either.
+Dialogue: 0,0:00:25.22,0:00:28.25,Ristorante,FV,0,0,0,,Franci is always\Nso disappointed.
+Dialogue: 0,0:00:30.73,0:00:32.94,Ristorante,MV,0,0,0,,It'll be fine.\NI'll make sure of it.
+Dialogue: 0,0:00:36.37,0:00:38.86,Ristorante,FV,0,0,0,,You want one of the cakes\Nyou usually get?
+Dialogue: 0,0:00:38.86,0:00:43.41,Ristorante,MV,0,0,0,,Yes, but give me\Nthe largest one you've got.
 Dialogue: 0,0:00:43.73,0:00:47.52,Ristorante,FV,0,0,0,,Sounds like quite the gathering this year. That's fantastic.
 Dialogue: 0,0:00:58.10,0:01:01.29,Ristorante,MV,0,0,0,,He's turning nine already.
-Dialogue: 0,0:01:05.76,0:01:07.87,Ristorante,MV,0,0,0,,I'm going to make it a fun day.
+Dialogue: 0,0:01:05.76,0:01:07.87,Ristorante,MV,0,0,0,,I'm going to\Nmake it a fun day.
 Dialogue: 0,0:02:32.42,0:02:39.13,Ristorante,FV,0,0,0,,This mysterious restaurant is on a road just a little ways from the center of Rome.
 Dialogue: 0,0:02:42.39,0:02:45.76,Ristorante,FV,0,0,0,,This is great. I've always wanted the three of us to drink together.
 Dialogue: 0,0:02:45.76,0:02:50.77,Ristorante,FV,0,0,0,,And, I had no idea that Luciano had such a lovely daughter.
-Dialogue: 0,0:02:50.77,0:02:54.52,Ristorante,FV,0,0,0,,I thought about introducing myself to you.
-Dialogue: 0,0:02:54.52,0:02:57.15,Ristorante,FV,0,0,0,,Papa told me so much about you, Nicoletta.
-Dialogue: 0,0:02:57.15,0:03:02.24,Ristorante,FV,0,0,0,,He probably said things like, "This newbie who just barged in one day," huh?
+Dialogue: 0,0:02:50.77,0:02:54.52,Ristorante,FV,0,0,0,,I thought about\Nintroducing myself to you.
+Dialogue: 0,0:02:54.52,0:02:57.15,Ristorante,FV,0,0,0,,Papa told me so much\Nabout you, Nicoletta.
+Dialogue: 0,0:02:57.15,0:03:02.24,Ristorante,FV,0,0,0,,He probably said things like, "This newbie\Nwho just barged in one day," huh?
 Dialogue: 0,0:03:03.41,0:03:07.08,Ristorante,MV,0,0,0,,He means well when he says those things, though. Please forgive him.
 Dialogue: 0,0:03:07.75,0:03:09.25,Ristorante,FV,0,0,0,,Means well, huh?
-Dialogue: 0,0:03:13.33,0:03:16.50,Ristorante,FV,0,0,0,,All right, since we're off tomorrow, let's get another bottle!
-Dialogue: 0,0:03:16.50,0:03:19.13,Ristorante,FV,0,0,0,,I'm can't, I have a date tonight.
+Dialogue: 0,0:03:13.33,0:03:16.50,Ristorante,FV,0,0,0,,All right, since we're off tomorrow,\Nlet's get another bottle!
+Dialogue: 0,0:03:16.50,0:03:19.13,Ristorante,FV,0,0,0,,I'm can't, I have\Na date tonight.
 Dialogue: 0,0:03:19.13,0:03:20.34,Ristorante,FV,0,0,0,,Where you headed?
-Dialogue: 0,0:03:20.34,0:03:23.80,Ristorante,FV,0,0,0,,We're just going to jog home together.
-Dialogue: 0,0:03:24.26,0:03:26.68,Ristorante,FV,0,0,0,,You guys are like two peas in a pod.
+Dialogue: 0,0:03:20.34,0:03:23.80,Ristorante,FV,0,0,0,,We're just going to\Njog home together.
+Dialogue: 0,0:03:24.26,0:03:26.68,Ristorante,FV,0,0,0,,You guys are like\Ntwo peas in a pod.
 Dialogue: 0,0:03:28.60,0:03:30.31,Ristorante,FV,0,0,0,,A date, huh?
-Dialogue: 0,0:03:30.31,0:03:32.65,Ristorante,FV,0,0,0,,I want to go on a date someday.
+Dialogue: 0,0:03:30.31,0:03:32.65,Ristorante,FV,0,0,0,,I want to go on\Na date someday.
 Dialogue: 0,0:03:34.31,0:03:36.48,Ristorante,FV,0,0,0,,I should get going too.
 Dialogue: 0,0:03:36.48,0:03:37.57,Ristorante,FV,0,0,0,,What?
-Dialogue: 0,0:03:37.57,0:03:39.99,Ristorante,FV,0,0,0,,It's Franci's birthday tomorrow.
+Dialogue: 0,0:03:37.57,0:03:39.99,Ristorante,FV,0,0,0,,It's Franci's\Nbirthday tomorrow.
 Dialogue: 0,0:03:39.99,0:03:41.45,Ristorante,FV,0,0,0,,I've got to prepare.
 Dialogue: 0,0:03:41.45,0:03:43.78,Ristorante,FV,0,0,0,,Oh, I had no idea!
 Dialogue: 0,0:03:43.78,0:03:44.91,Ristorante,FV,0,0,0,,Congrats!
 Dialogue: 0,0:03:45.32,0:03:47.20,Ristorante,FV,0,0,0,,Nonno is going all out.
-Dialogue: 0,0:03:47.20,0:03:53.17,Ristorante,FV,0,0,0,,Since my husband can't make it, he's working extra hard on the festivities.
-Dialogue: 0,0:03:54.58,0:03:58.92,Ristorante,FV,0,0,0,,That's a side of him that he'll never show us.
+Dialogue: 0,0:03:47.20,0:03:53.17,Ristorante,FV,0,0,0,,Since my husband can't make it,\Nhe's working extra hard on the festivities.
+Dialogue: 0,0:03:54.58,0:03:58.92,Ristorante,FV,0,0,0,,That's a side of him\Nthat he'll never show us.
 Dialogue: 0,0:03:58.92,0:04:01.17,Ristorante,FV,0,0,0,,I'd like to see it, though.
-Dialogue: 0,0:04:02.09,0:04:04.84,Ristorante,FV,0,0,0,,Say, would you mind if I stopped by?
+Dialogue: 0,0:04:02.09,0:04:04.84,Ristorante,FV,0,0,0,,Say, would you mind\Nif I stopped by?
 Dialogue: 0,0:04:04.84,0:04:07.35,Ristorante,FV,0,0,0,,I'd love for you to come!
 Dialogue: 0,0:04:07.35,0:04:10.10,Ristorante,FV,0,0,0,,But are you sure you'd want to use your day off for that?
 Dialogue: 0,0:04:10.10,0:04:12.98,Ristorante,FV,0,0,0,,Sure! How about you, Marina?
-Dialogue: 0,0:04:13.35,0:04:15.98,Ristorante,FV,0,0,0,,If you're OK with an adult guest coming...
-Dialogue: 0,0:04:16.23,0:04:19.02,Ristorante,FV,0,0,0,,Splendid. Franci will be so happy.
-Dialogue: 0,0:04:21.57,0:04:25.53,Ristorante,FV,0,0,0,,Oh, but we can't tell Luciano...
+Dialogue: 0,0:04:13.35,0:04:15.98,Ristorante,FV,0,0,0,,If you're OK with\Nan adult guest coming...
+Dialogue: 0,0:04:16.23,0:04:19.02,Ristorante,FV,0,0,0,,Splendid. Franci will\Nbe so happy.
+Dialogue: 0,0:04:21.57,0:04:25.53,Ristorante,FV,0,0,0,,Oh, but we\Ncan't tell Luciano...
 Dialogue: 0,0:04:26.62,0:04:27.70,Ristorante,MV,0,0,0,,Good night.
 Dialogue: 0,0:04:27.70,0:04:28.45,Ristorante,FV,0,0,0,,Ciao.
 Dialogue: 0,0:04:28.45,0:04:31.33,Ristorante,FV,10,0,0,,{\an1}Ciao, Luciano, Margherita.
 Dialogue: 0,0:04:28.45,0:04:31.33,Ristorante,FV,0,10,0,,{\an3}Ciao, Margherita, Nicoletta.
 Dialogue: 0,0:04:36.79,0:04:43.13,Ristorante,FV,0,0,0,,So... We can make it a real surprise party for Luciano.
 Dialogue: 0,0:04:43.13,0:04:44.13,Ristorante,FV,0,0,0,,What do you say?
-Dialogue: 0,0:04:44.88,0:04:47.59,Ristorante,MV,0,0,0,,Luciano will be totally surprised.
+Dialogue: 0,0:04:44.88,0:04:47.59,Ristorante,MV,0,0,0,,Luciano will be\Ntotally surprised.
 Dialogue: 0,0:04:47.59,0:04:49.56,Ristorante,MV,0,0,0,,Sure, sounds like fun.
 Dialogue: 0,0:04:49.97,0:04:52.89,Ristorante,MV,0,0,0,,I'm all for it, of course.
 Dialogue: 0,0:04:53.93,0:04:55.23,Ristorante,FV,0,0,0,,And you, Teo?
-Dialogue: 0,0:04:55.23,0:04:57.94,Ristorante,MV,0,0,0,,My plans fell apart, so since I'm free...
+Dialogue: 0,0:04:55.23,0:04:57.94,Ristorante,MV,0,0,0,,My plans fell apart,\Nso since I'm free...
 Dialogue: 0,0:04:57.94,0:04:59.11,Ristorante,FV,0,0,0,,Gigi?
 Dialogue: 0,0:05:02.07,0:05:03.99,Ristorante,FV,0,0,0,,So it's a yes from you, too.
 Dialogue: 0,0:05:03.99,0:05:05.40,Ristorante,FV,0,0,0,,Thanks, everyone!
-Dialogue: 0,0:05:05.65,0:05:08.32,Ristorante,MV,0,0,0,,You've really gotten to know us well, Nicoletta.
-Dialogue: 0,0:05:08.32,0:05:14.58,Ristorante,MV,0,0,0,,The fact you can understand what Gigi is thinking means you've matured as an apprentice.
+Dialogue: 0,0:05:05.65,0:05:08.32,Ristorante,MV,0,0,0,,You've really gotten\Nto know us well, Nicoletta.
+Dialogue: 0,0:05:08.32,0:05:14.58,Ristorante,MV,0,0,0,,The fact you can understand what Gigi is thinking\Nmeans you've matured as an apprentice.
 Dialogue: 0,0:05:15.04,0:05:16.71,Ristorante,FV,0,0,0,,Is that a good thing?
-Dialogue: 0,0:05:19.34,0:05:21.55,Ristorante,FV,0,0,0,,Papa came back to get something he forgot.
-Dialogue: 0,0:05:21.55,0:05:24.59,Ristorante,MV,0,0,0,,I think I left it on top of Teo's motorcycle.
+Dialogue: 0,0:05:19.34,0:05:21.55,Ristorante,FV,0,0,0,,Papa came back to get\Nsomething he forgot.
+Dialogue: 0,0:05:21.55,0:05:24.59,Ristorante,MV,0,0,0,,I think I left it on top\Nof Teo's motorcycle.
 Dialogue: 0,0:05:25.05,0:05:26.59,Ristorante,MV,0,0,0,,There it is.
-Dialogue: 0,0:05:27.22,0:05:30.60,Ristorante,MV,0,0,0,,I know you've all got the day off, but don't go drinking yourselves silly now.
+Dialogue: 0,0:05:27.22,0:05:30.60,Ristorante,MV,0,0,0,,I know you've all got the day off,\Nbut don't go drinking yourselves silly now.
 Dialogue: 0,0:05:30.60,0:05:34.60,Ristorante,FV,0,0,0,,Oh, do you have any particular plans tomorrow, Luciano?
 Dialogue: 0,0:05:34.98,0:05:36.48,Ristorante,MV,0,0,0,,It's a secret.
 Dialogue: 0,0:05:38.98,0:05:41.61,Ristorante,FV,0,0,0,,Then so are my plans.
 Dialogue: 0,0:05:44.53,0:05:46.53,Ristorante,FV,0,0,0,,Good night.
-Dialogue: 0,0:05:48.45,0:05:50.53,Ristorante,FV,0,0,0,,Thanks for walking me home.
-Dialogue: 0,0:05:50.53,0:05:53.16,Ristorante,MV,0,0,0,,I'll try to get there early tomorrow.
+Dialogue: 0,0:05:48.45,0:05:50.53,Ristorante,FV,0,0,0,,Thanks for\Nwalking me home.
+Dialogue: 0,0:05:50.53,0:05:53.16,Ristorante,MV,0,0,0,,I'll try to get there\Nearly tomorrow.
 Dialogue: 0,0:05:53.95,0:05:57.04,Ristorante,MV,0,0,0,,Francesco's friends will be arriving around five, right?
-Dialogue: 0,0:05:57.46,0:06:01.25,Ristorante,MV,0,0,0,,So I'll try to get there around three...
+Dialogue: 0,0:05:57.46,0:06:01.25,Ristorante,MV,0,0,0,,So I'll try to get\Nthere around three...
 Dialogue: 0,0:06:01.25,0:06:05.51,Ristorante,FV,0,0,0,,I'm sorry, Papa! I'm doing something in the afternoon.
 Dialogue: 0,0:06:05.51,0:06:05.96,Ristorante,MV,0,0,0,,Huh?
-Dialogue: 0,0:06:05.96,0:06:08.34,Ristorante,FV,0,0,0,,Can you come at around five, too?
+Dialogue: 0,0:06:05.96,0:06:08.34,Ristorante,FV,0,0,0,,Can you come\Nat around five, too?
 Dialogue: 0,0:06:08.34,0:06:10.43,Ristorante,MV,0,0,0,,At five? But then...
 Dialogue: 0,0:06:10.43,0:06:13.47,Ristorante,FV,0,0,0,,I can take care of the preparations by myself. I'll be fine.
 Dialogue: 0,0:06:13.47,0:06:14.81,Ristorante,FV,0,0,0,,You're on cake duty.
 Dialogue: 0,0:06:15.14,0:06:16.43,Ristorante,FV,0,0,0,,Don't be late.
-Dialogue: 0,0:06:16.43,0:06:18.48,Ristorante,FV,0,0,0,,I'm counting on you. Good night!
+Dialogue: 0,0:06:16.43,0:06:18.48,Ristorante,FV,0,0,0,,I'm counting on you.\NGood night!
 Dialogue: 0,0:06:18.48,0:06:19.60,Ristorante,FV,0,0,0,,Ciao.
 Dialogue: 0,0:06:33.83,0:06:35.04,Ristorante,FV,0,0,0,,Look at this!
-Dialogue: 0,0:06:35.45,0:06:40.04,Ristorante,MV,0,0,0,,Nice. Do you think this will be OK here?
+Dialogue: 0,0:06:35.45,0:06:40.04,Ristorante,MV,0,0,0,,Nice. Do you think\Nthis will be OK here?
 Dialogue: 0,0:06:40.67,0:06:42.63,Ristorante,FV,0,0,0,,Yeah, it looks great.
-Dialogue: 0,0:06:42.63,0:06:44.50,Ristorante,FV,0,0,0,,So, how many people are we expecting?
-Dialogue: 0,0:06:44.50,0:06:48.30,Ristorante,FV,0,0,0,,Fifteen, if you count the adult guests.
+Dialogue: 0,0:06:42.63,0:06:44.50,Ristorante,FV,0,0,0,,So, how many people\Nare we expecting?
+Dialogue: 0,0:06:44.50,0:06:48.30,Ristorante,FV,0,0,0,,Fifteen, if you count\Nthe adult guests.
 Dialogue: 0,0:06:48.30,0:06:51.93,Ristorante,FV,0,0,0,,Did you hear that? Can you handle all that by yourself?
 Dialogue: 0,0:06:52.59,0:06:56.01,Ristorante,MV,0,0,0,,Wanna have a contest? See who has the larger lung capacity?
 Dialogue: 0,0:07:01.27,0:07:02.77,Ristorante,,0,0,0,,Holy cow.
@@ -126,12 +128,12 @@ Dialogue: 0,0:07:18.33,0:07:19.58,Ristorante,MV,0,0,0,,Yeah.
 Dialogue: 0,0:07:19.58,0:07:21.87,Ristorante,MV,0,0,0,,Oh, what about Gigi?
 Dialogue: 0,0:07:27.21,0:07:30.42,Ristorante,MV,0,0,0,,He's doing a... juice tasting?
 Dialogue: 0,0:07:44.23,0:07:46.52,Ristorante,MV,0,0,0,,That's too boring.
-Dialogue: 0,0:07:53.86,0:07:56.74,Ristorante,MV,0,0,0,,He'd like it, but he won't be surprised by it.
+Dialogue: 0,0:07:53.86,0:07:56.74,Ristorante,MV,0,0,0,,He'd like it, but he\Nwon't be surprised by it.
 Dialogue: 0,0:08:01.16,0:08:03.08,Ristorante,FV,0,0,0,,Welcome home, Franci.
 Dialogue: 0,0:08:03.08,0:08:04.71,Ristorante,MV,0,0,0,,Welcome back.
-Dialogue: 0,0:08:04.71,0:08:07.17,Ristorante,MV,0,0,0,,Oh, the birthday boy is here!
-Dialogue: 0,0:08:09.59,0:08:11.38,Ristorante,MV,0,0,0,,Want me to help with something?
-Dialogue: 0,0:08:11.63,0:08:13.97,Ristorante,FV,0,0,0,,The birthday boy shouldn't work.
+Dialogue: 0,0:08:04.71,0:08:07.17,Ristorante,MV,0,0,0,,Oh, the birthday\Nboy is here!
+Dialogue: 0,0:08:09.59,0:08:11.38,Ristorante,MV,0,0,0,,Want me to help\Nwith something?
+Dialogue: 0,0:08:11.63,0:08:13.97,Ristorante,FV,0,0,0,,The birthday boy\Nshouldn't work.
 Dialogue: 0,0:08:13.97,0:08:15.72,Ristorante,MV,0,0,0,,OK, Mamma.
 Dialogue: 0,0:08:23.48,0:08:25.35,Ristorante,MV,0,0,0,,I'll carry that!
 Dialogue: 0,0:08:25.35,0:08:27.15,Ristorante,FV,0,0,0,,Be careful. It's hot.
@@ -140,15 +142,15 @@ Dialogue: 0,0:08:30.98,0:08:32.03,Ristorante,MV,0,0,0,,Ow!
 Dialogue: 0,0:08:33.70,0:08:35.95,Ristorante,FV,0,0,0,,Are you all right, Franci?
 Dialogue: 0,0:08:36.62,0:08:37.74,Ristorante,MV,0,0,0,,The cookies...
 Dialogue: 0,0:08:37.74,0:08:38.83,Ristorante,FV,0,0,0,,Oh, thank heavens.
-Dialogue: 0,0:08:38.83,0:08:40.29,Ristorante,FV,0,0,0,,What'll I do with you, Franci?
-Dialogue: 0,0:08:40.70,0:08:45.42,Ristorante,MV,0,0,0,,Teo's got more cookies in the oven, so don't worry about it.
+Dialogue: 0,0:08:38.83,0:08:40.29,Ristorante,FV,0,0,0,,What'll I do\Nwith you, Franci?
+Dialogue: 0,0:08:40.70,0:08:45.42,Ristorante,MV,0,0,0,,Teo's got more cookies in the oven,\Nso don't worry about it.
 Dialogue: 0,0:08:54.68,0:08:56.09,Ristorante,FV,0,0,0,,Franci...
 Dialogue: 0,0:09:05.23,0:09:06.90,Ristorante,FV,0,0,0,,It's so nice out.
-Dialogue: 0,0:09:07.77,0:09:10.65,Ristorante,MV,0,0,0,,It's supposed to get chilly tonight, though.
+Dialogue: 0,0:09:07.77,0:09:10.65,Ristorante,MV,0,0,0,,It's supposed to get\Nchilly tonight, though.
 Dialogue: 0,0:09:14.90,0:09:16.70,Ristorante,FV,0,0,0,,Wow, it's so cute.
-Dialogue: 0,0:09:16.70,0:09:18.78,Ristorante,MV,0,0,0,,It'd look good on you, Nicoletta.
+Dialogue: 0,0:09:16.70,0:09:18.78,Ristorante,MV,0,0,0,,It'd look good\Non you, Nicoletta.
 Dialogue: 0,0:09:18.78,0:09:20.78,Ristorante,FV,0,0,0,,You think so?
-Dialogue: 0,0:09:20.78,0:09:23.79,Ristorante,FV,0,0,0,,Oh, that one would look good on you, Claudio.
+Dialogue: 0,0:09:20.78,0:09:23.79,Ristorante,FV,0,0,0,,Oh, that one would look\Ngood on you, Claudio.
 Dialogue: 0,0:09:24.12,0:09:26.16,Ristorante,MV,0,0,0,,Oh, that's my favorite color.
 Dialogue: 0,0:09:26.16,0:09:27.25,Ristorante,FV,0,0,0,,Seriously?
 Dialogue: 0,0:09:27.25,0:09:28.21,Ristorante,MV,0,0,0,,Yeah.
@@ -157,53 +159,53 @@ Dialogue: 0,0:09:47.19,0:09:49.27,Ristorante,MV,0,0,0,,Well, should we get going
 Dialogue: 0,0:09:50.02,0:09:51.65,Ristorante,FV,0,0,0,,Oh... Sure.
 Dialogue: 0,0:10:17.30,0:10:18.47,Ristorante,MV,0,0,0,,Grazie.
 Dialogue: 0,0:10:18.47,0:10:19.84,Ristorante,MV,0,0,0,,Prego.
-Dialogue: 0,0:10:24.85,0:10:27.23,Ristorante,MV,0,0,0,,We don't have to go back yet?
-Dialogue: 0,0:10:27.64,0:10:32.23,Ristorante,MV,0,0,0,,Nah, we can kill a little more time around here first.
-Dialogue: 0,0:10:32.73,0:10:36.82,Ristorante,FV,0,0,0,,Leave the party preparation to the common folk.
-Dialogue: 0,0:10:36.82,0:10:39.53,Ristorante,FV,0,0,0,,Today is the prince's birthday celebration!
-Dialogue: 0,0:10:40.41,0:10:43.16,Ristorante,MV,0,0,0,,But keep it secret from Nonno.
+Dialogue: 0,0:10:24.85,0:10:27.23,Ristorante,MV,0,0,0,,We don't have\Nto go back yet?
+Dialogue: 0,0:10:27.64,0:10:32.23,Ristorante,MV,0,0,0,,Nah, we can kill a little more\Ntime around here first.
+Dialogue: 0,0:10:32.73,0:10:36.82,Ristorante,FV,0,0,0,,Leave the party preparation\Nto the common folk.
+Dialogue: 0,0:10:36.82,0:10:39.53,Ristorante,FV,0,0,0,,Today is the prince's\Nbirthday celebration!
+Dialogue: 0,0:10:40.41,0:10:43.16,Ristorante,MV,0,0,0,,But keep it secret\Nfrom Nonno.
 Dialogue: 0,0:10:43.53,0:10:45.54,Ristorante,FV,0,0,0,,Exactly. Secret.
 Dialogue: 0,0:11:19.03,0:11:20.07,Ristorante,MV,0,0,0,,Move!
 Dialogue: 0,0:11:32.50,0:11:33.63,Ristorante,FV,0,0,0,,What?
-Dialogue: 0,0:11:39.72,0:11:42.13,Ristorante,FV,0,0,0,,What was that all about, Claudio?
+Dialogue: 0,0:11:39.72,0:11:42.13,Ristorante,FV,0,0,0,,What was that\Nall about, Claudio?
 Dialogue: 0,0:11:42.13,0:11:44.89,Ristorante,MV,0,0,0,,Shh. Over there.
 Dialogue: 0,0:11:49.35,0:11:50.06,Ristorante,FV,0,0,0,,Huh?
 Dialogue: 0,0:12:00.82,0:12:02.82,Ristorante,FV,0,0,0,,Franci, stay in there!
 Dialogue: 0,0:12:02.82,0:12:03.95,Ristorante,MV,0,0,0,,Franci!
 Dialogue: 0,0:12:13.12,0:12:15.29,Ristorante,MV,0,0,0,,Nicoletta, move further in.
 Dialogue: 0,0:12:45.66,0:12:47.53,Ristorante,FV,0,0,0,,By the skin of our teeth.
-Dialogue: 0,0:12:52.29,0:12:55.37,Ristorante,MV,0,0,0,,Oh, right. I'll pick up the cake.
+Dialogue: 0,0:12:52.29,0:12:55.37,Ristorante,MV,0,0,0,,Oh, right. I'll pick\Nup the cake.
 Dialogue: 0,0:13:04.72,0:13:06.93,Ristorante,FV,0,0,0,,Then so are my plans.
 Dialogue: 0,0:13:08.43,0:13:09.89,Ristorante,MV,0,0,0,,Oh, I see.
-Dialogue: 0,0:13:18.23,0:13:23.49,Ristorante,MV,0,0,0,,Hey, bro, isn't today Franci's festa? Shouldn't you be going?
+Dialogue: 0,0:13:18.23,0:13:23.49,Ristorante,MV,0,0,0,,Hey, bro, isn't today Franci's festa?\NShouldn't you be going?
 Dialogue: 0,0:13:23.94,0:13:26.70,Ristorante,MV,0,0,0,,I was just stopping by for a bit.
-Dialogue: 0,0:13:27.11,0:13:30.91,Ristorante,MV,0,0,0,,Oh, then please give Franci my present.
-Dialogue: 0,0:13:30.91,0:13:34.66,Ristorante,MV,0,0,0,,And tell him I apologize for not being able to take off work.
+Dialogue: 0,0:13:27.11,0:13:30.91,Ristorante,MV,0,0,0,,Oh, then please give\NFranci my present.
+Dialogue: 0,0:13:30.91,0:13:34.66,Ristorante,MV,0,0,0,,And tell him I apologize for\Nnot being able to take off work.
 Dialogue: 0,0:13:35.08,0:13:36.25,Ristorante,MV,0,0,0,,OK.
-Dialogue: 0,0:13:37.54,0:13:41.55,Ristorante,FV,0,0,0,,Our secret plan was almost exposed.
-Dialogue: 0,0:13:41.55,0:13:44.01,Ristorante,MV,0,0,0,,It's a good thing he didn't spot us.
-Dialogue: 0,0:13:44.42,0:13:47.43,Ristorante,FV,0,0,0,,Why did Luciano go into that shop?
+Dialogue: 0,0:13:37.54,0:13:41.55,Ristorante,FV,0,0,0,,Our secret plan\Nwas almost exposed.
+Dialogue: 0,0:13:41.55,0:13:44.01,Ristorante,MV,0,0,0,,It's a good thing\Nhe didn't spot us.
+Dialogue: 0,0:13:44.42,0:13:47.43,Ristorante,FV,0,0,0,,Why did Luciano\Ngo into that shop?
 Dialogue: 0,0:13:47.43,0:13:50.43,Ristorante,MV,0,0,0,,Nonna loved that bakery.
 Dialogue: 0,0:13:50.43,0:13:51.72,Ristorante,FV,0,0,0,,Nonna?
 Dialogue: 0,0:13:52.10,0:13:54.52,Ristorante,MV,0,0,0,,His late wife.
 Dialogue: 0,0:13:54.52,0:13:56.06,Ristorante,FV,0,0,0,,Oh, I see.
-Dialogue: 0,0:13:56.06,0:14:00.02,Ristorante,FV,0,0,0,,So, she liked that cake... What was she like?
-Dialogue: 0,0:14:00.02,0:14:03.02,Ristorante,MV,0,0,0,,She was beautiful. But we never met.
+Dialogue: 0,0:13:56.06,0:14:00.02,Ristorante,FV,0,0,0,,So, she liked that cake...\NWhat was she like?
+Dialogue: 0,0:14:00.02,0:14:03.02,Ristorante,MV,0,0,0,,She was beautiful.\NBut we never met.
 Dialogue: 0,0:14:03.44,0:14:04.48,Ristorante,FV,0,0,0,,Hmm?
-Dialogue: 0,0:14:04.48,0:14:07.82,Ristorante,MV,0,0,0,,There are pictures of her in Luciano's house.
+Dialogue: 0,0:14:04.48,0:14:07.82,Ristorante,MV,0,0,0,,There are pictures\Nof her in Luciano's house.
 Dialogue: 0,0:14:07.82,0:14:10.53,Ristorante,MV,0,0,0,,She had a radiant smile.
-Dialogue: 0,0:14:10.82,0:14:13.54,Ristorante,MV,0,0,0,,Nonno is always looking at photos of her.
+Dialogue: 0,0:14:10.82,0:14:13.54,Ristorante,MV,0,0,0,,Nonno is always\Nlooking at photos of her.
 Dialogue: 0,0:14:13.83,0:14:15.04,Ristorante,FV,0,0,0,,I see.
 Dialogue: 0,0:14:16.83,0:14:20.79,Ristorante,FV,0,0,0,,Till death do us part... huh?
 Dialogue: 0,0:14:27.38,0:14:32.26,Ristorante,FV,0,0,0,,She used to always ask for a large cake because it was a "special occasion."
 Dialogue: 0,0:14:32.26,0:14:35.35,Ristorante,MV,0,0,0,,Festivals, weddings, birthdays...
-Dialogue: 0,0:14:35.89,0:14:41.31,Ristorante,MV,0,0,0,,She would just make them up so she could eat it.
+Dialogue: 0,0:14:35.89,0:14:41.31,Ristorante,MV,0,0,0,,She would just make them up\Nso she could eat it.
 Dialogue: 0,0:14:41.94,0:14:46.69,Ristorante,FV,0,0,0,,Well, congratulations on your grandson turning nine.
 Dialogue: 0,0:14:47.44,0:14:48.65,Ristorante,MV,0,0,0,,Grazie.
 Dialogue: 0,0:14:50.36,0:14:52.07,Ristorante,MV,0,0,0,,Wow!
-Dialogue: 0,0:14:52.53,0:14:54.83,Ristorante,MV,0,0,0,,Is everything to your liking, young prince?
+Dialogue: 0,0:14:52.53,0:14:54.83,Ristorante,MV,0,0,0,,Is everything to\Nyour liking, young prince?
 Dialogue: 0,0:14:55.20,0:14:56.33,Ristorante,MV,0,0,0,,Yeah!
-Dialogue: 0,0:14:56.33,0:14:58.71,Ristorante,FV,0,0,0,,Come now, let's get you changed.
+Dialogue: 0,0:14:56.33,0:14:58.71,Ristorante,FV,0,0,0,,Come now,\Nlet's get you changed.
 Dialogue: 0,0:14:58.71,0:15:00.21,Ristorante,MV,0,0,0,,Sure, Mamma.
 Dialogue: 0,0:15:03.88,0:15:06.34,Ristorante,MV+FV,0,0,0,,Buonasera!
 Dialogue: 0,0:15:07.55,0:15:08.97,Ristorante,MV,0,0,0,,Buonasera.
@@ -211,12 +213,12 @@ Dialogue: 0,0:15:08.97,0:15:10.63,Ristorante,MV,0,0,0,,Welcome.
 Dialogue: 0,0:15:11.30,0:15:13.47,Ristorante,FV,0,0,0,,We got here a little early.
 Dialogue: 0,0:15:13.47,0:15:15.06,Ristorante,MV,0,0,0,,Welcome.
 Dialogue: 0,0:15:16.01,0:15:17.60,Ristorante,MV,0,0,0,,Buonasera.
-Dialogue: 0,0:15:17.97,0:15:23.15,Ristorante,MV,0,0,0,,Have a seat. I'll bring you something to drink.
+Dialogue: 0,0:15:17.97,0:15:23.15,Ristorante,MV,0,0,0,,Have a seat. I'll bring you\Nsomething to drink.
 Dialogue: 0,0:15:32.16,0:15:34.20,Ristorante,MV,0,0,0,,Grazie.
 Dialogue: 0,0:15:35.33,0:15:37.37,Ristorante,MV,0,0,0,,You have so many butlers.
 Dialogue: 0,0:15:37.37,0:15:40.96,Ristorante,MV,0,0,0,,They're friends of Nonno. They're just helping out today.
 Dialogue: 0,0:15:42.62,0:15:45.63,Ristorante,FV,0,0,0,,It smells so good!
-Dialogue: 0,0:15:51.51,0:15:54.39,Ristorante,MV,0,0,0,,Buonasera. We've been expecting you.
+Dialogue: 0,0:15:51.51,0:15:54.39,Ristorante,MV,0,0,0,,Buonasera. We've been\Nexpecting you.
 Dialogue: 0,0:15:54.64,0:15:55.76,Ristorante,MV,0,0,0,,Nonna!
 Dialogue: 0,0:16:07.40,0:16:10.11,Ristorante,FV,0,0,0,,I'll be on camera duty.
 Dialogue: 0,0:16:10.11,0:16:11.57,Ristorante,FV,0,0,0,,I'll take care of the video.
@@ -226,13 +228,13 @@ Dialogue: 0,0:16:19.49,0:16:22.25,Ristorante,MV,0,0,0,,Buonasera, Luciano.
 Dialogue: 0,0:16:22.25,0:16:23.67,Ristorante,MV,0,0,0,,That's the cake, isn't it?
 Dialogue: 0,0:16:23.67,0:16:25.50,Ristorante,MV,0,0,0,,I'll take it for you.
 Dialogue: 0,0:16:25.79,0:16:28.13,Ristorante,MV,0,0,0,,Buonasera, Luciano.
-Dialogue: 0,0:16:28.13,0:16:31.30,Ristorante,MV,0,0,0,,Please, allow me to take your things.
+Dialogue: 0,0:16:28.13,0:16:31.30,Ristorante,MV,0,0,0,,Please, allow me\Nto take your things.
 Dialogue: 0,0:16:31.80,0:16:33.76,Ristorante,FV,0,0,0,,Buonasera, Papa.
-Dialogue: 0,0:16:34.38,0:16:36.64,Ristorante,MV,0,0,0,,You were the ones that plotted this, weren't you?
-Dialogue: 0,0:16:37.10,0:16:39.14,Ristorante,FV,0,0,0,,I'd prefer if you said "planned".
+Dialogue: 0,0:16:34.38,0:16:36.64,Ristorante,MV,0,0,0,,You were the ones that\Nplotted this, weren't you?
+Dialogue: 0,0:16:37.10,0:16:39.14,Ristorante,FV,0,0,0,,I'd prefer if\Nyou said "planned".
 Dialogue: 0,0:16:44.56,0:16:45.81,Ristorante,MV,0,0,0,,Nonno!
-Dialogue: 0,0:16:47.44,0:16:50.61,Ristorante,MV,0,0,0,,This is a present from your uncle.
-Dialogue: 0,0:16:50.61,0:16:52.57,Ristorante,MV,0,0,0,,I'll have to go say thanks later.
+Dialogue: 0,0:16:47.44,0:16:50.61,Ristorante,MV,0,0,0,,This is a present\Nfrom your uncle.
+Dialogue: 0,0:16:50.61,0:16:52.57,Ristorante,MV,0,0,0,,I'll have to go\Nsay thanks later.
 Dialogue: 0,0:17:07.83,0:17:10.84,Ristorante,FV,0,0,0,,Buon compleanno!
 Dialogue: 0,0:17:10.84,0:17:13.59,Ristorante,FV,0,0,0,,Happy birthday, Francesco!
 Dialogue: 0,0:17:23.85,0:17:25.73,Ristorante,MV,0,0,0,,It's delicious.
@@ -244,7 +246,7 @@ Dialogue: 0,0:17:41.95,0:17:46.21,Ristorante,MV,0,0,0,,tanti auguri a te...
 Dialogue: 0,0:17:46.21,0:17:52.13,Ristorante,MV,0,0,0,,Tanti auguri, Francesco.
 Dialogue: 0,0:17:52.13,0:17:58.26,Ristorante,MV,0,0,0,,Tanti auguri a te!
 Dialogue: 0,0:18:01.47,0:18:03.93,Ristorante,FV,0,0,0,,Blow out the candles, Franci!
-Dialogue: 0,0:18:19.86,0:18:23.74,Ristorante,MV,0,0,0,,Sorry, guys. Just wait a little bit longer.
+Dialogue: 0,0:18:19.86,0:18:23.74,Ristorante,MV,0,0,0,,Sorry, guys. Just wait\Na little bit longer.
 Dialogue: 0,0:18:27.62,0:18:28.71,Ristorante,MV,0,0,0,,All yours.
 Dialogue: 0,0:18:28.71,0:18:30.08,Ristorante,MV,0,0,0,,You got it.
 Dialogue: 0,0:18:40.76,0:18:43.22,Ristorante,MV,0,0,0,,It's Teo's special dolce plate!
@@ -252,20 +254,20 @@ Dialogue: 0,0:18:46.06,0:18:47.60,Ristorante,FV,0,0,0,,It's so pretty!
 Dialogue: 0,0:18:48.27,0:18:50.02,Ristorante,MV,0,0,0,,The dolce looks fantastic.
 Dialogue: 0,0:18:50.02,0:18:51.44,Ristorante,FV,0,0,0,,Incredible!
 Dialogue: 0,0:18:51.44,0:18:53.11,Ristorante,MV,0,0,0,,It's so good.
-Dialogue: 0,0:18:59.24,0:19:01.28,Ristorante,MV,0,0,0,,You've done enough. Go take a break.
+Dialogue: 0,0:18:59.24,0:19:01.28,Ristorante,MV,0,0,0,,You've done enough.\NGo take a break.
 Dialogue: 0,0:19:01.66,0:19:02.78,Ristorante,MV,0,0,0,,Very well.
 Dialogue: 0,0:19:02.78,0:19:04.78,Ristorante,MV,0,0,0,,We shall do just that.
 Dialogue: 0,0:19:10.46,0:19:11.83,Ristorante,MV,0,0,0,,Grazie.
 Dialogue: 0,0:19:49.95,0:19:51.83,Ristorante,MV,0,0,0,,Nicoletta?
-Dialogue: 0,0:19:52.58,0:19:54.46,Ristorante,FV,0,0,0,,I just needed some fresh air to sober up.
+Dialogue: 0,0:19:52.58,0:19:54.46,Ristorante,FV,0,0,0,,I just needed some\Nfresh air to sober up.
 Dialogue: 0,0:19:55.38,0:19:58.71,Ristorante,FV,0,0,0,,Umm, this afternoon...
-Dialogue: 0,0:19:59.84,0:20:02.72,Ristorante,MV,0,0,0,,The party turned out pretty nice, didn't it?
+Dialogue: 0,0:19:59.84,0:20:02.72,Ristorante,MV,0,0,0,,The party turned out\Npretty nice, didn't it?
 Dialogue: 0,0:20:02.72,0:20:04.55,Ristorante,FV,0,0,0,,It sure did.
 Dialogue: 0,0:20:11.27,0:20:12.64,Ristorante,FV,0,0,0,,Franci.
 Dialogue: 0,0:20:14.06,0:20:15.27,Ristorante,MV,0,0,0,,Mamma.
 Dialogue: 0,0:20:15.65,0:20:16.73,Ristorante,FV,0,0,0,,Having a good time?
 Dialogue: 0,0:20:16.73,0:20:17.61,Ristorante,MV,0,0,0,,Yeah.
-Dialogue: 0,0:20:17.94,0:20:20.86,Ristorante,FV,0,0,0,,It's because Nonno works in that restaurant.
+Dialogue: 0,0:20:17.94,0:20:20.86,Ristorante,FV,0,0,0,,It's because Nonno\Nworks in that restaurant.
 Dialogue: 0,0:20:20.86,0:20:22.82,Ristorante,MV,0,0,0,,Yeah, you're right.
 Dialogue: 0,0:20:33.46,0:20:35.54,Ristorante,MV,0,0,0,,Grazie, Nonno.
 Dialogue: 0,0:20:44.43,0:20:45.47,Ristorante,MV,0,0,0,,Hey.
