@@ -14,12 +14,12 @@ Video File: ../raws/ristorante-06.mkv
 Video Aspect Ratio: c1.83054
 Video Zoom: 5
 Audio URI: ../audio/ristorante-06.mka
-Scroll Position: 307
-Active Line: 313
+Scroll Position: 302
+Active Line: 309
 YCbCr Matrix: TV.601
 Keyframes File: ../avisynth/scxvid/ristorante-scxvid-06.txt
 Video Zoom Percent: 1
-Video Position: 30139
+Video Position: 29211
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -60,7 +60,7 @@ Dialogue: 0,0:02:56.69,0:03:02.36,Ristorante italic,FV,0,0,0,,If you ever find y
 Dialogue: 0,0:03:03.20,0:03:08.58,Ristorante italic,FV,0,0,0,,The mysterious ristorante\Nfull of bespectacled gentlemen.
 Dialogue: 0,0:03:15.38,0:03:17.38,Ristorante,FV,0,0,0,,This wine is pretty good.
 Dialogue: 0,0:03:17.38,0:03:19.09,Ristorante,FV,0,0,0,,Maybe I'll take\Nanother glass.
-Dialogue: 0,0:03:19.09,0:03:21.38,Ristorante,MV,0,0,0,,Sure, as soon as\Nyou finish that one.
+Dialogue: 0,0:03:19.09,0:03:20.84,Ristorante,MV,0,0,0,,Sure, as soon as\Nyou finish that one.
 Dialogue: 0,0:03:21.38,0:03:22.84,Ristorante,FV,0,0,0,,Thanks.
 Dialogue: 0,0:03:23.22,0:03:27.35,Ristorante,FV,0,0,0,,I wish my husband would\Ndo these things for me.
 Dialogue: 0,0:03:27.72,0:03:30.60,Ristorante,FV,0,0,0,,An expensive wine\Nis nice from time to time.
@@ -166,10 +166,10 @@ Dialogue: 0,0:08:34.70,0:08:37.12,Ristorante,FV,0,0,0,,I mean, Vito's really\Npo
 Dialogue: 0,0:08:37.12,0:08:39.66,Ristorante,FV,0,0,0,,and he's so much\Nolder than her.
 Dialogue: 0,0:08:40.70,0:08:46.29,Ristorante,MV,0,0,0,,Well, the only ones who know what goes on between a married couple is the husband and wife.
 Dialogue: 0,0:08:47.04,0:08:52.05,Ristorante,MV,0,0,0,,If it bothers you,\Nwhy don't you ask Vito himself?
-Dialogue: 0,0:08:57.72,0:09:00.10,Ristorante,MV,0,0,0,,Wow, I'm honored.
+Dialogue: 0,0:08:57.72,0:08:59.47,Ristorante,MV,0,0,0,,Wow, I'm honored.
 Dialogue: 0,0:09:00.10,0:09:02.68,Ristorante,MV,0,0,0,,To think you'd worry\Nabout us so much.
 Dialogue: 0,0:09:03.14,0:09:05.48,Ristorante,MV,0,0,0,,I'll leave it to\Nyour imagination.
-Dialogue: 0,0:09:05.94,0:09:10.32,Ristorante,MV,0,0,0,,For I worship all\Nthe women of the world.
+Dialogue: 0,0:09:05.94,0:09:09.98,Ristorante,MV,0,0,0,,For I worship all\Nthe women of the world.
 Dialogue: 0,0:09:10.32,0:09:11.82,Ristorante,FV,0,0,0,,I beg your pardon?!
 Dialogue: 0,0:09:11.82,0:09:12.86,Ristorante,MV,0,0,0,,Relax, relax.
 Dialogue: 0,0:09:12.86,0:09:16.61,Ristorante,MV,0,0,0,,Well, I can't help it\Nif you're concerned.

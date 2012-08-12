@@ -11,10 +11,10 @@ Audio File: pasta05.mp3
 Video File: ../raws/ristorante-05.mkv
 Video Aspect Ratio: c1.83054
 Video Zoom: 5
-Video Position: 29910
+Video Position: 29867
 Last Style Storage: Ristorante
 Audio URI: ../audio/ristorante-05.mka
-Scroll Position: 242
+Scroll Position: 236
 Active Line: 244
 YCbCr Matrix: TV.601
 Keyframes File: ../avisynth/scxvid/ristorante-scxvid-05.txt
@@ -253,9 +253,9 @@ Dialogue: 0,0:18:42.76,0:18:43.76,Ristorante,MV,0,0,0,,Buonasera.
 Dialogue: 0,0:18:45.18,0:18:48.52,Ristorante,FV,0,0,0,,Hey, the Senator\Nstopped by, didn't he?
 Dialogue: 0,0:18:48.52,0:18:50.40,Ristorante,FV,0,0,0,,How did Olga react?
 Dialogue: 0,0:18:50.40,0:18:51.86,Ristorante,MV,0,0,0,,You know an\Nawful lot, don't you?
-Dialogue: 0,0:18:52.15,0:18:57.36,Ristorante,FV,0,0,0,,She couldn't stop talking about it\Nback in the office. It was nuts.
+Dialogue: 0,0:18:51.86,0:18:57.36,Ristorante,FV,0,0,0,,She couldn't stop talking about it\Nback in the office. It was nuts.
 Dialogue: 0,0:18:57.36,0:19:00.11,Ristorante,FV,0,0,0,,Gabrielle? You're late!
-Dialogue: 0,0:19:00.45,0:19:01.99,Ristorante,FV,0,0,0,,What were you\Ndoing all night?
+Dialogue: 0,0:19:00.11,0:19:01.99,Ristorante,FV,0,0,0,,What were you\Ndoing all night?
 Dialogue: 0,0:19:01.99,0:19:03.45,Ristorante,FV,0,0,0,,Come on, sit down!
 Dialogue: 0,0:19:03.45,0:19:07.08,Ristorante,FV,0,0,0,,So yeah, the Senator\Njust left a little while ago,
 Dialogue: 0,0:19:07.08,0:19:09.87,Ristorante,FV,0,0,0,,but he was\Ndrop-dead gorgeous!
@@ -273,7 +273,7 @@ Dialogue: 0,0:20:12.94,0:20:14.81,Ristorante,MV,0,0,0,,Not at all.
 Dialogue: 0,0:20:15.48,0:20:17.27,Ristorante,MV,0,0,0,,I'm sure he's happy for you,
 Dialogue: 0,0:20:18.32,0:20:19.78,Ristorante,MV,0,0,0,,up in heaven.
 Dialogue: 0,0:20:26.91,0:20:28.33,Ristorante,FV,0,0,0,,Thank you.
-Dialogue: 0,0:20:28.66,0:20:32.54,Ristorante,FV,0,0,0,,I wish a life of eternal\Nhappiness for you as well.
+Dialogue: 0,0:20:28.33,0:20:32.54,Ristorante,FV,0,0,0,,I wish a life of eternal\Nhappiness for you as well.
 Dialogue: 0,0:20:45.68,0:20:48.01,Ristorante,FV,0,0,0,,I should be able\Nto have fun, too.
 Dialogue: 0,0:20:48.55,0:20:52.14,Ristorante,MV,0,0,0,,The girls know\Nwhat kind of guy I am,
 Dialogue: 0,0:20:52.14,0:20:55.02,Ristorante,MV,0,0,0,,so only the ones looking for a good time approach me.

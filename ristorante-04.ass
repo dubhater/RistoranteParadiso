@@ -11,11 +11,11 @@ Audio File: Downloads\audio.mp3
 Video File: ../raws/ristorante-04.mkv
 Video Aspect Ratio: c1.83054
 Video Zoom: 6
-Video Position: 29433
+Video Position: 18666
 Last Style Storage: Ristorante
 Audio URI: ../audio/ristorante-04.mka
-Scroll Position: 231
-Active Line: 234
+Scroll Position: 136
+Active Line: 145
 YCbCr Matrix: TV.601
 Keyframes File: ../avisynth/scxvid/ristorante-scxvid-04.txt
 Video Zoom Percent: 1
@@ -127,10 +127,10 @@ Dialogue: 0,0:09:07.15,0:09:10.82,Ristorante,MV,0,0,0,,I heard you used to\Nwork
 Dialogue: 0,0:09:11.36,0:09:13.28,Ristorante,MV,0,0,0,,He's a brilliant man.
 Dialogue: 0,0:09:13.28,0:09:15.11,Ristorante,MV,0,0,0,,He's incredibly sophisticated...
 Dialogue: 0,0:09:16.11,0:09:20.16,Ristorante,MV,0,0,0,,But, he had to quit\Nwhen his wife got sick.
-Dialogue: 0,0:09:21.49,0:09:27.62,Ristorante,MV,0,0,0,,So, I'm sure he'll sympathize with the emotions you have towards your wife.
+Dialogue: 0,0:09:21.49,0:09:27.12,Ristorante,MV,0,0,0,,So, I'm sure he'll sympathize with the emotions you have towards your wife.
 Dialogue: 0,0:09:28.71,0:09:31.88,Ristorante,MV,0,0,0,,I'd love for him\Nto work for me.
 Dialogue: 0,0:09:35.09,0:09:38.64,Ristorante,MV,0,0,0,,Say no more.\NI'll convince him for you.
-Dialogue: 0,0:09:39.26,0:09:42.76,Ristorante,MV,0,0,0,,Thank you.\NBut, what about yourself?
+Dialogue: 0,0:09:39.26,0:09:42.14,Ristorante,MV,0,0,0,,Thank you.\NBut, what about yourself?
 Dialogue: 0,0:09:42.76,0:09:45.93,Ristorante,MV,0,0,0,,I'd like to mull it\Nover a bit more.
 Dialogue: 0,0:09:45.93,0:09:48.23,Ristorante,MV,0,0,0,,I've worked at the same\Nplace for a long time.
 Dialogue: 0,0:09:48.23,0:09:49.65,Ristorante,MV,0,0,0,,Of course.
@@ -175,7 +175,7 @@ Dialogue: 0,0:12:47.53,0:12:48.45,Ristorante,FV,0,0,0,,Buonasera.
 Dialogue: 0,0:12:48.87,0:12:50.16,Ristorante,FV,0,0,0,,Buonasera.
 Dialogue: 0,0:12:51.66,0:12:53.83,Ristorante,MV,0,0,0,,I'll take your coats.
 Dialogue: 0,0:12:53.83,0:12:55.50,Ristorante,MV,0,0,0,,Right this way.
-Dialogue: 0,0:12:58.46,0:13:04.01,Ristorante,MV,0,0,0,,How about you bring out a little\Nof the food they make for the staff?
+Dialogue: 0,0:12:58.46,0:13:03.42,Ristorante,MV,0,0,0,,How about you bring out a little\Nof the food they make for the staff?
 Dialogue: 0,0:13:04.01,0:13:05.51,Ristorante,MV,0,0,0,,Not a problem.
 Dialogue: 0,0:13:06.09,0:13:09.85,Ristorante,MV,0,0,0,,We'll move you to your table when the owner and his wife show up.
 Dialogue: 0,0:13:09.85,0:13:14.52,Ristorante,MV,0,0,0,,Nicoletta, keep them\Ncompany in their place.
