@@ -59,7 +59,7 @@ Dialogue: 0,0:03:04.24,0:03:08.41,Ristorante,MV,0,0,0,,No, to be safe,\Nwe shoul
 Dialogue: 0,0:03:08.41,0:03:12.29,Ristorante,MV,0,0,0,,I’ll explain it to the customers who made reservations.
 Dialogue: 0,0:03:12.29,0:03:15.67,Ristorante,MV,0,0,0,,We can’t have anyone\Ncatching a cold now.
 Dialogue: 0,0:03:34.77,0:03:36.02,Ristorante,MV,0,0,0,,Hey there.
-Dialogue: 0,0:03:36.40,0:03:37.73,Ristorante,FV,0,0,0,,Buon giorno.
+Dialogue: 0,0:03:36.40,0:03:37.73,Ristorante,FV,0,0,0,,Buongiorno.
 Dialogue: 0,0:03:37.73,0:03:39.94,Ristorante,MV,0,0,0,,Have you put some thought\Ninto the new menu?
 Dialogue: 0,0:03:39.94,0:03:41.45,Ristorante,FV,0,0,0,,You bet I did!
 Dialogue: 0,0:03:43.36,0:03:46.62,Ristorante,MV,0,0,0,,It looks like the market\Nbeat us to spring.
@@ -237,7 +237,7 @@ Dialogue: 0,0:15:34.57,0:15:37.49,Ristorante,MV,0,0,0,,She’s a top-rate chef.
 Dialogue: 0,0:15:39.83,0:15:42.54,Ristorante,MV,0,0,0,,Up next is Nicoletta’s dish.
 Dialogue: 0,0:15:47.80,0:15:50.38,Ristorante italic,FV,0,0,0,,I think this is the best\NI’ve made so far,
 Dialogue: 0,0:15:50.38,0:15:51.55,Ristorante italic,FV,0,0,0,,but…
-Dialogue: 0,0:15:53.39,0:15:55.18,Ristorante,FV,0,0,0,,Buon giorno!
+Dialogue: 0,0:15:53.39,0:15:55.18,Ristorante,FV,0,0,0,,Buongiorno!
 Dialogue: 0,0:15:55.18,0:15:57.47,Ristorante,FV,0,0,0,,I heard you’re thinking up\Nthe spring menu?
 Dialogue: 0,0:15:58.18,0:15:59.72,Ristorante,FV,0,0,0,,It looks fabulous!
 Dialogue: 0,0:16:00.14,0:16:01.77,Ristorante,FV,0,0,0,,Buon appetito!
