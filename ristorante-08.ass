@@ -7,19 +7,19 @@ WrapStyle: 0
 PlayResX: 876
 PlayResY: 478
 ScaledBorderAndShadow: yes
-Last Style Storage: Ristorante
+Last Style Storage: ristorante
 Collisions: Normal
 Audio File: pasta08.mka
 Video File: ../raws/ristorante-08.mkv
 Video Aspect Ratio: c1.83054
 Video Zoom: 5
 Audio URI: ../audio/ristorante-08.mka
-Scroll Position: 268
-Active Line: 279
+Scroll Position: 105
+Active Line: 111
 YCbCr Matrix: TV.601
 Keyframes File: ../avisynth/scxvid/ristorante-scxvid-08.txt
 Video Zoom Percent: 1
-Video Position: 30188
+Video Position: 12015
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,7 +34,7 @@ Comment: 1,0:00:00.00,0:23:40.82,Ristorante,,1,0,1,,{\an7\bord1\3c&HFFFFFF&\p1}m
 Comment: 2,0:00:00.00,0:23:40.82,Ristorante,,1,1,1,,{\an7\bord1\3c&H000000&\p1}m 255 360 l 255 470 m 621 360 l 621 470{\p0}
 Comment: 0,0:03:47.62,0:03:52.54,Ristorante,Sign,0,0,0,,Days of Yore
 Comment: 0,0:20:41.71,0:21:00.44,Ristorante,Sign,0,0,0,,Day Off from the Ristorante
-Dialogue: 0,0:00:01.56,0:00:07.40,Ristorante,Sign,0,0,0,,{\fnFranklin Gothic Medium\b0\pos(640,514)\fs60\c&HF8FBF9&\bord4\fscx125\be1\3c&H2A3332&\fad(800,800)}A Few Years Prior
+Dialogue: 0,0:00:01.52,0:00:07.36,Ristorante,Sign,0,0,0,,{\pos(438,344)\b0\fs46\c&HEAF3ED&\bord3\be1\3c&H2A3332&\fad(800,800)\fnFranklin Gothic Medium\fscx90}A few years prior
 Dialogue: 0,0:00:01.10,0:00:03.48,Ristorante,FV,0,0,0,,These are the glasses\Nyou'd wear for show?
 Dialogue: 0,0:00:04.40,0:00:08.73,Ristorante,FV,0,0,0,,Mr. Rizzo introduced you\Nto quite the restaurant.
 Dialogue: 0,0:00:08.73,0:00:11.11,Ristorante,MV,0,0,0,,But it looks like a nice place.
@@ -141,7 +141,7 @@ Dialogue: 0,0:08:02.16,0:08:04.25,Ristorante,FV,0,0,0,,I'm so sorry!
 Dialogue: 0,0:08:04.25,0:08:06.34,Ristorante,MV,0,0,0,,Damn it. Focus on your work!
 Dialogue: 0,0:08:10.84,0:08:12.63,Ristorante italic,MV,0,0,0,,Time flies.
 Dialogue: 0,0:08:13.59,0:08:16.76,Ristorante italic,MV,0,0,0,,Has it really been over\Ntwenty years already?
-Dialogue: 0,0:08:17.89,0:08:21.14,Ristorante,Sign,0,0,0,,{\fnFranklin Gothic Medium\b0\pos(640,514)\fs60\c&HF8FBF9&\bord4\fscx125\be1\3c&H2A3332&\fad(500,0)}The Good Old Days
+Dialogue: 0,0:08:17.89,0:08:21.14,Ristorante,Sign,0,0,0,,{\fnFranklin Gothic Medium\b0\pos(438,344)\fs46\c&HECE4E9&\bord3\fscx90\be1\3c&H2A3332&\fad(500,0)}The good old day{\fsp3.}s...
 Dialogue: 0,0:08:23.48,0:08:25.48,Ristorante,MV,0,0,0,,I deeply apologize.
 Dialogue: 0,0:08:25.48,0:08:26.61,Ristorante,MV,0,0,0,,Claudio!
 Dialogue: 0,0:08:26.61,0:08:27.94,Ristorante,MV,0,0,0,,Back off.
