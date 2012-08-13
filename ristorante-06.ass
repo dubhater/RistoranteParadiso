@@ -14,12 +14,12 @@ Video File: ../raws/ristorante-06.mkv
 Video Aspect Ratio: c1.83054
 Video Zoom: 5
 Audio URI: ../audio/ristorante-06.mka
-Scroll Position: 302
-Active Line: 309
+Scroll Position: 304
+Active Line: 308
 YCbCr Matrix: TV.601
 Keyframes File: ../avisynth/scxvid/ristorante-scxvid-06.txt
 Video Zoom Percent: 1
-Video Position: 29211
+Video Position: 29146
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -64,7 +64,7 @@ Dialogue: 0,0:03:19.09,0:03:20.84,Ristorante,MV,0,0,0,,Sure, as soon as\Nyou fin
 Dialogue: 0,0:03:21.38,0:03:22.84,Ristorante,FV,0,0,0,,Thanks.
 Dialogue: 0,0:03:23.22,0:03:27.35,Ristorante,FV,0,0,0,,I wish my husband would\Ndo these things for me.
 Dialogue: 0,0:03:27.72,0:03:30.60,Ristorante,FV,0,0,0,,An expensive wine\Nis nice from time to time.
-Dialogue: 0,0:03:31.06,0:03:32.90,Ristorante,FV,0,0,0,,Can you recommend\Nme something?
+Dialogue: 0,0:03:31.06,0:03:33.31,Ristorante,FV,0,0,0,,Can you recommend\Nme something?
 Dialogue: 0,0:03:33.31,0:03:34.86,Ristorante,MV,0,0,0,,If you’re looking for\Na recommendation…
 Dialogue: 0,0:03:34.86,0:03:36.02,Ristorante,MV,0,0,0,,Gigi.
 Dialogue: 0,0:03:37.73,0:03:38.98,Ristorante,MV,0,0,0,,What do you like?
@@ -72,64 +72,64 @@ Dialogue: 0,0:03:39.78,0:03:41.61,Ristorante,MV,0,0,0,,He’s a veteran sommelie
 Dialogue: 0,0:03:41.61,0:03:42.49,Ristorante,FV,0,0,0,,Wow.
 Dialogue: 0,0:03:42.49,0:03:44.49,Ristorante,MV,0,0,0,,And your budget.
 Dialogue: 0,0:03:44.91,0:03:47.12,Ristorante,FV,0,0,0,,Umm…
-Dialogue: 0,0:03:47.12,0:03:49.37,Ristorante,MV,0,0,0,,I wouldn’t give\Nher a Tuscan red.
-Dialogue: 0,0:03:49.37,0:03:53.08,Ristorante,MV,0,0,0,,Perhaps a Piemonte? The recent whites have been selling well.
-Dialogue: 0,0:03:53.08,0:03:56.17,Ristorante,MV,0,0,0,,Oh, the Sardinians go well\Nwith seafood, too.
-Dialogue: 0,0:03:56.17,0:03:58.00,Ristorante,MV,0,0,0,,The whites from Le Marche\Ngo well with seafood pasta dishes.
+Dialogue: 0,0:03:47.12,0:03:49.37,Ristorante,MV,0,0,0,,{\an8}I wouldn’t give\Nher a Tuscan red.
+Dialogue: 0,0:03:49.37,0:03:53.08,Ristorante,MV,0,0,0,,{\an8}Perhaps a Piemonte? The recent whites have been selling well.
+Dialogue: 0,0:03:53.08,0:03:56.17,Ristorante,MV,0,0,0,,{\an8}Oh, the Sardinians go well\Nwith seafood, too.
+Dialogue: 0,0:03:56.17,0:03:58.00,Ristorante,MV,0,0,0,,{\an8}The whites from Le Marche\Ngo well with seafood pasta dishes.
 Dialogue: 0,0:03:56.42,0:03:58.00,Ristorante,FV,0,0,0,,Hey, Lucia.
 Dialogue: 0,0:03:58.00,0:03:59.71,Ristorante,FV,0,0,0,,Oh, Gianna, you’re here too.
 Dialogue: 0,0:03:59.71,0:04:03.72,Ristorante,FV,0,0,0,,You know, yesterday I saw your husband with some woman.
 Dialogue: 0,0:04:03.72,0:04:07.76,Ristorante,FV,0,0,0,,Again? Once a playboy,\Nalways a playboy, huh?
 Dialogue: 0,0:04:07.76,0:04:10.27,Ristorante,FV,0,0,0,,He’s always talking up\Nthe women at the store.
-Dialogue: 0,0:04:10.27,0:04:12.60,Ristorante,FV,0,0,0,,I’m okay with it as long as\Nhe doesn’t get serious.
-Dialogue: 0,0:04:12.60,0:04:18.69,Ristorante,FV,0,0,0,,Yeah, but it wasn’t the first time I’ve seen him with a woman.
-Dialogue: 0,0:04:18.69,0:04:19.28,Ristorante,FV,0,0,0,,What?
+Dialogue: 0,0:04:10.27,0:04:12.77,Ristorante,FV,0,0,0,,I’m okay with it as long as\Nhe doesn’t get serious.
+Dialogue: 0,0:04:12.77,0:04:18.69,Ristorante,FV,0,0,0,,Yeah, but it wasn’t the first time I’ve seen him with a woman.
+Comment: 0,0:04:18.69,0:04:19.28,Ristorante,FV,0,0,0,,What?
 Dialogue: 0,0:04:19.28,0:04:22.70,Ristorante,FV,0,0,0,,And this was\Nthe same woman.
 Dialogue: 0,0:04:24.95,0:04:27.16,Ristorante,MV,0,0,0,,Man, it’s freezing out there.
 Dialogue: 0,0:04:29.20,0:04:31.29,Ristorante,MV,0,0,0,,Oh, something smells great.
 Dialogue: 0,0:04:31.29,0:04:32.75,Ristorante,MV,0,0,0,,I rented us a DVD.
 Dialogue: 0,0:04:36.54,0:04:39.21,Ristorante,FV,0,0,0,,I saw a good movie\Nthe other day.
-Dialogue: 0,0:04:39.21,0:04:41.67,Ristorante,MV,0,0,0,,Oh yeah?\NWhat was it about?
+Dialogue: 0,0:04:39.21,0:04:41.67,Ristorante,MV,0,0,0,,Oh? What was it about?
 Dialogue: 0,0:04:41.67,0:04:46.55,Ristorante,FV,0,0,0,,About a husband who sneaks off to cheat on his wife and what she does afterwards.
 Dialogue: 0,0:04:47.72,0:04:51.52,Ristorante,FV,0,0,0,,Oh, I’m not\Ntalking about you.
 Dialogue: 0,0:04:51.52,0:04:54.35,Ristorante,FV,0,0,0,,I mean, you’re just\Nextra nice to girls.
 Dialogue: 0,0:04:54.35,0:04:56.60,Ristorante,FV,0,0,0,,It’s not like you’re cheating\Non me or anything.
 Dialogue: 0,0:04:56.98,0:04:59.73,Ristorante,FV,0,0,0,,So, there was this\Nscene in the film.
 Dialogue: 0,0:04:59.73,0:05:01.94,Ristorante,FV,0,0,0,,The husband decides to\Ncome home for once.
-Dialogue: 0,0:05:02.32,0:05:06.95,Ristorante,FV,0,0,0,,The wife is hard at work at dinner. Suddenly she breaks a bottle of wine.
+Dialogue: 0,0:05:01.94,0:05:06.95,Ristorante,FV,0,0,0,,The wife is hard at work making dinner. Suddenly she breaks a bottle of wine.
 Dialogue: 0,0:05:07.41,0:05:12.70,Ristorante,FV,0,0,0,,The shards of glass end up in the pasta,\Nand the husband eats them.
 Dialogue: 0,0:05:12.70,0:05:14.66,Ristorante,FV,0,0,0,,She didn’t do it\Non purpose, of course.
-Dialogue: 0,0:05:14.66,0:05:17.37,Ristorante,FV,0,0,0,,Then, the husband\Nstorms off, in a fit of rage.
-Dialogue: 0,0:05:18.13,0:05:21.96,Ristorante,FV,0,0,0,,That scene really left a deep impression in my mind.
-Dialogue: 0,0:05:22.25,0:05:23.80,Ristorante,MV,0,0,0,,You don’t say?
+Dialogue: 0,0:05:14.66,0:05:17.96,Ristorante,FV,0,0,0,,Then, the husband\Nstorms off, in a fit of rage.
+Dialogue: 0,0:05:17.96,0:05:21.96,Ristorante,FV,0,0,0,,That scene really left a deep\Nimpression in my mind.
+Comment: 0,0:05:21.96,0:05:23.80,Ristorante,MV,0,0,0,,You don’t say?
 Dialogue: 0,0:05:26.72,0:05:30.39,Ristorante,FV,0,0,0,,Oh dear. I broke\Nthe wine bottle.
-Dialogue: 0,0:05:31.68,0:05:36.39,Ristorante,FV,0,0,0,,Don’t worry. The shards\Ndidn’t get in the pasta.
+Dialogue: 0,0:05:31.39,0:05:36.39,Ristorante,FV,0,0,0,,Don’t worry. The shards\Ndidn’t get in the pasta.
 Dialogue: 0,0:05:37.48,0:05:39.10,Ristorante,FV,0,0,0,,We have another bottle, anyway.
 Dialogue: 0,0:05:39.10,0:05:40.40,Ristorante,MV,0,0,0,,Oh, right.
-Dialogue: 0,0:05:43.03,0:05:46.45,Ristorante italic,FV,0,0,0,,I knew it. He has a mistress.
+Dialogue: 0,0:05:43.03,0:05:46.78,Ristorante italic,FV,0,0,0,,I knew it. He has a mistress.
 Dialogue: 0,0:05:48.66,0:05:50.66,Ristorante,FV,0,0,0,,How long have\Nyou been married?
 Dialogue: 0,0:05:50.66,0:05:53.79,Ristorante,FV,0,0,0,,Two years. And we dated\Nfor two years before that.
 Dialogue: 0,0:05:54.79,0:05:57.50,Ristorante,FV,0,0,0,,He’s been obsessed\Nwith women since back then.
 Dialogue: 0,0:05:57.50,0:05:59.58,Ristorante,FV,0,0,0,,And I don’t mean that\Nhe was a serial dater.
 Dialogue: 0,0:06:00.17,0:06:04.59,Ristorante,FV,0,0,0,,He works as a salesman and picks up lots of women who come to his store.
 Dialogue: 0,0:06:04.96,0:06:07.59,Ristorante,FV,0,0,0,,But back then, he was\Njust fooling around, right?
-Dialogue: 0,0:06:07.97,0:06:12.14,Ristorante,FV,0,0,0,,Yes. But this last discretion\Nwas the final straw.
+Dialogue: 0,0:06:07.97,0:06:12.14,Ristorante,FV,0,0,0,,Yes. But this last indiscretion\Nwas the final straw.
 Dialogue: 0,0:06:12.55,0:06:16.60,Ristorante,FV,0,0,0,,My friend told me to see a specialist and sent me to you.
 Dialogue: 0,0:06:17.94,0:06:20.15,Ristorante,FV,0,0,0,,First, you’d divvy up your assets.
 Dialogue: 0,0:06:20.15,0:06:22.77,Ristorante,FV,0,0,0,,Then, a three-year\Nlegal separation.
 Dialogue: 0,0:06:23.36,0:06:26.49,Ristorante,FV,0,0,0,,After that, you can\Nfinally request a divorce.
-Dialogue: 0,0:06:26.82,0:06:27.74,Ristorante,FV,0,0,0,,What?
+Comment: 0,0:06:26.49,0:06:27.74,Ristorante,FV,0,0,0,,What?
 Dialogue: 0,0:06:27.74,0:06:31.24,Ristorante,FV,0,0,0,,Getting divorced takes\Na lot of time and energy,
 Dialogue: 0,0:06:31.24,0:06:34.03,Ristorante,FV,0,0,0,,so please make sure\Nyou’re properly prepared.
 Dialogue: 0,0:06:36.79,0:06:40.12,Ristorante,MV,0,0,0,,Oh, Furio’s giving\Ncooking lessons?
-Dialogue: 0,0:06:40.12,0:06:44.59,Ristorante,FV,0,0,0,,Yes. He said he runs them on his days off at the restaurant.
+Dialogue: 0,0:06:40.12,0:06:44.59,Ristorante,FV,0,0,0,,Yes. He said he runs them on\Nhis days off from the restaurant.
 Dialogue: 0,0:06:44.59,0:06:46.34,Ristorante,MV,0,0,0,,Well, do your best.
-Dialogue: 0,0:06:46.34,0:06:48.67,Ristorante,MV,0,0,0,,Say you will\Nand I’ll give you extra.
+Dialogue: 0,0:06:46.34,0:06:48.67,Ristorante,MV,0,0,0,,Say you will and\NI’ll give you extra.
 Dialogue: 0,0:06:48.67,0:06:50.13,Ristorante,MV,0,0,0,,It’s just some unsold things.
 Dialogue: 0,0:06:50.13,0:06:50.76,Ristorante,FV,0,0,0,,I will!
 Dialogue: 0,0:06:50.76,0:06:52.43,Ristorante,FV,0,0,0,,You can count on me!
 Dialogue: 0,0:06:52.43,0:06:56.22,Ristorante,FV,0,0,0,,I’ll get really good at cooking\Nand Teo will see me in a new light!
-Dialogue: 0,0:06:56.60,0:07:00.77,Ristorante,MV,0,0,0,,Okay, today’s lesson will be\Nbeef stew with polenta.
+Dialogue: 0,0:06:56.60,0:07:01.06,Ristorante,MV,0,0,0,,Okay, today’s lesson will be\Nbeef stew with polenta.
 Dialogue: 0,0:07:01.06,0:07:02.73,Ristorante,MV,0,0,0,,Are you ready?
 Dialogue: 0,0:07:02.73,0:07:04.65,Ristorante,FV,0,0,0,,Yes!
 Dialogue: 0,0:07:09.95,0:07:12.45,Ristorante,MV,0,0,0,,Well? Enjoying your first day?
@@ -147,15 +147,15 @@ Dialogue: 0,0:07:43.06,0:07:45.61,Ristorante,FV,0,0,0,,Yeah. I wouldn’t really
 Dialogue: 0,0:07:46.36,0:07:50.11,Ristorante,FV,0,0,0,,You’re the new apprentice\Nat the ristorante, right?
 Dialogue: 0,0:07:50.11,0:07:52.36,Ristorante,FV,0,0,0,,I heard about you from Vito.
 Dialogue: 0,0:07:52.36,0:07:53.99,Ristorante,FV,0,0,0,,Uh, umm…
-Dialogue: 0,0:07:54.24,0:07:56.49,Ristorante,FV,0,0,0,,I’m Marina, Vito’s wife.
-Dialogue: 0,0:07:56.99,0:07:57.99,Ristorante,FV,0,0,0,,What?!
+Dialogue: 0,0:07:53.99,0:07:56.49,Ristorante,FV,0,0,0,,I’m Marina, Vito’s wife.
+Comment: 0,0:07:56.99,0:07:57.99,Ristorante,FV,0,0,0,,What?!
 Dialogue: 0,0:07:58.29,0:08:01.58,Ristorante,FV,0,0,0,,He’s so used\Nto haute cuisine,
 Dialogue: 0,0:08:01.58,0:08:04.58,Ristorante,FV,0,0,0,,so I’m coming here\Nto get better at cooking.
 Dialogue: 0,0:08:04.58,0:08:05.71,Ristorante,FV,0,0,0,,Nice to meet you.
 Dialogue: 0,0:08:05.71,0:08:07.34,Ristorante,FV,0,0,0,,O-Oh, I see.
 Dialogue: 0,0:08:07.34,0:08:08.84,Ristorante,FV,0,0,0,,Nice to meet you.
 Dialogue: 0,0:08:12.76,0:08:14.09,Ristorante,FV,0,0,0,,Man, was that a shocker!
-Dialogue: 0,0:08:14.97,0:08:18.60,Ristorante,FV,0,0,0,,She’s no older than\NI am - Vito’s wife.
+Dialogue: 0,0:08:14.97,0:08:18.60,Ristorante,FV,0,0,0,,She’s no older than\NI am, Vito’s wife.
 Dialogue: 0,0:08:19.10,0:08:23.10,Ristorante,FV,0,0,0,,But still, she’s not uncomfortable?
 Dialogue: 0,0:08:23.10,0:08:24.06,Ristorante,MV,0,0,0,,Huh?
 Dialogue: 0,0:08:24.60,0:08:26.19,Ristorante,FV,0,0,0,,You know…
@@ -164,13 +164,13 @@ Dialogue: 0,0:08:30.15,0:08:31.90,Ristorante,MV,0,0,0,,Good point.
 Dialogue: 0,0:08:31.90,0:08:34.70,Ristorante,FV,0,0,0,,It wouldn’t sit right with me.
 Dialogue: 0,0:08:34.70,0:08:37.12,Ristorante,FV,0,0,0,,I mean, Vito’s really\Npopular with the ladies,
 Dialogue: 0,0:08:37.12,0:08:39.66,Ristorante,FV,0,0,0,,and he’s so much\Nolder than her.
-Dialogue: 0,0:08:40.70,0:08:46.29,Ristorante,MV,0,0,0,,Well, the only ones who know what goes on between a married couple is the husband and wife.
-Dialogue: 0,0:08:47.04,0:08:52.05,Ristorante,MV,0,0,0,,If it bothers you,\Nwhy don’t you ask Vito himself?
+Dialogue: 0,0:08:40.70,0:08:46.67,Ristorante,MV,0,0,0,,Well, the only ones who know what goes on between a married couple is the husband and wife.
+Dialogue: 0,0:08:46.67,0:08:52.67,Ristorante,MV,0,0,0,,If it bothers you,\Nwhy don’t you ask Vito himself?
 Dialogue: 0,0:08:57.72,0:08:59.47,Ristorante,MV,0,0,0,,Wow, I’m honored.
-Dialogue: 0,0:09:00.10,0:09:02.68,Ristorante,MV,0,0,0,,To think you’d worry\Nabout us so much.
-Dialogue: 0,0:09:03.14,0:09:05.48,Ristorante,MV,0,0,0,,I’ll leave it to\Nyour imagination.
+Dialogue: 0,0:09:00.10,0:09:03.02,Ristorante,MV,0,0,0,,To think you’d worry\Nabout us so much.
+Dialogue: 0,0:09:03.02,0:09:05.48,Ristorante,MV,0,0,0,,I’ll leave it to\Nyour imagination.
 Dialogue: 0,0:09:05.94,0:09:09.98,Ristorante,MV,0,0,0,,For I worship all\Nthe women of the world.
-Dialogue: 0,0:09:10.32,0:09:11.82,Ristorante,FV,0,0,0,,I beg your pardon?!
+Dialogue: 0,0:09:09.98,0:09:11.82,Ristorante,FV,0,0,0,,I beg your pardon?!
 Dialogue: 0,0:09:11.82,0:09:12.86,Ristorante,MV,0,0,0,,Relax, relax.
 Dialogue: 0,0:09:12.86,0:09:16.61,Ristorante,MV,0,0,0,,Well, I can’t help it\Nif you’re concerned.
 Dialogue: 0,0:09:16.61,0:09:20.99,Ristorante,MV,0,0,0,,But you know, I was the one\Nwho asked {\i1}her{\i0} out.
@@ -178,12 +178,12 @@ Dialogue: 0,0:09:20.99,0:09:22.16,Ristorante,FV,0,0,0,,Seriously?
 Dialogue: 0,0:09:22.16,0:09:23.29,Ristorante,MV,0,0,0,,Yes.
 Dialogue: 0,0:09:23.29,0:09:27.25,Ristorante,MV,0,0,0,,It was a chance encounter of destiny,\Nin the gym I used to go to.
 Dialogue: 0,0:09:27.25,0:09:30.25,Ristorante,MV,0,0,0,,’Twas love at first sight.
-Dialogue: 0,0:09:30.59,0:09:32.63,Ristorante,MV,0,0,0,,I was after her.
+Dialogue: 0,0:09:30.25,0:09:32.63,Ristorante,MV,0,0,0,,I was after her.
 Dialogue: 0,0:09:32.63,0:09:37.26,Ristorante,MV,0,0,0,,Then one day, there was a chance encounter at a karate dojo.
-Dialogue: 0,0:09:37.59,0:09:42.01,Ristorante,MV,0,0,0,,And then, thanks to a puzzle magazine I had in a broken elevator,
+Dialogue: 0,0:09:37.26,0:09:42.01,Ristorante,MV,0,0,0,,And then, thanks to a puzzle magazine I had in a broken elevator,
 Dialogue: 0,0:09:42.01,0:09:45.27,Ristorante,MV,0,0,0,,I was able to pop the question.
 Dialogue: 0,0:09:45.27,0:09:46.27,Ristorante,MV,0,0,0,,There you have it.
-Dialogue: 0,0:09:46.56,0:09:49.77,Ristorante,FV,0,0,0,,How much of that\Nam I supposed to believe?
+Dialogue: 0,0:09:46.27,0:09:49.77,Ristorante,FV,0,0,0,,How much of that\Nam I supposed to believe?
 Dialogue: 0,0:09:50.27,0:09:52.65,Ristorante,MV,0,0,0,,That’s up to you,\NNicoletta, dear.
 Dialogue: 0,0:09:52.65,0:09:53.69,Ristorante,FV,0,0,0,,God!
 Dialogue: 0,0:09:56.57,0:09:57.74,Ristorante,FV,0,0,0,,Another glass, please.
@@ -191,7 +191,7 @@ Dialogue: 0,0:09:58.78,0:10:02.99,Ristorante,MV,0,0,0,,How about you tell her ho
 Dialogue: 0,0:10:02.99,0:10:07.58,Ristorante,MV,0,0,0,,No, I cannot betray\Nmy wife’s privacy.
 Dialogue: 0,0:10:07.58,0:10:11.38,Ristorante,MV,0,0,0,,A gentleman must harbor a secret or two, don’t you agree?
 Dialogue: 0,0:10:13.34,0:10:17.38,Ristorante,MV,0,0,0,,Now that you mention it, the day you requested is coming soon, isn’t it?
-Dialogue: 0,0:10:17.80,0:10:20.43,Ristorante,MV,0,0,0,,Indeed. I’m counting on you.
+Dialogue: 0,0:10:17.38,0:10:20.43,Ristorante,MV,0,0,0,,Indeed. I’m counting on you.
 Dialogue: 0,0:10:24.14,0:10:28.64,Ristorante,FV,0,0,0,,So I need to prepare myself\Nfor the divorce, huh?
 Dialogue: 0,0:10:37.03,0:10:41.20,Ristorante italic,FV,0,0,0,,He’s all over the place,\Nbut it’s not like I can’t love him.
 Dialogue: 0,0:10:41.70,0:10:44.20,Ristorante italic,FV,0,0,0,,I mean, I do love him.
@@ -206,31 +206,31 @@ Dialogue: 0,0:11:09.23,0:11:12.65,Ristorante,MV,0,0,0,,Put a little extra salt\N
 Dialogue: 0,0:11:12.65,0:11:16.61,Ristorante,MV,0,0,0,,If I recall, her sister prefers\Na little stronger flavor.
 Dialogue: 0,0:11:16.61,0:11:18.24,Ristorante,FV,0,0,0,,Huh? Sister?
 Dialogue: 0,0:11:18.24,0:11:19.74,Ristorante,MV,0,0,0,,Yes.
-Dialogue: 0,0:11:22.20,0:11:24.24,Ristorante,FV,0,0,0,,You mean, Vito’s sister?
-Dialogue: 0,0:11:24.62,0:11:26.24,Ristorante,MV,0,0,0,,Marina’s sister.
+Dialogue: 0,0:11:21.99,0:11:24.24,Ristorante,FV,0,0,0,,You mean, Vito’s sister?
+Dialogue: 0,0:11:24.24,0:11:26.24,Ristorante,MV,0,0,0,,Marina’s sister.
 Dialogue: 0,0:11:26.24,0:11:29.50,Ristorante,MV,0,0,0,,She’s visiting Marina\Nwhile coming to see her folks.
 Dialogue: 0,0:11:29.50,0:11:30.75,Ristorante,MV,0,0,0,,Her husband is here, too.
-Dialogue: 0,0:11:31.50,0:11:32.75,Ristorante,FV,0,0,0,,Yeah?
-Dialogue: 0,0:11:32.75,0:11:37.75,Ristorante,MV,0,0,0,,Tonight, we’ve got a dish made with\Na yogurt marinade and tomato sauce…
+Comment: 0,0:11:31.50,0:11:32.75,Ristorante,FV,0,0,0,,Yeah?
+Dialogue: 0,0:11:32.75,0:11:36.75,Ristorante,MV,0,0,0,,Tonight, we’ve got a dish made with\Na yogurt marinade and tomato sauce…
 Dialogue: 0,0:11:39.97,0:11:43.51,Ristorante,FV,0,0,0,,Say, that’s Marina’s sister\Nand her husband?
 Dialogue: 0,0:11:43.51,0:11:45.35,Ristorante,FV,0,0,0,,The husband, he’s…
 Dialogue: 0,0:11:45.35,0:11:48.14,Ristorante,MV,0,0,0,,Yes, he’s from\Nanother country.
-Dialogue: 0,0:11:48.31,0:11:51.48,Ristorante,MV,0,0,0,,They spend most\Nof their time there.
+Dialogue: 0,0:11:48.14,0:11:51.48,Ristorante,MV,0,0,0,,They spend most\Nof their time there.
 Dialogue: 0,0:11:52.06,0:11:53.65,Ristorante,FV,0,0,0,,Oh, I see.
 Dialogue: 0,0:11:53.65,0:11:58.48,Ristorante,MV,0,0,0,,The three of them\Nused to live here, in town.
-Dialogue: 0,0:11:58.48,0:11:59.44,Ristorante,FV,0,0,0,,Eh?
+Comment: 0,0:11:58.48,0:11:59.44,Ristorante,FV,0,0,0,,Eh?
 Dialogue: 0,0:11:59.44,0:12:06.45,Ristorante,MV,0,0,0,,But well, there’s a long story, but eventually she stayed behind, alone, here in Rome.
-Dialogue: 0,0:12:06.78,0:12:11.41,Ristorante,MV,0,0,0,,When I first met her, Marina was still rough around the edges.
-Dialogue: 0,0:12:11.96,0:12:17.71,Ristorante,MV,0,0,0,,But, ever since her and Vito got married, she’s had a smile on her face, like that.
+Dialogue: 0,0:12:06.45,0:12:11.96,Ristorante,MV,0,0,0,,When I first met her, Marina was still rough around the edges.
+Dialogue: 0,0:12:11.96,0:12:17.71,Ristorante,MV,0,0,0,,But, ever since she and Vito got married, she’s had a smile on her face, like that.
 Dialogue: 0,0:12:24.38,0:12:26.26,Ristorante,MV,0,0,0,,Well, see you tomorrow. Ciao.
 Dialogue: 0,0:12:26.26,0:12:27.30,Ristorante,MV,0,0,0,,Ciao.
 Dialogue: 0,0:12:31.52,0:12:35.06,Ristorante,FV,0,0,0,,Should they be leaving\NMarina and them here?
 Dialogue: 0,0:12:35.06,0:12:38.32,Ristorante,MV,0,0,0,,Don’t worry. The wife\Nwill catch up later.
 Dialogue: 0,0:12:41.57,0:12:44.32,Ristorante,FV,0,0,0,,Oh, thank you for before.
-Dialogue: 0,0:12:46.07,0:12:48.03,Ristorante,FV+MV,0,0,0,,What?!
-Dialogue: 0,0:12:51.33,0:12:52.33,Ristorante,MV,0,0,0,,Huh?
-Dialogue: 0,0:12:58.96,0:13:01.00,Ristorante,MV,0,0,0,,Oh, there he is.
-Dialogue: 0,0:13:01.00,0:13:03.13,Ristorante,MV,0,0,0,,I couldn’t get into my place.
+Comment: 0,0:12:46.07,0:12:48.03,Ristorante,FV+MV,0,0,0,,What?!
+Comment: 0,0:12:51.33,0:12:52.33,Ristorante,MV,0,0,0,,Huh?
+Dialogue: 0,0:12:58.96,0:13:00.75,Ristorante,MV,0,0,0,,Oh, there he is.
+Dialogue: 0,0:13:00.75,0:13:03.13,Ristorante,MV,0,0,0,,I couldn’t get into my place.
 Dialogue: 0,0:13:03.13,0:13:06.18,Ristorante,MV,0,0,0,,I forgot the key\Nand Lucia’s not in.
 Dialogue: 0,0:13:06.18,0:13:09.39,Ristorante,MV,0,0,0,,So you got lonely\Nand came here?
 Dialogue: 0,0:13:09.39,0:13:11.14,Ristorante,MV,0,0,0,,Did Lucia stop by?
@@ -242,33 +242,33 @@ Dialogue: 0,0:13:24.99,0:13:27.45,Ristorante,FV,0,0,0,,He’s really tall.
 Dialogue: 0,0:13:27.45,0:13:30.99,Ristorante,MV,0,0,0,,He might even\Nbe taller than me.
 Dialogue: 0,0:13:30.99,0:13:34.58,Ristorante,MV,0,0,0,,Plus he’s a master sommelier and a gifted conversationalist.
 Dialogue: 0,0:13:34.58,0:13:36.87,Ristorante,MV,0,0,0,,There’s not a woman\Nwho’d turn him down.
-Dialogue: 0,0:13:40.75,0:13:44.13,Ristorante,FV,0,0,0,,This is to pay you back for the advice you gave me. Okay?
+Dialogue: 0,0:13:40.75,0:13:44.13,Ristorante,FV,0,0,0,,This is to pay you back for\Nthe advice you gave me. Okay?
 Dialogue: 0,0:13:45.30,0:13:47.63,Ristorante,FV,0,0,0,,Are you always this quiet?
 Dialogue: 0,0:13:49.64,0:13:53.35,Ristorante,FV,0,0,0,,She got sick and tired\Nof you cheating on her.
 Dialogue: 0,0:13:53.35,0:13:56.94,Ristorante,FV,0,0,0,,So why not go home\Nwith that blonde beauty?
 Dialogue: 0,0:13:56.94,0:14:00.02,Ristorante,FV,0,0,0,,Or whatever works for him, huh?
 Dialogue: 0,0:14:00.02,0:14:02.07,Ristorante,MV,0,0,0,,You think you’re so smart.
-Dialogue: 0,0:14:02.07,0:14:03.11,Ristorante,FV,0,0,0,,Whatever.
+Dialogue: 0,0:14:02.07,0:14:02.65,Ristorante,FV,0,0,0,,Whatever.
 Dialogue: 0,0:14:03.11,0:14:08.66,Ristorante,MV,0,0,0,,If I had to wager a guess, it’s because she was frustrated, and just…
-Dialogue: 0,0:14:08.95,0:14:11.91,Ristorante,MV,0,0,0,,I’ll give you a glass on the\Nhouse for being dumped.
+Dialogue: 0,0:14:08.66,0:14:11.91,Ristorante,MV,0,0,0,,I’ll give you a glass on the\Nhouse for being dumped.
 Dialogue: 0,0:14:13.37,0:14:17.54,Ristorante,MV,0,0,0,,Your wife is incredibly\Nbeautiful. Treat her well.
-Dialogue: 0,0:14:17.54,0:14:18.37,Ristorante,MV,0,0,0,,Huh?
+Comment: 0,0:14:17.54,0:14:18.37,Ristorante,MV,0,0,0,,Huh?
 Dialogue: 0,0:14:18.37,0:14:21.75,Ristorante,MV,0,0,0,,You’d better listen to\Nwhat your senior tells you.
-Dialogue: 0,0:14:22.09,0:14:26.01,Ristorante,MV,0,0,0,,The two of you have a lot in common when it comes to women.
+Dialogue: 0,0:14:21.75,0:14:26.01,Ristorante,MV,0,0,0,,The two of you have a lot in common when it comes to women.
 Dialogue: 0,0:14:26.01,0:14:29.55,Ristorante,MV,0,0,0,,Women just can’t resist\Nwanting to accompany me.
 Dialogue: 0,0:14:29.55,0:14:30.76,Ristorante,MV,0,0,0,,Right, right!
-Dialogue: 0,0:14:31.05,0:14:33.76,Ristorante,MV,0,0,0,,They just decide they want to join me for dinner and such.
+Dialogue: 0,0:14:30.76,0:14:33.76,Ristorante,MV,0,0,0,,They just decide they want to join me for dinner and such.
 Dialogue: 0,0:14:33.76,0:14:38.27,Ristorante,MV,0,0,0,,Agreed. Which is why I never considered getting married.
 Dialogue: 0,0:14:38.73,0:14:41.90,Ristorante,MV,0,0,0,,I never wanted to\Nhurt any one of them.
-Dialogue: 0,0:14:42.90,0:14:46.48,Ristorante,MV,0,0,0,,The girls knew\Nwhat kind of guy I am,
+Dialogue: 0,0:14:42.52,0:14:46.48,Ristorante,MV,0,0,0,,The girls knew\Nwhat kind of guy I was,
 Dialogue: 0,0:14:46.48,0:14:49.53,Ristorante,MV,0,0,0,,so only the ones looking for a good time approached me.
 Dialogue: 0,0:14:49.53,0:14:54.03,Ristorante,MV,0,0,0,,When those women weren’t around,\NI was completely alone.
 Dialogue: 0,0:14:54.03,0:14:58.04,Ristorante,MV,0,0,0,,But now, I’ve met\Nmy wife, whom I love.
-Dialogue: 0,0:14:59.79,0:15:01.88,Ristorante,MV,0,0,0,,Sometimes, I get to thinking…
+Dialogue: 0,0:14:59.54,0:15:01.88,Ristorante,MV,0,0,0,,Sometimes, I get to thinking…
 Dialogue: 0,0:15:02.46,0:15:07.01,Ristorante,MV,0,0,0,,What would the two of us\Nbe doing, had we never met?
 Dialogue: 0,0:15:07.59,0:15:13.05,Ristorante,MV,0,0,0,,I’m almost positive I’d be spending my days all alone.
 Dialogue: 0,0:15:14.01,0:15:17.43,Ristorante,MV,0,0,0,,If what I’m describing\Nwould make you feel lonely,
-Dialogue: 0,0:15:17.85,0:15:21.73,Ristorante,MV,0,0,0,,you’d better stop doing\Nwhat you’re doing.
+Dialogue: 0,0:15:17.43,0:15:22.19,Ristorante,MV,0,0,0,,you’d better stop doing\Nwhat you’re doing.
 Dialogue: 0,0:15:23.40,0:15:25.57,Ristorante,MV,0,0,0,,And if you want to know about divorce, here’s your guy.
 Dialogue: 0,0:15:25.57,0:15:28.32,Ristorante,MV,0,0,0,,No better person to tell you about it than a divorcee.
 Dialogue: 0,0:15:28.69,0:15:31.86,Ristorante,MV,0,0,0,,Oh, err… Umm…\NNice to meet you.
@@ -277,28 +277,28 @@ Dialogue: 0,0:15:41.46,0:15:47.17,Ristorante,MV,0,0,0,,There’s something you n
 Dialogue: 0,0:15:47.50,0:15:50.72,Ristorante,MV,0,0,0,,Think hard about it.
 Dialogue: 0,0:15:59.02,0:16:01.52,Ristorante,MV,0,0,0,,She didn’t come home again.
 Dialogue: 0,0:16:12.99,0:16:15.57,Ristorante,MV,0,0,0,,I can’t survive alone.
-Dialogue: 0,0:16:18.95,0:16:21.75,Ristorante,MV,0,0,0,,But, I don’t want to sit\Nhere all day waiting
-Dialogue: 0,0:16:21.75,0:16:24.00,Ristorante,MV,0,0,0,,for my wife to come home\Nfrom a date either!
-Dialogue: 0,0:16:24.00,0:16:25.92,Ristorante,MV,0,0,0,,This is Friday night!
+Dialogue: 0,0:16:18.70,0:16:21.75,Ristorante,MV,0,0,0,,But, I don’t want\Nto sit here all day
+Dialogue: 0,0:16:21.75,0:16:24.00,Ristorante,MV,0,0,0,,waiting for my wife to come\Nhome from a date either!
+Dialogue: 0,0:16:24.00,0:16:26.33,Ristorante,MV,0,0,0,,This is Friday night!
 Dialogue: 0,0:16:35.68,0:16:37.47,Ristorante,FV,0,0,0,,Leaving again, are we?
 Dialogue: 0,0:16:37.47,0:16:42.10,Ristorante,MV,0,0,0,,“Again”? You’ve been\Nout partying yourself!
 Dialogue: 0,0:16:42.52,0:16:45.44,Ristorante,FV,0,0,0,,I’m allowed to go shopping\Nwith friends, aren’t I?
 Dialogue: 0,0:16:45.44,0:16:47.44,Ristorante,FV,0,0,0,,It just ran a little late.
-Dialogue: 0,0:16:47.44,0:16:49.82,Ristorante,MV,0,0,0,,Sure you weren’t\Nout with some guy?
+Dialogue: 0,0:16:47.44,0:16:49.36,Ristorante,MV,0,0,0,,Sure you weren’t\Nout with some guy?
 Dialogue: 0,0:16:49.82,0:16:51.19,Ristorante,MV,0,0,0,,A guy named Gigi.
 Dialogue: 0,0:16:51.19,0:16:52.28,Ristorante,FV,0,0,0,,Gigi?
 Dialogue: 0,0:16:53.19,0:16:55.28,Ristorante,FV,0,0,0,,We had dinner\Nthe other night.
 Dialogue: 0,0:16:55.28,0:16:56.20,Ristorante,MV,0,0,0,,So you admit it!
-Dialogue: 0,0:16:56.70,0:16:59.20,Ristorante,FV,0,0,0,,He’s an older man\Nand cute when he ate.
+Dialogue: 0,0:16:56.91,0:16:59.20,Ristorante,FV,0,0,0,,He’s an older man\Nand cute when he ate.
 Dialogue: 0,0:16:59.74,0:17:02.70,Ristorante,FV,0,0,0,,He’s older than\Nmy father, you know.
-Dialogue: 0,0:17:03.04,0:17:04.54,Ristorante,MV,0,0,0,,What?
+Comment: 0,0:17:03.04,0:17:04.54,Ristorante,MV,0,0,0,,What?
 Dialogue: 0,0:17:04.54,0:17:08.08,Ristorante,FV,0,0,0,,How about you? Which hot little thing are you going out with today?
 Dialogue: 0,0:17:08.71,0:17:10.67,Ristorante,MV,0,0,0,,I was waiting for you\Nto come home!
 Dialogue: 0,0:17:11.59,0:17:13.21,Ristorante,FV,0,0,0,,Dressed to go out?
 Dialogue: 0,0:17:15.63,0:17:18.22,Ristorante,FV,0,0,0,,Were you thinking about making things right with me?
-Dialogue: 0,0:17:27.81,0:17:34.24,Ristorante,MV,0,0,0,,Umm, I was thinking about what I need to do\Nin order to have a long, healthy marriage.
-Dialogue: 0,0:17:36.91,0:17:41.62,Ristorante,FV,0,0,0,,I’ve been pondering the same thing, these last few days.
-Dialogue: 0,0:17:42.04,0:17:44.37,Ristorante,MV,0,0,0,,Did you figure it out?
+Dialogue: 0,0:17:27.81,0:17:34.86,Ristorante,MV,0,0,0,,Umm, I was thinking about what I need to do\Nin order to have a long, healthy marriage.
+Dialogue: 0,0:17:36.91,0:17:41.87,Ristorante,FV,0,0,0,,I’ve been pondering the same thing, these last few days.
+Dialogue: 0,0:17:41.87,0:17:44.37,Ristorante,MV,0,0,0,,Did you figure it out?
 Dialogue: 0,0:17:45.87,0:17:46.92,Ristorante,FV,0,0,0,,I did.
 Dialogue: 0,0:17:47.96,0:17:54.88,Ristorante,FV,0,0,0,,But you need to stop having flings with random women.
 Dialogue: 0,0:17:55.63,0:17:58.47,Ristorante,FV,0,0,0,,That’s the first step.
@@ -307,21 +307,21 @@ Dialogue: 0,0:18:03.01,0:18:04.85,Ristorante,MV,0,0,0,,Th-The same thing.
 Dialogue: 0,0:18:05.31,0:18:07.39,Ristorante,MV,0,0,0,,I thought the same thing.
 Dialogue: 0,0:18:08.19,0:18:12.94,Ristorante,MV,0,0,0,,I made a reservation for dinner tonight,\Nthinking we’d make up.
 Dialogue: 0,0:18:13.73,0:18:16.32,Ristorante,MV,0,0,0,,I was waiting for you\Nto come home.
-Dialogue: 0,0:18:17.40,0:18:19.86,Ristorante,MV,0,0,0,,Please forgive me, Lucia.
+Dialogue: 0,0:18:17.53,0:18:19.86,Ristorante,MV,0,0,0,,Please forgive me, Lucia.
 Dialogue: 0,0:18:23.95,0:18:25.91,Ristorante,FV,0,0,0,,I’ll go get changed.
 Dialogue: 0,0:18:27.62,0:18:28.58,Ristorante,FV,0,0,0,,What?
 Dialogue: 0,0:18:28.58,0:18:32.96,Ristorante,MV,0,0,0,,Umm, the landlord called me.\NI wonder what it’s about.
 Dialogue: 0,0:18:32.96,0:18:34.30,Ristorante,MV,0,0,0,,I’ll be right back.
 Dialogue: 0,0:18:34.30,0:18:35.26,Ristorante,MV,0,0,0,,Get changed!
-Dialogue: 0,0:18:39.97,0:18:42.89,Ristorante,MV,0,0,0,,The one across the street… I’ve never set foot in there,
-Dialogue: 0,0:18:43.56,0:18:46.89,Ristorante,MV,0,0,0,,but I think I heard it’s good.
+Dialogue: 0,0:18:39.97,0:18:42.89,Ristorante italic,MV,0,0,0,,The one across the street…\NI’ve never set foot in there,
+Dialogue: 0,0:18:43.56,0:18:46.89,Ristorante italic,MV,0,0,0,,but I think I heard it’s good.
 Dialogue: 0,0:18:48.64,0:18:49.52,Ristorante,MV,0,0,0,,A table!
 Dialogue: 0,0:18:50.10,0:18:51.52,Ristorante,MV,0,0,0,,Buonasera.
 Dialogue: 0,0:18:53.90,0:18:56.61,Ristorante,MV,0,0,0,,I can ready a table for you.
 Dialogue: 0,0:18:56.61,0:18:59.24,Ristorante,MV,0,0,0,,A couple just\Nsettled their tab.
 Dialogue: 0,0:19:00.78,0:19:06.87,Ristorante,MV,0,0,0,,Our top-notch sommelier, Gigi, will bring you an exquisite wine.
-Dialogue: 0,0:19:06.87,0:19:13.50,Ristorante,MV,0,0,0,,I believe he’s already acquainted with your wife’s tastes, so he can get started.
-Dialogue: 0,0:19:14.67,0:19:18.80,Ristorante,MV,0,0,0,,You {\i1}are{\i0} coming with your\Nwife tonight, are you not?
+Dialogue: 0,0:19:06.87,0:19:14.25,Ristorante,MV,0,0,0,,I believe he’s already acquainted with your wife’s tastes, so he can get started.
+Dialogue: 0,0:19:14.25,0:19:18.80,Ristorante,MV,0,0,0,,You {\i1}are{\i0} coming with your\Nwife tonight, are you not?
 Dialogue: 0,0:19:22.34,0:19:24.89,Ristorante,MV,0,0,0,,This is a make-up dinner.
 Dialogue: 0,0:19:25.51,0:19:29.60,Ristorante,MV,0,0,0,,Please give us the best food and wine you can, for her sake.
 Dialogue: 0,0:19:30.98,0:19:32.60,Ristorante,MV,0,0,0,,Absolutely.
@@ -331,14 +331,14 @@ Dialogue: 0,0:19:43.91,0:19:45.28,Ristorante,MV,0,0,0,,That sommelier over there
 Dialogue: 0,0:19:45.28,0:19:45.78,Ristorante,FV,0,0,0,,Yes!
 Dialogue: 0,0:19:45.78,0:19:48.04,Ristorante,MV,0,0,0,,But he sure picks\Na good wine.
 Dialogue: 0,0:19:48.79,0:19:52.75,Ristorante,MV,0,0,0,,Table five seems incredibly\Nsatisfied with dinner.
-Dialogue: 0,0:19:52.75,0:19:54.17,Ristorante,MV,0,0,0,,I think it’s time\Nfor the dolce.
-Dialogue: 0,0:19:54.17,0:19:55.00,Ristorante,MV,0,0,0,,On it.
+Dialogue: 0,0:19:52.75,0:19:53.92,Ristorante,MV,0,0,0,,I think it’s time\Nfor the dolce.
+Dialogue: 0,0:19:53.92,0:19:55.00,Ristorante,MV,0,0,0,,On it.
 Dialogue: 0,0:20:01.34,0:20:05.47,Ristorante,MV,0,0,0,,What’s that? You two are oddly getting along all of a sudden.
 Dialogue: 0,0:20:05.47,0:20:06.89,Ristorante,FV,0,0,0,,Yeah.
-Dialogue: 0,0:20:06.89,0:20:10.35,Ristorante,MV,0,0,0,,No one charms\Nthe ladies like Vito.
+Dialogue: 0,0:20:06.89,0:20:09.81,Ristorante,MV,0,0,0,,No one charms\Nthe ladies like Vito.
 Dialogue: 0,0:20:10.35,0:20:13.73,Ristorante,MV,0,0,0,,Did he say some sweet things and sweep you off your feet?
 Dialogue: 0,0:20:13.73,0:20:15.61,Ristorante,FV,0,0,0,,Wouldn’t you like to know?
-Dialogue: 0,0:20:15.94,0:20:18.32,Ristorante italic,FV,0,0,0,,I think I figured it out.
+Dialogue: 0,0:20:15.61,0:20:18.32,Ristorante italic,FV,0,0,0,,I think I figured it out.
 Dialogue: 0,0:20:18.32,0:20:22.32,Ristorante italic,FV,0,0,0,,There’s only one\Nperson he truly loves.
 Dialogue: 0,0:20:29.58,0:20:30.79,Ristorante,FV,0,0,0,,Vito.
 Dialogue: 0,0:20:30.79,0:20:34.42,Ristorante,MV,0,0,0,,Oh, you’ll have\Nto excuse me.
