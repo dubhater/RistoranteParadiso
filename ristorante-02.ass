@@ -9,11 +9,11 @@ PlayResY: 478
 ScaledBorderAndShadow: yes
 Video Aspect Ratio: c1.83054
 Video Zoom: 6
-Video Position: 30164
+Video Position: 28611
 Last Style Storage: Default
 Audio URI: ../audio/ristorante-02.mka
-Scroll Position: 272
-Active Line: 277
+Scroll Position: 265
+Active Line: 267
 Video File: ../raws/ristorante-02.mkv
 YCbCr Matrix: TV.601
 Keyframes File: ../avisynth/scxvid/ristorante-scxvid-02.txt
@@ -26,6 +26,7 @@ Style: Ristorante,Fansub,34,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,
 Style: Ristorante italic,Fansub,34,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,82,100,0,0,1,2.5,0,2,100,100,45,1
 Style: Ristorante kara top,MetaPro-BoldItalic,34,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,2.5,0,8,100,100,45,1
 Style: Ristorante kara bottom,MetaPro-BoldItalic,34,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,2.5,0,2,100,100,45,1
+Style: Ristorante overlap,Fansub,34,&H0073FFD9,&H000000FF,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,2.5,0,2,100,100,45,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -43,7 +44,7 @@ Dialogue: 0,0:00:53.36,0:00:53.94,Ristorante,MV,0,0,0,,Waiter!
 Dialogue: 0,0:00:54.45,0:00:55.40,Ristorante,MV,0,0,0,,Yes, sir?
 Dialogue: 0,0:00:57.91,0:01:02.66,Ristorante,MV,0,0,0,,Why do all the employees\Nhere wear spectacles?
 Dialogue: 0,0:01:02.66,0:01:05.54,Ristorante,MV,0,0,0,,Well, that’s this\Nrestaurant’s trademark.
-Dialogue: 0,0:01:05.54,0:01:06.42,Ristorante,MV,0,0,0,,Huh?
+Comment: 0,0:01:05.54,0:01:06.42,Ristorante,MV,0,0,0,,Huh?
 Dialogue: 0,0:01:07.83,0:01:13.42,Ristorante italic,FV,0,0,0,,This mysterious restaurant is on a road just a little ways from the center of Rome.
 Dialogue: 0,0:02:53.44,0:02:54.57,Ristorante,FV,0,0,0,,What are those?
 Dialogue: 0,0:02:54.57,0:02:58.94,Ristorante,MV,0,0,0,,Oh, those are photographs taken when this restaurant opened.
@@ -69,7 +70,7 @@ Dialogue: 0,0:04:02.63,0:04:05.72,Ristorante,FV,0,0,0,,She’s taking care of al
 Dialogue: 0,0:04:05.72,0:04:09.72,Ristorante,FV,0,0,0,,Though she did break her\Npromise to meet and talk.
 Dialogue: 0,0:04:09.72,0:04:12.77,Ristorante,FV,0,0,0,,Well, she is really busy.
 Dialogue: 0,0:04:13.44,0:04:19.40,Ristorante,FV,0,0,0,,Hey, Grandma…\NThere’s a guy I really like.
-Dialogue: 0,0:04:19.40,0:04:23.15,Ristorante,FV,0,0,0,,But I can’t tell if\Nit’s love or what…
+Dialogue: 0,0:04:19.40,0:04:23.15,Ristorante,FV,0,0,0,,But I can’t tell\Nif it’s love or what…
 Dialogue: 0,0:04:23.15,0:04:27.24,Ristorante,FV,0,0,0,,I’m not really good at talking about these sorts of things.
 Dialogue: 0,0:04:27.24,0:04:28.91,Ristorante,FV,0,0,0,,Why don’t you talk to Olga?
 Dialogue: 0,0:04:29.66,0:04:33.75,Ristorante,FV,0,0,0,,She’s your mother, plus you’re all the way there, in Rome.
@@ -126,15 +127,15 @@ Dialogue: 0,0:07:42.31,0:07:44.40,Ristorante,MV,0,0,0,,You can’t just\Nbe here
 Dialogue: 0,0:07:44.40,0:07:46.98,Ristorante,MV,0,0,0,,You’ve got to\Ntake it seriously—
 Dialogue: 0,0:07:46.98,0:07:48.98,Ristorante,FV,0,0,0,,Save the speech,\NI’m already looking!
 Dialogue: 0,0:07:48.98,0:07:50.24,Ristorante,MV,0,0,0,,Looking!
-Dialogue: 0,0:07:50.24,0:07:51.99,Ristorante,FV,0,0,0,,{\an4}Don’t copy me!
-Dialogue: 0,0:07:50.24,0:07:51.99,Ristorante,MV,0,0,0,,Don’t copy her!
+Dialogue: 0,0:07:50.24,0:07:51.99,Ristorante,FV,0,0,0,,Don’t copy me!
+Dialogue: 0,0:07:50.24,0:07:51.99,Ristorante overlap,MV,0,0,0,,Don’t copy her!
 Dialogue: 0,0:07:51.99,0:07:53.36,Ristorante,MV,0,0,0,,Okay!
 Dialogue: 0,0:07:59.58,0:08:01.37,Ristorante,FV,0,0,0,,Claudio’s not coming today?
 Dialogue: 0,0:08:05.33,0:08:09.80,Ristorante,FV,0,0,0,,Maybe, since it’s his day off, he’s treating his wife and kids!
 Dialogue: 0,0:08:09.80,0:08:10.71,Ristorante,FV,0,0,0,,No?
 Dialogue: 0,0:08:12.97,0:08:13.93,Ristorante,FV,0,0,0,,Hey!
 Dialogue: 0,0:08:14.89,0:08:17.39,Ristorante,MV,0,0,0,,Wow, this pasta\Nis actually edible.
-Dialogue: 0,0:08:19.93,0:08:21.23,Ristorante,FV,0,0,0,,What was that all about?
+Dialogue: 0,0:08:19.93,0:08:21.89,Ristorante,FV,0,0,0,,What was that all about?
 Dialogue: 0,0:08:22.85,0:08:27.36,Ristorante,MV,0,0,0,,Sounds like Nicoletta is spending a lot of time at the restaurant.
 Dialogue: 0,0:08:27.36,0:08:31.90,Ristorante,FV,0,0,0,,You never know what to expect from her. She’s still a kid.
 Dialogue: 0,0:08:31.90,0:08:34.40,Ristorante,MV,0,0,0,,Why don’t you invite\Nher over sometime?
@@ -235,8 +236,8 @@ Dialogue: 0,0:15:20.69,0:15:23.27,Ristorante,FV,0,0,0,,But I don’t know\Nwhat 
 Dialogue: 0,0:15:23.27,0:15:25.40,Ristorante,FV,0,0,0,,I don’t know\Nwhat I’d be good at.
 Dialogue: 0,0:15:26.52,0:15:28.74,Ristorante,MV,0,0,0,,You’re good\Nat cooking, miss.
 Dialogue: 0,0:15:32.99,0:15:36.95,Ristorante,FV,0,0,0,,Hey, why’d you go\Nquiet all of a sudden?
-Dialogue: 0,0:15:36.95,0:15:39.25,Ristorante,FV,0,0,0,,Hey, I have a favor to ask.
-Dialogue: 0,0:15:39.25,0:15:40.12,Ristorante,FV,0,0,0,,Huh?
+Dialogue: 0,0:15:36.95,0:15:39.46,Ristorante,FV,0,0,0,,Hey, I have a favor to ask.
+Comment: 0,0:15:39.25,0:15:40.12,Ristorante,FV,0,0,0,,Huh?
 Dialogue: 0,0:15:40.12,0:15:45.84,Ristorante,FV,0,0,0,,If you help me out, I’ll reconsider telling your husband that I’m your daughter.
 Dialogue: 0,0:15:54.30,0:15:57.68,Ristorante,FV,0,0,0,,I’m Nicoletta and I’ll be working as an apprentice here, starting today.
 Dialogue: 0,0:15:57.68,0:15:59.18,Ristorante,FV,0,0,0,,I look forward to\Nworking with you.
@@ -265,13 +266,13 @@ Dialogue: 0,0:17:07.17,0:17:09.09,Ristorante,MV,0,0,0,,Please escort her there.
 Dialogue: 0,0:17:23.27,0:17:24.35,Ristorante,MV,0,0,0,,Umm…
 Dialogue: 0,0:17:24.35,0:17:27.44,Ristorante,FV,0,0,0,,Sorry about last night,\Nfor doing that to you.
 Dialogue: 0,0:17:31.15,0:17:33.69,Ristorante,FV,0,0,0,,But, I want to let you\Nknow that I’m serious.
-Dialogue: 0,0:17:33.69,0:17:35.03,Ristorante,FV,0,0,0,,I don’t regret what I did.
+Dialogue: 0,0:17:33.69,0:17:35.68,Ristorante,FV,0,0,0,,I don’t regret what I did.
 Dialogue: 0,0:17:40.83,0:17:43.58,Ristorante,FV,0,0,0,,It’s fine. I’ll lay off a bit.
 Dialogue: 0,0:17:43.58,0:17:46.33,Ristorante,MV,0,0,0,,Nicoletta, I…
 Dialogue: 0,0:17:46.33,0:17:49.33,Ristorante,FV,0,0,0,,I’m serious about\Nlearning how to cook.
 Dialogue: 0,0:17:49.33,0:17:54.59,Ristorante,FV,0,0,0,,I didn’t start working at the restaurant just because of you.
 Dialogue: 0,0:17:55.09,0:17:58.72,Ristorante,FV,0,0,0,,I want to try and pursue something I may be good at.
-Dialogue: 0,0:17:58.72,0:18:00.85,Ristorante,FV,0,0,0,,I don’t want to\Nalways depend on Olga.
+Dialogue: 0,0:17:58.72,0:18:01.24,Ristorante,FV,0,0,0,,I don’t want to\Nalways depend on Olga.
 Dialogue: 0,0:18:01.81,0:18:04.60,Ristorante,FV,0,0,0,,I want to be truly\Nindependent someday.
 Dialogue: 0,0:18:05.14,0:18:09.02,Ristorante,FV,0,0,0,,Then, I’ll become a great woman,\Nand get back at {\i1}her{\i0}!
 Dialogue: 0,0:18:09.77,0:18:12.65,Ristorante,FV,0,0,0,,I’ve had enough of people\Ntreating me like a kid!
@@ -296,7 +297,7 @@ Dialogue: 0,0:19:25.72,0:19:26.85,Ristorante,MV,0,0,0,,Yes.
 Dialogue: 0,0:19:27.56,0:19:30.73,Ristorante italic,FV,0,0,0,,Well, it is his “ex”-wife.
 Dialogue: 0,0:19:37.86,0:19:39.69,Ristorante,MV,0,0,0,,Good work today, Nicoletta.
 Dialogue: 0,0:19:39.69,0:19:40.82,Ristorante,FV,0,0,0,,See you tomorrow!
-Dialogue: 0,0:19:49.66,0:19:52.79,Ristorante,MV,0,0,0,,When are you going to\Nstop wearing that ring?
+Dialogue: 0,0:19:49.66,0:19:53.33,Ristorante,MV,0,0,0,,When are you going to\Nstop wearing that ring?
 Dialogue: 0,0:19:58.13,0:19:59.96,Ristorante,FV,0,0,0,,I won’t order you\Nto do it, though.
 Dialogue: 0,0:20:05.14,0:20:06.51,Ristorante,FV,0,0,0,,Anyway, see you later.
 Dialogue: 0,0:20:16.90,0:20:20.11,Ristorante,FV,0,0,0,,I’m sorry I interrupted\Nyour conversation.
