@@ -11,11 +11,11 @@ Audio File: pasta05.mp3
 Video File: ../raws/ristorante-05.mkv
 Video Aspect Ratio: c1.83054
 Video Zoom: 5
-Video Position: 29867
+Video Position: 28970
 Last Style Storage: Ristorante
 Audio URI: ../audio/ristorante-05.mka
-Scroll Position: 236
-Active Line: 244
+Scroll Position: 234
+Active Line: 238
 YCbCr Matrix: TV.601
 Keyframes File: ../avisynth/scxvid/ristorante-scxvid-05.txt
 Video Zoom Percent: 1
@@ -40,7 +40,7 @@ Dialogue: 0,0:00:39.77,0:00:42.81,Ristorante,FV,0,0,0,,Sorry to be rude,\Nbut ma
 Dialogue: 0,0:00:51.53,0:00:55.03,Ristorante,FV,0,0,0,,You must have lost someone\Nvery dear to you.
 Dialogue: 0,0:00:59.30,0:01:00.06,Ristorante,FV,0,0,0,,Excuse—
 Dialogue: 0,0:01:00.06,0:01:01.40,Ristorante,FV,0,0,0,,Come on,\Nwe’re ready to leave.
-Dialogue: 0,0:01:02.07,0:01:04.79,Ristorante,FV,0,0,0,,We have to mail all\Nthe invitations out today.
+Dialogue: 0,0:01:02.07,0:01:04.79,Ristorante,FV,0,0,0,,We have to mail out\Nall the invitations today.
 Dialogue: 0,0:02:49.39,0:02:56.11,Ristorante italic,FV,0,0,0,,This mysterious restaurant is on a road just a little ways from the center of Rome.
 Dialogue: 0,0:02:59.32,0:03:01.07,Ristorante,MV,0,0,0,,Buonasera.
 Dialogue: 0,0:03:01.07,0:03:02.70,Ristorante,MV,0,0,0,,We’ve been expecting you.
@@ -141,9 +141,9 @@ Dialogue: 0,0:09:48.52,0:09:53.48,Ristorante,MV,0,0,0,,This was actually a gift 
 Dialogue: 0,0:09:55.24,0:09:58.91,Ristorante,FV,0,0,0,,Yes, I’m blessed to have met such a wonderful husband.
 Dialogue: 0,0:09:58.91,0:09:59.87,Ristorante,MV,0,0,0,,Indeed.
 Dialogue: 0,0:10:02.37,0:10:03.70,Ristorante,FV,0,0,0,,Thank you.
-Dialogue: 0,0:10:07.71,0:10:11.67,Ristorante,FV,0,0,0,,Umm, so Gigi and\Nyour mother, she…
+Dialogue: 0,0:10:07.71,0:10:11.67,Ristorante,FV,0,0,0,,Umm, so your mother, she…
 Dialogue: 0,0:10:11.67,0:10:13.96,Ristorante,MV,0,0,0,,Yes, she passed away.
-Dialogue: 0,0:10:13.96,0:10:17.30,Ristorante,MV,0,0,0,,Well before Gigi\Nand I ever met her.
+Dialogue: 0,0:10:13.96,0:10:17.30,Ristorante,MV,0,0,0,,Well before Gigi\Nand I ever met.
 Dialogue: 0,0:10:20.01,0:10:23.76,Ristorante,MV,0,0,0,,My uncle never forgave\Nmy father for what he did.
 Dialogue: 0,0:10:23.76,0:10:28.81,Ristorante,MV,0,0,0,,He said that by sleeping with his own brother’s wife, he severed all familial ties.
 Dialogue: 0,0:10:29.27,0:10:32.81,Ristorante,MV,0,0,0,,He cut all ties with me, that stupid older brother of mine.
@@ -153,7 +153,7 @@ Dialogue: 0,0:10:45.58,0:10:48.83,Ristorante,MV,0,0,0,,Gigi, really? I see.
 Dialogue: 0,0:10:49.41,0:10:53.42,Ristorante,MV,0,0,0,,I’m going to stop by the restaurant where he works, Dad.
 Dialogue: 0,0:10:55.71,0:10:58.59,Ristorante,MV,0,0,0,,Then, I have\Na favor to ask you.
 Dialogue: 0,0:11:09.52,0:11:11.27,Ristorante,MV,0,0,0,,Hey there, big bro.
-Dialogue: 0,0:11:13.40,0:11:15.23,Ristorante,MV,0,0,0,,My dad had\Na message for you.
+Dialogue: 0,0:11:13.40,0:11:15.23,Ristorante,MV,0,0,0,,My dad has\Na message for you.
 Dialogue: 0,0:11:15.94,0:11:17.98,Ristorante,MV,0,0,0,,“Stop by anytime for a drink.”
 Dialogue: 0,0:11:25.28,0:11:27.29,Ristorante,MV,0,0,0,,Look how you’ve grown.
 Dialogue: 0,0:11:28.20,0:11:31.96,Ristorante,MV,0,0,0,,Seems he took\Na liking to our winery.
@@ -228,7 +228,7 @@ Dialogue: 0,0:16:17.33,0:16:19.33,Ristorante,FV,0,0,0,,So you understand, right?
 Dialogue: 0,0:16:20.37,0:16:24.25,Ristorante italic,FV,0,0,0,,I think I understand why\Nthe owner opposes that.
 Dialogue: 0,0:16:26.17,0:16:28.04,Ristorante italic,FV,0,0,0,,His parents were like that…
 Dialogue: 0,0:16:28.04,0:16:32.55,Ristorante italic,FV,0,0,0,,And two brothers with the same woman… I’d better stop this train of thought.
-Dialogue: 0,0:16:32.55,0:16:37.51,Ristorante italic,FV,0,0,0,,He just doesn’t want the same thing to happen again.
+Dialogue: 0,0:16:32.55,0:16:37.51,Ristorante italic,FV,0,0,0,,He just doesn’t want the\Nsame thing to happen again.
 Dialogue: 0,0:16:43.89,0:16:47.44,Ristorante,FV,0,0,0,,That label… That bottle’s from the owner’s winery, isn’t it?
 Dialogue: 0,0:16:56.07,0:16:57.45,Ristorante,FV,0,0,0,,For me?
 Dialogue: 0,0:17:03.08,0:17:04.29,Ristorante,FV,0,0,0,,It’s delicious!
@@ -238,7 +238,7 @@ Dialogue: 0,0:17:14.67,0:17:15.80,Ristorante,FV,0,0,0,,Oh!
 Dialogue: 0,0:17:16.18,0:17:18.97,Ristorante,FV,0,0,0,,Grazie! Thanks for tonight!
 Dialogue: 0,0:17:18.97,0:17:21.47,Ristorante,FV,0,0,0,,Oh, right. I wanted to tell\Nyou what happened…
 Dialogue: 0,0:17:21.89,0:17:24.48,Ristorante,FV,0,0,0,,She sure is a lively one.
-Dialogue: 0,0:17:25.77,0:17:27.69,Ristorante,MV,0,0,0,,You’re her daughter,\Naren’t you?
+Dialogue: 0,0:17:25.77,0:17:26.98,Ristorante,MV,0,0,0,,You’re her daughter,\Naren’t you?
 Dialogue: 0,0:17:28.61,0:17:31.52,Ristorante italic,FV,0,0,0,,Claudio wouldn’t\Nhave told him…
 Dialogue: 0,0:17:33.61,0:17:36.49,Ristorante,FV,0,0,0,,Why do you say that?\NWe don’t look alike at all.
 Dialogue: 0,0:17:38.03,0:17:39.49,Ristorante,MV,0,0,0,,You share the same smile.
@@ -266,9 +266,9 @@ Dialogue: 0,0:19:42.36,0:19:47.49,Ristorante,FV,0,0,0,,Hi. I’m sorry\Nabout th
 Dialogue: 0,0:19:47.91,0:19:50.50,Ristorante,FV,0,0,0,,We’re going to live\Ntogether in Palermo.
 Dialogue: 0,0:19:51.08,0:19:56.29,Ristorante,FV,0,0,0,,So, I don’t think you’ll\Nsee me there very often.
 Dialogue: 0,0:19:56.71,0:19:58.30,Ristorante,MV,0,0,0,,How does she\Nknow this man?
-Dialogue: 0,0:19:58.55,0:20:03.97,Ristorante,FV,0,0,0,,I see him quite a bit. Whenever we’re visiting the cemetery.
-Dialogue: 0,0:20:05.09,0:20:08.14,Ristorante,FV,0,0,0,,I don’t want\Nmy father to be lonely,
-Dialogue: 0,0:20:08.51,0:20:12.56,Ristorante,FV,0,0,0,,but am I being a bad daughter for moving so far away?
+Dialogue: 0,0:19:58.30,0:20:03.97,Ristorante,FV,0,0,0,,I see him quite a bit. Whenever we’re visiting the cemetery.
+Dialogue: 0,0:20:05.09,0:20:08.26,Ristorante,FV,0,0,0,,I don’t want\Nmy father to be lonely,
+Dialogue: 0,0:20:08.26,0:20:12.56,Ristorante,FV,0,0,0,,but am I being a bad daughter for moving so far away?
 Dialogue: 0,0:20:12.94,0:20:14.81,Ristorante,MV,0,0,0,,Not at all.
 Dialogue: 0,0:20:15.48,0:20:17.27,Ristorante,MV,0,0,0,,I’m sure he’s happy for you,
 Dialogue: 0,0:20:18.32,0:20:19.78,Ristorante,MV,0,0,0,,up in heaven.
