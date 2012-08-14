@@ -14,12 +14,12 @@ Video File: ../raws/ristorante-08.mkv
 Video Aspect Ratio: c1.83054
 Video Zoom: 5
 Audio URI: ../audio/ristorante-08.mka
-Scroll Position: 105
-Active Line: 111
+Scroll Position: 157
+Active Line: 161
 YCbCr Matrix: TV.601
 Keyframes File: ../avisynth/scxvid/ristorante-scxvid-08.txt
 Video Zoom Percent: 1
-Video Position: 12015
+Video Position: 17789
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -35,11 +35,11 @@ Comment: 1,0:00:00.00,0:23:40.82,Ristorante,,1,0,1,,{\an7\bord1\3c&HFFFFFF&\p1}m
 Comment: 2,0:00:00.00,0:23:40.82,Ristorante,,1,1,1,,{\an7\bord1\3c&H000000&\p1}m 255 360 l 255 470 m 621 360 l 621 470{\p0}
 Comment: 0,0:03:47.62,0:03:52.54,Ristorante,Sign,0,0,0,,Days of Yore
 Comment: 0,0:20:41.71,0:21:00.44,Ristorante,Sign,0,0,0,,Day Off from the Ristorante
-Dialogue: 0,0:00:01.52,0:00:07.36,Ristorante signs franklin gothic medium,Sign,0,0,0,,{\pos(438,344)\c&HEAF3ED&\be1\3c&H2A3332&\fad(800,800)}A few years prior
+Dialogue: 0,0:00:01.52,0:00:07.36,Ristorante signs franklin gothic medium,Sign,0,0,0,,{\pos(438,344)\c&HEBEBEA&\3c&H3C3E42&\be1\fad(800,800)}A few years prior
 Dialogue: 0,0:00:01.10,0:00:03.48,Ristorante,FV,0,0,0,,These are the glasses\Nyou’d wear for show?
 Dialogue: 0,0:00:04.40,0:00:08.73,Ristorante,FV,0,0,0,,Mr. Rizzo introduced you\Nto quite the restaurant.
 Dialogue: 0,0:00:08.73,0:00:11.11,Ristorante,MV,0,0,0,,But it looks like a nice place.
-Dialogue: 0,0:00:11.11,0:00:13.95,Ristorante,MV,0,0,0,,And I really like Claudio, the man who gave these glasses to me.
+Dialogue: 0,0:00:11.11,0:00:14.45,Ristorante,MV,0,0,0,,And I really like Claudio, the man who gave these glasses to me.
 Dialogue: 0,0:00:14.45,0:00:16.41,Ristorante,MV,0,0,0,,He’s a real gentleman.
 Dialogue: 0,0:00:17.45,0:00:18.95,Ristorante,FV,0,0,0,,Claudio?
 Dialogue: 0,0:00:22.12,0:00:23.46,Ristorante,MV,0,0,0,,Furio,
@@ -51,7 +51,7 @@ Dialogue: 0,0:00:39.47,0:00:40.77,Ristorante,MV,0,0,0,,Very well, then.
 Dialogue: 0,0:00:43.02,0:00:46.90,Ristorante,MV,0,0,0,,So? Have you gotten used\Nto the restaurant yet?
 Dialogue: 0,0:00:46.90,0:00:48.81,Ristorante,MV,0,0,0,,Yes, I certainly have.
 Dialogue: 0,0:00:48.81,0:00:52.94,Ristorante,MV,0,0,0,,This place has fewer staff than the other places I’ve worked, so I find it easier.
-Dialogue: 0,0:00:52.94,0:00:56.86,Ristorante,MV,0,0,0,,What about the fact so many aspiring chefs come here wanting to train
+Dialogue: 0,0:00:52.94,0:00:56.86,Ristorante,MV,0,0,0,,What about the fact that so many\Naspiring chefs come here wanting to train
 Dialogue: 0,0:00:56.86,0:00:58.70,Ristorante,MV,0,0,0,,because they’ve heard\Nyou’re employed here?
 Dialogue: 0,0:00:58.70,0:01:00.41,Ristorante,MV,0,0,0,,Now, I don’t know\Nabout all that.
 Dialogue: 0,0:01:01.04,0:01:04.21,Ristorante,MV,0,0,0,,Just let me know if anything\Never bothers you.
@@ -85,8 +85,8 @@ Dialogue: 0,0:04:18.98,0:04:22.53,Ristorante,MV,0,0,0,,Don’t worry about it. T
 Dialogue: 0,0:04:23.86,0:04:28.03,Ristorante,MV,0,0,0,,Since these were the keepsake that you so kindly gave to me, and all.
 Dialogue: 0,0:04:31.04,0:04:33.79,Ristorante,MV,0,0,0,,Thank you for\Neven considering that.
 Dialogue: 0,0:04:35.71,0:04:37.88,Ristorante,FV,0,0,0,,Wait, could those glasses be…
-Dialogue: 0,0:04:37.88,0:04:45.93,Ristorante,MV,0,0,0,,Yes, Claudio gave them as a gift to Furio when he first started here.
-Dialogue: 0,0:04:45.93,0:04:47.14,Ristorante,FV,0,0,0,,What?
+Dialogue: 0,0:04:37.88,0:04:45.93,Ristorante,MV,0,0,0,,Yes, Claudio gave them as a gift\Nto Furio when he first started here.
+Comment: 0,0:04:45.93,0:04:47.14,Ristorante,FV,0,0,0,,What?
 Dialogue: 0,0:04:47.68,0:04:51.43,Ristorante,FV,0,0,0,,I’m sorry, you two… Umm… I…
 Dialogue: 0,0:04:51.43,0:04:53.93,Ristorante,MV,0,0,0,,Don’t worry about it.
 Dialogue: 0,0:04:53.93,0:04:56.31,Ristorante,MV,0,0,0,,Now hurry up\Nand pick the herbs.
@@ -99,7 +99,7 @@ Dialogue: 0,0:05:19.42,0:05:24.17,Ristorante,MV,0,0,0,,Oh, right. Angela said sh
 Dialogue: 0,0:05:24.17,0:05:26.05,Ristorante,MV,0,0,0,,Think you can keep\Na table open for her?
 Dialogue: 0,0:05:27.43,0:05:31.26,Ristorante,MV,0,0,0,,Sure. I’m pretty sure\Nwe had a cancellation.
 Dialogue: 0,0:05:31.26,0:05:34.56,Ristorante,MV,0,0,0,,If you’d like, I can\Nprepare her usual table.
-Dialogue: 0,0:05:34.85,0:05:36.23,Ristorante,MV,0,0,0,,Grazie.
+Dialogue: 0,0:05:34.56,0:05:36.23,Ristorante,MV,0,0,0,,Grazie.
 Dialogue: 0,0:05:36.23,0:05:38.56,Ristorante,MV,0,0,0,,Is she coming alone? Or…
 Dialogue: 0,0:05:38.56,0:05:41.02,Ristorante,MV,0,0,0,,It sounds like she’s coming\Nwith some old friends.
 Dialogue: 0,0:05:41.02,0:05:43.07,Ristorante,MV,0,0,0,,She said it’ll be\Na party of three.
@@ -135,24 +135,24 @@ Dialogue: 0,0:07:38.68,0:07:40.35,Ristorante,MV,0,0,0,,That was cruel, Furio.
 Dialogue: 0,0:07:40.98,0:07:43.15,Ristorante,MV,0,0,0,,You didn’t mention\N{\i1}he{\i0}’d be here.
 Dialogue: 0,0:07:43.98,0:07:46.06,Ristorante,MV,0,0,0,,Why, whatever do you mean?
 Dialogue: 0,0:07:46.77,0:07:50.19,Ristorante,MV,0,0,0,,Okay, this is done.\NPlease take it out there.
-Dialogue: 0,0:07:54.24,0:07:56.24,Ristorante,MV,0,0,0,,I don’t see\Nyour hands moving!
+Dialogue: 0,0:07:53.91,0:07:56.24,Ristorante,MV,0,0,0,,I don’t see\Nyour hands moving!
 Dialogue: 0,0:07:56.24,0:07:57.37,Ristorante,MV,0,0,0,,Get the next plate ready.
 Dialogue: 0,0:07:57.37,0:07:58.74,Ristorante,FV,0,0,0,,Oh, right.
 Dialogue: 0,0:08:02.16,0:08:04.25,Ristorante,FV,0,0,0,,I’m so sorry!
 Dialogue: 0,0:08:04.25,0:08:06.34,Ristorante,MV,0,0,0,,Damn it. Focus on your work!
 Dialogue: 0,0:08:10.84,0:08:12.63,Ristorante italic,MV,0,0,0,,Time flies.
 Dialogue: 0,0:08:13.59,0:08:16.76,Ristorante italic,MV,0,0,0,,Has it really been over\Ntwenty years already?
-Dialogue: 0,0:08:17.89,0:08:21.14,Ristorante signs franklin gothic medium,Sign,0,0,0,,{\pos(438,344)\c&HECE4E9&\be1\3c&H2A3332&\fad(500,0)}The good old day{\fsp3.}s…
+Dialogue: 0,0:08:17.89,0:08:21.14,Ristorante signs franklin gothic medium,Sign,0,0,0,,{\pos(438,344)\c&HE4D9E1&\be1\3c&H303938&\fad(500,0)}The good old day{\fsp3}s…
 Dialogue: 0,0:08:23.48,0:08:25.48,Ristorante,MV,0,0,0,,I deeply apologize.
 Dialogue: 0,0:08:25.48,0:08:26.61,Ristorante,MV,0,0,0,,Claudio!
 Dialogue: 0,0:08:26.61,0:08:27.94,Ristorante,MV,0,0,0,,Back off.
 Dialogue: 0,0:08:28.77,0:08:31.19,Ristorante,MV,0,0,0,,I’m sincerely sorry\Nabout that, Madam.
-Dialogue: 0,0:08:31.19,0:08:34.15,Ristorante,MV,0,0,0,,I can’t believe he’d do such a thing to Mrs. Rossi,\None of this hotel’s best patrons.
+Dialogue: 0,0:08:31.19,0:08:34.15,Ristorante,MV,0,0,0,,I can’t believe he’d do such a thing to\NMrs. Rossi, one of this hotel’s best patrons.
 Dialogue: 0,0:08:34.57,0:08:35.82,Ristorante,FV,0,0,0,,All is forgiven.
-Dialogue: 0,0:08:44.62,0:08:48.79,Ristorante,MV,0,0,0,,Claudio, Mrs. Rossi, from before, has asked you to come to her room.
+Dialogue: 0,0:08:44.62,0:08:48.79,Ristorante,MV,0,0,0,,Claudio, Mrs. Rossi{, from before,} has asked you to come to her room.
 Dialogue: 0,0:08:48.79,0:08:50.67,Ristorante,MV,0,0,0,,She’s in room 1201.
 Dialogue: 0,0:08:50.67,0:08:53.01,Ristorante,MV,0,0,0,,But, sir…
-Dialogue: 0,0:08:53.01,0:08:54.76,Ristorante,MV,0,0,0,,Go and get your\Ntongue lashing.
+Dialogue: 0,0:08:53.01,0:08:55.18,Ristorante,MV,0,0,0,,Go and get your\Ntongue lashing.
 Dialogue: 0,0:08:56.68,0:09:00.93,Ristorante,MV,0,0,0,,Ma’am, I sincerely\Napologize for before.
 Dialogue: 0,0:09:04.77,0:09:06.85,Ristorante,FV,0,0,0,,Stop apologizing.
 Dialogue: 0,0:09:07.31,0:09:09.02,Ristorante,FV,0,0,0,,Relax.
@@ -192,7 +192,7 @@ Dialogue: 0,0:12:04.61,0:12:09.29,Ristorante,MV,0,0,0,,And I heard he’s being 
 Dialogue: 0,0:12:10.20,0:12:11.71,Ristorante italic,MV,0,0,0,,Wow…
 Dialogue: 0,0:12:12.29,0:12:13.87,Ristorante italic,MV,0,0,0,,He’s amazing.
 Dialogue: 0,0:12:16.00,0:12:20.13,Ristorante italic,MV,0,0,0,,He’s younger than I am and yet he’s made such a name for himself.
-Dialogue: 0,0:12:20.13,0:12:21.80,Ristorante italic,MV,0,0,0,,He’s well respected, too.
+Dialogue: 0,0:12:20.13,0:12:21.97,Ristorante italic,MV,0,0,0,,He’s well respected, too.
 Dialogue: 0,0:12:26.43,0:12:30.10,Ristorante italic,MV,0,0,0,,Maybe I should give up\Non this cameriere thing.
 Dialogue: 0,0:12:47.53,0:12:50.79,Ristorante italic,MV,0,0,0,,Should I quit\Nbeing a cameriere?
 Dialogue: 0,0:12:51.54,0:12:54.33,Ristorante italic,MV,0,0,0,,Though I’ve only been\Nat it a few weeks.
