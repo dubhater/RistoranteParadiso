@@ -294,7 +294,7 @@ Dialogue: 0,0:19:11.50,0:19:13.21,Ristorante,MV,0,0,0,,Stay out of sight.
 Dialogue: 0,0:19:19.92,0:19:22.89,Ristorante italic,FV,0,0,0,,She has such beautiful skin.
 Dialogue: 0,0:19:23.93,0:19:25.72,Ristorante,FV,0,0,0,,That’s his ex-wife?
 Dialogue: 0,0:19:25.72,0:19:26.85,Ristorante,MV,0,0,0,,Yes.
-Dialogue: 0,0:19:27.56,0:19:30.73,Ristorante italic,FV,0,0,0,,Well, it is his “ex”-wife.
+Dialogue: 0,0:19:27.56,0:19:30.73,Ristorante italic,FV,0,0,0,,Well, it is his {\i0}ex{\i1}-wife.
 Dialogue: 0,0:19:37.86,0:19:39.69,Ristorante,MV,0,0,0,,Good work today, Nicoletta.
 Dialogue: 0,0:19:39.69,0:19:40.82,Ristorante,FV,0,0,0,,See you tomorrow!
 Dialogue: 0,0:19:49.66,0:19:53.33,Ristorante,MV,0,0,0,,When are you going to\Nstop wearing that ring?
